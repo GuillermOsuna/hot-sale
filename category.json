@@ -1,0 +1,17 @@
+{
+    "titulo": "Categorías",
+	"items": [
+		{
+            "text": "categoria 1",
+            "url": "coppel.com"
+        },
+        {
+            "text": "categoria 2",
+            "url": "coppel.com"
+        },
+        {
+            "text": "categoria 2",
+            "url": "coppel.com"
+		}
+	]
+}

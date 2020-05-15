@@ -1,0 +1,2499 @@
+<!doctype html>
+<html amp lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>My AMP Page</title>
+    <link rel="canonical" href="self.html" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript>
+        <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style>
+    </noscript>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <!-- AMP Carrusel -->
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
+    <!-- AMP mega menu -->
+    <script async custom-element="amp-mega-menu" src="https://cdn.ampproject.org/v0/amp-mega-menu-0.1.js"></script>
+    <!-- AMP SideBar -->
+    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+    <!-- AMP Bind -->
+    <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+    <!-- AMP FORM -->
+    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+
+    <!-- AMP Mustache -->
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+    <!-- AMP List -->
+    <script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+    <meta name="amp-script-src" content="sha384-ca3XiU8XueX_pavNyW6vRWzgDEJE-GGC5mD2WkiHqENVoMqT9KWQPJT-wsEI6QvN" />
+    <style amp-custom>
+        html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0; background: #edeef2;}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:0.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace, monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type="checkbox"],input[type="radio"]{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}input[type="search"]{-webkit-appearance:textfield;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:rgba(0,0,0,0)}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#edeef2}input,button,select,textarea{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:hover,a:focus{color:#23527c;text-decoration:underline}a:focus{outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}figure{margin:0}img{vertical-align:middle}.img-responsive{display:block;max-width:100%;height:auto}.img-rounded{border-radius:6px}.img-thumbnail{padding:4px;line-height:1.42857143;background-color:#fff;border:1px solid #ddd;border-radius:4px;-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out;display:inline-block;max-width:100%;height:auto}.img-circle{border-radius:50%}hr{margin-top:20px;margin-bottom:20px;border:0;border-top:1px solid #eee}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);border:0}.sr-only-focusable:active,.sr-only-focusable:focus{position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto}[role="button"]{cursor:pointer}code,kbd,pre,samp{font-family:Menlo,Monaco,Consolas,"Courier New",monospace}code{padding:2px 4px;font-size:90%;color:#c7254e;background-color:#f9f2f4;border-radius:4px}kbd{padding:2px 4px;font-size:90%;color:#fff;background-color:#333;border-radius:3px;-webkit-box-shadow:inset 0 -1px 0 rgba(0,0,0,0.25);box-shadow:inset 0 -1px 0 rgba(0,0,0,0.25)}kbd kbd{padding:0;font-size:100%;font-weight:700;-webkit-box-shadow:none;box-shadow:none}pre{display:block;padding:9.5px;margin:0 0 10px;font-size:13px;line-height:1.42857143;color:#333;word-break:break-all;word-wrap:break-word;background-color:#f5f5f5;border:1px solid #ccc;border-radius:4px}pre code{padding:0;font-size:inherit;color:inherit;white-space:pre-wrap;background-color:transparent;border-radius:0}.pre-scrollable{max-height:340px;overflow-y:scroll}.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.row{margin-right:-15px;margin-left:-15px}.row-no-gutters{margin-right:0;margin-left:0}.row-no-gutters [class*="col-"]{padding-right:0;padding-left:0}.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12{position:relative;min-height:1px;padding-right:15px;padding-left:15px}.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12{float:left}.col-xs-12{width:100%}.col-xs-11{width:91.66666667%}.col-xs-10{width:83.33333333%}.col-xs-9{width:75%}.col-xs-8{width:66.66666667%}.col-xs-7{width:58.33333333%}.col-xs-6{width:50%}.col-xs-5{width:41.66666667%}.col-xs-4{width:33.33333333%}.col-xs-3{width:25%}.col-xs-2{width:16.66666667%}.col-xs-1{width:8.33333333%}.col-xs-pull-12{right:100%}.col-xs-pull-11{right:91.66666667%}.col-xs-pull-10{right:83.33333333%}.col-xs-pull-9{right:75%}.col-xs-pull-8{right:66.66666667%}.col-xs-pull-7{right:58.33333333%}.col-xs-pull-6{right:50%}.col-xs-pull-5{right:41.66666667%}.col-xs-pull-4{right:33.33333333%}.col-xs-pull-3{right:25%}.col-xs-pull-2{right:16.66666667%}.col-xs-pull-1{right:8.33333333%}.col-xs-pull-0{right:auto}.col-xs-push-12{left:100%}.col-xs-push-11{left:91.66666667%}.col-xs-push-10{left:83.33333333%}.col-xs-push-9{left:75%}.col-xs-push-8{left:66.66666667%}.col-xs-push-7{left:58.33333333%}.col-xs-push-6{left:50%}.col-xs-push-5{left:41.66666667%}.col-xs-push-4{left:33.33333333%}.col-xs-push-3{left:25%}.col-xs-push-2{left:16.66666667%}.col-xs-push-1{left:8.33333333%}.col-xs-push-0{left:auto}.col-xs-offset-12{margin-left:100%}.col-xs-offset-11{margin-left:91.66666667%}.col-xs-offset-10{margin-left:83.33333333%}.col-xs-offset-9{margin-left:75%}.col-xs-offset-8{margin-left:66.66666667%}.col-xs-offset-7{margin-left:58.33333333%}.col-xs-offset-6{margin-left:50%}.col-xs-offset-5{margin-left:41.66666667%}.col-xs-offset-4{margin-left:33.33333333%}.col-xs-offset-3{margin-left:25%}.col-xs-offset-2{margin-left:16.66666667%}.col-xs-offset-1{margin-left:8.33333333%}.col-xs-offset-0{margin-left:0}@media (min-width:768px){.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12{float:left}.col-sm-12{width:100%}.col-sm-11{width:91.66666667%}.col-sm-10{width:83.33333333%}.col-sm-9{width:75%}.col-sm-8{width:66.66666667%}.col-sm-7{width:58.33333333%}.col-sm-6{width:50%}.col-sm-5{width:41.66666667%}.col-sm-4{width:33.33333333%}.col-sm-3{width:25%}.col-sm-2{width:16.66666667%}.col-sm-1{width:8.33333333%}.col-sm-pull-12{right:100%}.col-sm-pull-11{right:91.66666667%}.col-sm-pull-10{right:83.33333333%}.col-sm-pull-9{right:75%}.col-sm-pull-8{right:66.66666667%}.col-sm-pull-7{right:58.33333333%}.col-sm-pull-6{right:50%}.col-sm-pull-5{right:41.66666667%}.col-sm-pull-4{right:33.33333333%}.col-sm-pull-3{right:25%}.col-sm-pull-2{right:16.66666667%}.col-sm-pull-1{right:8.33333333%}.col-sm-pull-0{right:auto}.col-sm-push-12{left:100%}.col-sm-push-11{left:91.66666667%}.col-sm-push-10{left:83.33333333%}.col-sm-push-9{left:75%}.col-sm-push-8{left:66.66666667%}.col-sm-push-7{left:58.33333333%}.col-sm-push-6{left:50%}.col-sm-push-5{left:41.66666667%}.col-sm-push-4{left:33.33333333%}.col-sm-push-3{left:25%}.col-sm-push-2{left:16.66666667%}.col-sm-push-1{left:8.33333333%}.col-sm-push-0{left:auto}.col-sm-offset-12{margin-left:100%}.col-sm-offset-11{margin-left:91.66666667%}.col-sm-offset-10{margin-left:83.33333333%}.col-sm-offset-9{margin-left:75%}.col-sm-offset-8{margin-left:66.66666667%}.col-sm-offset-7{margin-left:58.33333333%}.col-sm-offset-6{margin-left:50%}.col-sm-offset-5{margin-left:41.66666667%}.col-sm-offset-4{margin-left:33.33333333%}.col-sm-offset-3{margin-left:25%}.col-sm-offset-2{margin-left:16.66666667%}.col-sm-offset-1{margin-left:8.33333333%}.col-sm-offset-0{margin-left:0}}@media (min-width:992px){.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12{float:left}.col-md-12{width:100%}.col-md-11{width:91.66666667%}.col-md-10{width:83.33333333%}.col-md-9{width:75%}.col-md-8{width:66.66666667%}.col-md-7{width:58.33333333%}.col-md-6{width:50%}.col-md-5{width:41.66666667%}.col-md-4{width:33.33333333%}.col-md-3{width:25%}.col-md-2{width:16.66666667%}.col-md-1{width:8.33333333%}.col-md-pull-12{right:100%}.col-md-pull-11{right:91.66666667%}.col-md-pull-10{right:83.33333333%}.col-md-pull-9{right:75%}.col-md-pull-8{right:66.66666667%}.col-md-pull-7{right:58.33333333%}.col-md-pull-6{right:50%}.col-md-pull-5{right:41.66666667%}.col-md-pull-4{right:33.33333333%}.col-md-pull-3{right:25%}.col-md-pull-2{right:16.66666667%}.col-md-pull-1{right:8.33333333%}.col-md-pull-0{right:auto}.col-md-push-12{left:100%}.col-md-push-11{left:91.66666667%}.col-md-push-10{left:83.33333333%}.col-md-push-9{left:75%}.col-md-push-8{left:66.66666667%}.col-md-push-7{left:58.33333333%}.col-md-push-6{left:50%}.col-md-push-5{left:41.66666667%}.col-md-push-4{left:33.33333333%}.col-md-push-3{left:25%}.col-md-push-2{left:16.66666667%}.col-md-push-1{left:8.33333333%}.col-md-push-0{left:auto}.col-md-offset-12{margin-left:100%}.col-md-offset-11{margin-left:91.66666667%}.col-md-offset-10{margin-left:83.33333333%}.col-md-offset-9{margin-left:75%}.col-md-offset-8{margin-left:66.66666667%}.col-md-offset-7{margin-left:58.33333333%}.col-md-offset-6{margin-left:50%}.col-md-offset-5{margin-left:41.66666667%}.col-md-offset-4{margin-left:33.33333333%}.col-md-offset-3{margin-left:25%}.col-md-offset-2{margin-left:16.66666667%}.col-md-offset-1{margin-left:8.33333333%}.col-md-offset-0{margin-left:0}}@media (min-width:1200px){.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12{float:left}.col-lg-12{width:100%}.col-lg-11{width:91.66666667%}.col-lg-10{width:83.33333333%}.col-lg-9{width:75%}.col-lg-8{width:66.66666667%}.col-lg-7{width:58.33333333%}.col-lg-6{width:50%}.col-lg-5{width:41.66666667%}.col-lg-4{width:33.33333333%}.col-lg-3{width:25%}.col-lg-2{width:16.66666667%}.col-lg-1{width:8.33333333%}.col-lg-pull-12{right:100%}.col-lg-pull-11{right:91.66666667%}.col-lg-pull-10{right:83.33333333%}.col-lg-pull-9{right:75%}.col-lg-pull-8{right:66.66666667%}.col-lg-pull-7{right:58.33333333%}.col-lg-pull-6{right:50%}.col-lg-pull-5{right:41.66666667%}.col-lg-pull-4{right:33.33333333%}.col-lg-pull-3{right:25%}.col-lg-pull-2{right:16.66666667%}.col-lg-pull-1{right:8.33333333%}.col-lg-pull-0{right:auto}.col-lg-push-12{left:100%}.col-lg-push-11{left:91.66666667%}.col-lg-push-10{left:83.33333333%}.col-lg-push-9{left:75%}.col-lg-push-8{left:66.66666667%}.col-lg-push-7{left:58.33333333%}.col-lg-push-6{left:50%}.col-lg-push-5{left:41.66666667%}.col-lg-push-4{left:33.33333333%}.col-lg-push-3{left:25%}.col-lg-push-2{left:16.66666667%}.col-lg-push-1{left:8.33333333%}.col-lg-push-0{left:auto}.col-lg-offset-12{margin-left:100%}.col-lg-offset-11{margin-left:91.66666667%}.col-lg-offset-10{margin-left:83.33333333%}.col-lg-offset-9{margin-left:75%}.col-lg-offset-8{margin-left:66.66666667%}.col-lg-offset-7{margin-left:58.33333333%}.col-lg-offset-6{margin-left:50%}.col-lg-offset-5{margin-left:41.66666667%}.col-lg-offset-4{margin-left:33.33333333%}.col-lg-offset-3{margin-left:25%}.col-lg-offset-2{margin-left:16.66666667%}.col-lg-offset-1{margin-left:8.33333333%}.col-lg-offset-0{margin-left:0}}.embed-responsive{position:relative;display:block;height:0;padding:0;overflow:hidden}.embed-responsive .embed-responsive-item,.embed-responsive iframe,.embed-responsive embed,.embed-responsive object,.embed-responsive video{position:absolute;top:0;bottom:0;left:0;width:100%;height:100%;border:0}.embed-responsive-16by9{padding-bottom:56.25%}.embed-responsive-4by3{padding-bottom:75%}.clearfix:before,.clearfix:after,.container:before,.container:after,.container-fluid:before,.container-fluid:after,.row:before,.row:after{display:table;content:" "}.clearfix:after,.container:after,.container-fluid:after,.row:after{clear:both}.center-block{display:block;margin-right:auto;margin-left:auto}.pull-right{float:right }.pull-left{float:left }.hide{display:none }.show{display:block }.invisible{visibility:hidden}.text-hide{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0}.hidden{display:none }.affix{position:fixed}.visible-xs,.visible-sm,.visible-md,.visible-lg{display:none }.visible-xs-block,.visible-xs-inline,.visible-xs-inline-block,.visible-sm-block,.visible-sm-inline,.visible-sm-inline-block,.visible-md-block,.visible-md-inline,.visible-md-inline-block,.visible-lg-block,.visible-lg-inline,.visible-lg-inline-block{display:none }@media (max-width:767px){.visible-xs{display:block }table.visible-xs{display:table }tr.visible-xs{display:table-row }th.visible-xs,td.visible-xs{display:table-cell }}@media (max-width:767px){.visible-xs-block{display:block }}@media (max-width:767px){.visible-xs-inline{display:inline }}@media (max-width:767px){.visible-xs-inline-block{display:inline-block }}@media (min-width:768px) and (max-width:991px){.visible-sm{display:block }table.visible-sm{display:table }tr.visible-sm{display:table-row }th.visible-sm,td.visible-sm{display:table-cell }}@media (min-width:768px) and (max-width:991px){.visible-sm-block{display:block }}@media (min-width:768px) and (max-width:991px){.visible-sm-inline{display:inline }}@media (min-width:768px) and (max-width:991px){.visible-sm-inline-block{display:inline-block }}@media (min-width:992px) and (max-width:1199px){.visible-md{display:block }table.visible-md{display:table }tr.visible-md{display:table-row }th.visible-md,td.visible-md{display:table-cell }}@media (min-width:992px) and (max-width:1199px){.visible-md-block{display:block }}@media (min-width:992px) and (max-width:1199px){.visible-md-inline{display:inline }}@media (min-width:992px) and (max-width:1199px){.visible-md-inline-block{display:inline-block }}@media (min-width:1200px){.visible-lg{display:block }table.visible-lg{display:table }tr.visible-lg{display:table-row }th.visible-lg,td.visible-lg{display:table-cell }}@media (min-width:1200px){.visible-lg-block{display:block }}@media (min-width:1200px){.visible-lg-inline{display:inline }}@media (min-width:1200px){.visible-lg-inline-block{display:inline-block }}@media (max-width:767px){.hidden-xs{display:none }}@media (min-width:768px) and (max-width:991px){.hidden-sm{display:none }}@media (min-width:992px) and (max-width:1199px){.hidden-md{display:none }}@media (min-width:1200px){.hidden-lg{display:none }}.visible-print{display:none }@media print{.visible-print{display:block }table.visible-print{display:table }tr.visible-print{display:table-row }th.visible-print,td.visible-print{display:table-cell }}.visible-print-block{display:none }@media print{.visible-print-block{display:block }}.visible-print-inline{display:none }@media print{.visible-print-inline{display:inline }}.visible-print-inline-block{display:none }@media print{.visible-print-inline-block{display:inline-block }}@media print{.hidden-print{display:none }}
+      
+       /*----------------------------------------------
+       ------------------------------------------------
+                    Fuente Circular
+       ------------------------------------------------
+       -----------------------------------------------*/
+        @font-face{font-family:Circular-Black;src:url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Black_gdi.eot);src:url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Black_gdi.eot?#iefix) format('embedded-opentype'),url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Black_gdi.woff) format('woff'),url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Black_gdi.ttf) format('truetype'),url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Black_gdi.svg#CircularStd-Black) format('svg');unicode-range:U+000D-25CA}@font-face{font-family:Circular-Book;src:url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Book.otf)}@font-face{font-family:Circular-Medium;src:url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Medium.otf)}@font-face{font-family:Circular;src:url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Bold.otf);font-weight:700}@font-face{font-family:Circular;src:url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Bold.otf);font-weight:700}@font-face{font-family:Circular;src:url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Bold-latin.eot);src:url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Bold-latin.eot?#iefix) format('embedded-opentype'),url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Bold-latin.woff2) format('woff2'),url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Bold-latin.woff) format('woff'),url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Bold-latin.ttf) format('truetype');font-weight:700;unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+      
+      
+        @font-face {
+            font-family: 'Circular';
+            src: url('https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Bold.otf');
+            font-weight: bold;
+        }
+
+        @font-face {
+            font-family: 'Circular';
+            src: url('https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/fonts/CircularStd-Bold.otf');
+            font-weight: bold;
+        }
+
+
+    
+        body h1, h2{ font-family: 'Circular'; font-weight: bold }
+        body span, p, a{ font-family: unset; }
+        header .logoCoppel{ display: inline-block; margin-left: 15px;}
+        header .logoCoppel img{ width: 130px; }
+        header  a{ display: inline-block; float: right; text-decoration: underline; margin-top: 5px; }
+        header{ padding-top: 16px; padding-bottom: 16px;background-color: #ffe143;  }
+        
+
+
+        
+     
+
+footer {
+    background-color: #192C39;
+    color: #fff;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    font-size: smaller;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+        footer small{
+            padding-bottom: 20px;
+            display: block;
+            font-size: 13px;
+            letter-spacing: 0.12px;
+            line-height: 19.5px;
+        }
+
+        footer ul{
+            padding: 0;
+        }
+
+        footer ul li{
+            list-style: none;
+            padding-bottom: 7px;
+        }
+
+        footer ul li a{
+            color: #fff;
+            text-decoration: underline;
+        }
+        footer ul li a:hover{
+            color: #fff;
+            
+        }
+        footer .gototop {
+    border-bottom: 1px solid #2e4252;
+    padding-bottom: 15px;
+    background-color: #1f3545;
+    cursor: pointer;
+    text-align: center;
+    padding: 15px 0;
+    }
+    .gototop:hover{
+        background-color: #2e4252;
+    }
+
+    #flechaArriba{
+        margin-left: 5px;
+        margin-bottom: 3px;
+    }
+
+
+.imagenUrl {
+    color: transparent;
+}
+.footerMobile {
+    text-align: left;
+    padding-left: 25px;
+    font-size: 16px;
+    border-bottom: 1px solid #2e4252;
+    background: #1f3545;
+}
+.titulosFooterMobile {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+/*.row.alturaDinamica {
+    max-height: 995px;
+    height: 415px;
+    min-height: 415px;
+}QUITAR*/
+.row.alturaDinamicaDos {
+    max-height: 995px;
+    height: 427px;
+    min-height: 415px;
+}
+
+
+
+/**Mega menu **/
+
+    .primeroNiveles {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        
+    }
+    .primeroNiveles li {
+        font-size: 14px;
+        list-style: none;
+        padding:8px;
+        z-index:3;
+    }
+
+    ul.primeroNiveles:before {
+    position: absolute;
+    content: '';
+    height: 15px;
+    width: 15px;
+    background-color: #fff;
+    top: -5px;
+    right: 64%;
+    transform: rotate(45deg);
+    z-index: 2;
+}
+
+
+.primeroNiveles  a {
+    color: #373d3f;
+}
+
+.primeroNiveles li:hover {
+    background: #006cba;
+     color: white;
+     text-decoration: none;
+   
+}
+
+span.arrowDownIcon {
+    font-weight: bold;
+    font-size: 13px;
+    color: black;
+}
+.carrito:hover {
+    background: #065792;
+}
+
+footer .gototop #gototop {
+    font-size: 18px;
+    color: #fff;
+    font-weight: 700;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+}
+/***************************/
+/******** Header menu ************/
+span.copyMenu {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.buscador{
+    display: inline-flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 0;
+    margin-left: 15px;
+}
+
+.buscador input{
+border-radius: 17px;
+    border: none;
+    box-shadow: 0 2px 3px rgba(0,0,0,.16);
+    height: 33px;
+    width: 78px;
+    max-width: 485px;
+    font-size: 1rem;
+}
+
+
+
+.buscador button{
+
+    box-shadow: 0 3px 3px rgba(0,0,0,.16);
+    background-color: #016db6;
+    border-color: #016db6;
+    border: 0;
+    height: 34px;
+    color: white;
+}
+
+.telefono a {
+    margin-top: 0;
+    text-decoration: none;
+}
+.llamar-texto {
+    font-weight: 700;
+    margin-left: 8px;
+    color: #000;
+ 
+}
+.llamar-numero {
+    display: block;
+    margin-left: 24px;
+    color: #000;
+}
+
+.carritoMobil{
+    position: absolute;
+    right: 13px;
+    top: 6px;
+    text-align: center;
+}
+
+
+
+/***********************/
+/** Menu categorias ********/
+
+nav.cat {
+    background: #ffffff;
+    padding: 13px;
+    border-radius: 4px;
+    border: 1px solid #ececec;
+    box-shadow: 0 1px 1px 0 rgba(169, 169, 169, .28);
+    padding-bottom: 20px;
+}
+
+nav.cat ul {
+    padding: 0;
+}
+
+nav.cat li{
+    list-style: none;
+    margin-top: 20px;
+    font-size: 16px;
+}
+/***************************/
+
+/****** carrusel ***********/
+.areaDetexto {
+    background: #fff;
+    border-top: 1px solid #dddddd;
+    white-space: normal;
+}
+.areaDetexto p {
+    margin: 0;
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 5px;
+}
+
+.item.amp-carousel-slide.amp-scrollable-carousel-slide {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    max-width: 220px;
+    height: 340px;
+    vertical-align: top;
+}
+
+p.titulo {
+    color: #323232;
+    font-size: 16px;
+    font-weight: 400;
+}
+span.precioAnterior {
+    color: #6E7272;
+    text-decoration: line-through;
+    font-size: 16px;
+    margin-right: 10px;
+}
+span.precioAhora {
+    font-weight: bold;
+    font-size: 16px;
+    color: red;
+}
+p.copyContado {
+    color: #6E7272;
+    font-size: 15px;
+    padding-top: 0;
+}
+p.precios {
+    margin-top: 25px;
+}
+/****** MENU HAMBURGESA ***/
+button.hamburger {
+    background: #006CBA;
+    border-radius: 15px;
+    padding: 0 6px;
+    height: 28px;
+    border: none;
+    margin: 5px 0 0 5px;
+    width: 50px;
+    color: white;
+    text-align: center;
+}
+
+.botonMenuMobile{
+    text-align: left;
+}
+
+amp-sidebar#sidebar {
+    width: 100%;
+    background-color: #fff;
+
+}
+    
+.rowAmarillo{
+    background: #ffe143;
+    padding: 10px;
+
+}
+.cerrarSideBar{
+    text-align: right;
+}
+.cerrarSideBar button {
+        margin-top: 16px;
+    border: none;
+    margin-bottom: 12px;
+    border-radius: 15px;
+    width: 25px;
+    height: 25px;
+    font-weight: bold;
+    color: #fff;
+    background: #959a9d;
+    font-size: 16px;
+    padding: 3px;
+}
+.menuMobile li {
+    border-bottom: 1px solid #ddd;
+    list-style: none;
+    padding: 13px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.navMobil {
+    padding: 0;
+}
+
+.footerNavMobil {
+    padding: 0;
+    margin-top: 30px;
+}
+
+
+.footerNavMobil li {
+    border-bottom: 0;
+    font-weight: normal;
+    padding: 8px 15px;
+}
+
+.footerNavMobil a {
+    color: #111;
+}
+.menuMobile a {
+    color: #111;
+}
+
+.pushBackground{
+    background: #e7e7e7;
+}
+.subMenuMobil ul {
+    padding: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.subMenuMobil li {
+    padding: 10px 25px;
+    font-size: 14px;
+}
+li.subMenuMobil {
+    padding: 0;
+}
+
+#ofertas{
+    color: red;
+}
+
+
+.listadoFooter{
+    display: none;
+
+}
+
+.listadoFooterBlock{
+    display: block;
+}
+
+.titulosFooterMobile a {
+    color: #fff;
+}
+
+.listadoFooterBlock li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.listadoFooterBlock a {
+   text-decoration: none;
+}
+#compraText {
+    font-size: 16px;
+    text-align: left;
+}
+
+#descargaText {
+    font-size: 20px;
+    text-align: left;
+}
+.buscadorExpanded {
+    position: absolute;
+    z-index: 3;
+    right: 0;
+    left: 32px;
+    top: 5px;
+    width: 100%;
+    height: 48px;
+    background: #ffe143;
+    text-align: center;
+    
+}
+
+.buscadorExpanded input {
+    border-radius: 17px;
+    border: none;
+    box-shadow: 0 2px 3px rgba(0,0,0,.16);
+    height: 33px;
+    width: 200px;
+    max-width: 485px;
+    font-size: 1rem;
+    transition: width 1s, height 1s;
+}
+
+.iconoBuscadorMobil {
+    box-shadow: 0 3px 3px rgba(0,0,0,.16);
+    background-color: #016db6;
+    border-color: #016db6;
+    border: 0;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    color: white;
+}
+.flechaFlotante{
+    display: none;
+}
+.mostrarFlechaFlotante{
+    position: absolute;
+    z-index: 5;
+    top: 8px;
+    left: 5px;
+
+}
+.ocultarBuscadorExpanded {
+    position: absolute;
+    right: 0;
+    left: 32px;
+    top: 5px;
+    width: 100%;
+    height: 48px;
+    text-align: center;
+
+    
+}
+.ocultarBuscadorExpanded input{
+    border-radius: 17px;
+    border: none;
+    box-shadow: 0 2px 3px rgba(0,0,0,.16);
+    height: 35px;
+    width: 80px;
+    max-width: 485px;
+    font-size: 1rem;
+    transition: width 1s, height 1s;
+
+}
+.ocultarIconoBuscadorMobil{
+    display: none;
+}
+/**************************/
+/*******Posiciones de precios y 
+********copys en bloques *****/
+ .precioDinamico {
+    position: absolute;
+    z-index: 2;
+
+}
+ .copyDinamico {
+    position: absolute;
+    z-index: 2;
+
+}
+
+.precioDinamico.arribaDerecha {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 30px;
+    left: -30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.copyDinamico.arribaDerecha {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 73px;
+    left: -20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.precioDinamico.abajoDerecha {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    bottom: 30px;
+    left: -30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.copyDinamico.abajoDerecha {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    bottom: 13px;
+    left: -19px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.precioDinamico.arribaIzquierda {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 30px;
+    left: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.copyDinamico.arribaIzquierda {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 73px;
+    left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.precioDinamico.abajoIzquierdo {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    bottom: 30px;
+    left: 30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.copyDinamico.abajoIzquierdo {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    bottom: 14px;
+    left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+/******************************/
+
+@media only screen and (min-width: 375px) {
+
+.buscadorExpanded {
+    position: absolute;
+    z-index: 3;
+    right: 0;
+    left: 32px;
+    top: 5px;
+    width: 95%;
+    height: 31px;
+    background: #ffe143;
+    text-align: center;
+    
+}
+
+.buscadorExpanded input {
+    border-radius: 17px;
+    border: none;
+    box-shadow: 0 2px 3px rgba(0,0,0,.16);
+    height: 33px;
+    width: 280px;
+    max-width: 485px;
+    font-size: 1rem;
+    transition: width 1s, height 1s;
+}
+
+.iconoBuscadorMobil {
+    box-shadow: 0 3px 3px rgba(0,0,0,.16);
+    background-color: #016db6;
+    border-color: #016db6;
+    border: 0;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    color: white;
+}
+
+}
+
+/*
+@media only screen and (min-width: 425px) {
+
+.row.alturaDinamica {
+    max-height: 995px;
+    height: 615px;
+    min-height: 415px;
+}
+
+.row.alturaDinamica.alturaDinamicaDos {
+    max-height: 995px;
+    height: 700px;
+    min-height: 415px;
+}
+}
+
+@media only screen and (min-width: 468px) {
+
+.row.alturaDinamica {
+    max-height: 995px;
+    height: 665px;
+    min-height: 415px;
+}
+
+
+}
+
+@media only screen and (min-width: 500px) {
+
+.row.alturaDinamica {
+    max-height: 995px;
+    height: 765px;
+    min-height: 415px;
+}
+
+.row.alturaDinamica.alturaDinamicaDos {
+    max-height: 995px;
+    height: 795px;
+    min-height: 415px;
+}
+
+
+}
+
+@media only screen and (min-width: 560px) {
+
+.row.alturaDinamica {
+    max-height: 995px;
+    height: 850px;
+    min-height: 415px;
+}
+
+.row.alturaDinamica.alturaDinamicaDos {
+    max-height: 995px;
+    height: 850px;
+    min-height: 415px;
+}
+
+}
+
+@media only screen and (min-width: 600px) {
+
+.row.alturaDinamica {
+    max-height: 995px;
+    height: 850px;
+    min-height: 415px;
+}
+
+.row.alturaDinamica.alturaDinamicaDos {
+    max-height: 995px;
+    height: 930px;
+    min-height: 415px;
+}
+
+}
+*/
+
+
+
+@media only screen and (min-width: 768px) {
+.buscadorExpanded input {
+    border-radius: 17px;
+    border: none;
+    box-shadow: 0 2px 3px rgba(0,0,0,.16);
+    height: 33px;
+    width: 600px;
+    max-width: 485px;
+    font-size: 1rem;
+    transition: width 1s, height 1s;
+}
+.precioDinamico.arribaDerechaSeis {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 30px;
+    left: -35px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.copyDinamico.arribaDerechaSeis {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 73px;
+    left: -19px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.precioDinamico.arribaDerechaOcho {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 10px;
+    left: 30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.copyDinamico.arribaDerechaOcho {
+    max-width: 425px;
+    width: 28%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 53px;
+    left: 345px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.precioDinamico.arribaIzquierdaCuatro {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 11px;
+    left: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.copyDinamico.arribaIzquierdaCuatro {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 55px;
+    left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.row.alturaDinamica {
+    max-height: 995px;
+    height: 915px;
+    min-height: 415px;
+}
+.tresLogos {
+    text-align: left;
+}
+
+.footerMobile {
+    border-bottom: none;
+
+}
+.container.conFooter {
+    margin: 0 auto;
+    width: 100%;
+    max-height: 1000px;
+    background: #1f3545;
+}
+.listadoFooter{
+    display: block;
+}
+.botonMenuMobile {
+    text-align: center;
+}
+.buscador input{
+    width: 100%;
+    height: 30px;
+    border-radius: 17px;
+    transition: .3s all;
+    padding-left: 22px;
+    box-shadow: none;
+    border: none;
+    font-size: 1.5rem;
+}
+.precioDinamico {
+position: absolute;
+z-index: 2;
+top: 0;
+right: 33px;
+font-size: 50px;
+color: #000;
+font-weight: none;
+    background: none;
+    border-radius: none;
+    height: none;
+    width: none;
+    padding-top: none;
+}
+
+.menuDesktop {
+background: #fff;
+line-height: 30px;
+}
+
+header .logoCoppel{ display: inline-block; margin-left: 0px; }
+/***Precio de los bloque **/
+p#bloque1, #bloque2 {
+    right: 100px;
+}
+#bloque2 span {
+    font-size: 23px;
+    position: absolute;
+    top: 60px;
+    color: white;
+}
+
+p#bloque3 {
+    right: 55px;
+    background: yellow;
+    height: 80px;
+    width: 110px;
+}
+#bloque3 span {
+    font-size: 23px;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    color: black;
+
+}
+p#bloque4 {
+    top: -40px;
+    left: 60px;
+}
+#bloque4 span {
+    font-size: 23px;
+    position: absolute;
+    top: 60px;
+    color: white;
+}
+p#bloque5 {
+    top: -40px;
+    right: 100px;
+}
+#bloque5 span {
+    font-size: 23px;
+    position: absolute;
+    top: 60px;
+    color: black;
+}
+p#bloque6 {
+    right: 50px;
+    background: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    padding-top: 15px;
+}
+#bloque6 span {
+    font-size: 23px;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    color: black;
+}
+p#bloque7, #bloque8 {
+    right: 100px;
+}
+#bloque7 span {
+    font-size: 23px;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    color: black;
+}
+#bloque8 span {
+    font-size: 23px;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    color: black;
+}
+
+p#bloque9 {
+    top: -40px;
+    left: 30px;
+}
+
+#bloque9 span {
+    font-size: 23px;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    color: black;
+}
+
+p#bloque10 {
+    top: -30px;
+    left: 50px;
+}
+#bloque10 span {
+    font-size: 23px;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    color: gray;
+}
+
+p#bloque11 {
+    top: 100px;
+    left: 20px;
+    color: white;
+}
+#bloque11 span {
+    font-size: 23px;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    color: white;
+}
+p#bloque12 {
+    top: 100px;
+    left: 20px;
+    color: red;
+}
+#bloque12 span {
+    font-size: 23px;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    color: black;
+}
+
+/**************************/
+
+#contentWrapper{
+    padding-top: 15px;
+    width: 1170px;
+}
+
+.buscador {
+    display: inline-flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 0;
+    margin-left: 5px;
+}
+
+}
+
+@media (min-width: 900px ){
+
+}
+
+@media (min-width: 992px ){
+.row.alturaDinamica {
+    max-height: 995px;
+    height: 755px;
+    min-height: 415px;
+}
+.row.alturaDinamica.alturaDinamicaDos {
+    max-height: 995px;
+    height: 515px;
+    min-height: 415px;
+}
+.footerMobile {
+    border-bottom:none;
+    padding-left: 0;
+
+}
+.carrito {
+    background: #006CBA;
+    position: absolute;
+    height: 76px;
+    width: 95px;
+    top: -16px;
+    right: 0px;
+}
+.buscador {
+    display: inline-flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 0;
+    margin-left: 55px;
+}
+.buscador input {
+    border-radius: 0;
+    border: none;
+    box-shadow: 0 2px 3px rgba(0,0,0,.16);
+    height: 33px;
+    width: 100%;
+    max-width: 485px;
+}
+.margenCarritoDesktop{
+    margin-top: 15px;
+}
+
+.telefono{
+    padding: 0;
+    margin-left: -30px;
+}
+.container.conFooter {
+    width: 1170px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+.listadoFooter li {
+    text-align: left;
+    font-size: 13px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.container.conFooter h5 {
+    font-size: 14px;
+    text-align: left;
+    padding-top: 10px;
+    font-family: circular;
+    margin-bottom: 5px;
+}
+.listadoFooter a {
+    text-decoration: none;
+}
+.listadoFooter li a:hover {
+    text-decoration: underline;
+    color: white;
+}
+.footerCompleto {
+    background: #1f3545;
+}
+.listaFooter {
+    font-size: 15px;
+}
+.listaFooter li {
+    display: inline-block;
+    padding-left: 20px;
+}
+.contenidoParaMil {
+    display: none;
+}
+}
+
+@media (min-width: 1000px){
+.precioDinamico.arribaDerechaSeis {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 30px;
+    left: -36px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.copyDinamico.arribaDerechaSeis {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 73px;
+    left: -19px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.precioDinamico.arribaDerechaOcho {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 10px;
+    left: 40px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.copyDinamico.arribaDerechaOcho {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 53px;
+    left: 51px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.contenidoParaMil {
+    display: block;
+}
+.descargaApp{
+    display: none;
+}
+.tresLogos {
+    width: 220px;
+}
+.logosApps {
+    width: 164px;
+}
+
+}
+@media (min-width: 1200px){
+.precioDinamico.arribaDerechaSeis {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 30px;
+    left: 0;
+    font-size: 40px;
+    font-weight: bold;
+}
+.copyDinamico.arribaDerechaSeis {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 73px;
+    left: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.precioDinamico.arribaDerechaOcho {
+    max-width: 425px;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    top: 30px;
+    left: 130px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.copyDinamico.arribaDerechaOcho {
+   max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 73px;
+    left: 450px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.precioDinamico.arribaIzquierdaOcho {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 30px;
+    left: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.copyDinamico.abajoDerechaCuatro {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 243px;
+    left: 150px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.precioDinamico.abajoDerechaCuatro {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 200px;
+    left: 175px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.copyDinamico.abajoIzquierdaCuatro {
+    
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 243px;
+    left: 35px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.precioDinamico.abajoIzquierdaCuatro {
+       max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 200px;
+    left: 60px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.precioDinamico.arribaIzquierdaCuatro {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 35px;
+    left: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.copyDinamico.arribaIzquierdaCuatro {
+    max-width: 425px;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    top: 75px;
+    left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.row.alturaDinamica {
+    max-height: 995px;
+    height: 895px;
+    min-height: 415px;
+}
+.row.alturaDinamica.alturaDinamicaDos {
+    max-height: 995px;
+    height: 605px;
+    min-height: 415px;
+}
+#compraText {
+    font-size: 14px;
+    text-align: left;
+}
+#descargaText {
+    font-size: 14px;
+    text-align: left;
+}
+.container.conFooter {
+    width: 1170px;
+    padding-left: 45px;
+    padding-right: 30px;
+    margin: 0 auto;
+}
+.descargaApp{
+    display: block;
+}
+
+.row.menuDesktop {
+border-bottom: 1px solid rgba(31,53,69,.1);
+margin: 0;
+width: 100%;
+height: 58px;
+line-height: 30px;
+background: #fff;
+padding-left: 35px;
+}
+ul.primeroNiveles:before {
+right: 80%;
+}
+.buscador input{
+    border-radius: 0;
+    border: none;
+    box-shadow: 0 2px 3px rgba(0,0,0,.16);
+    height: 33px;
+    width: 100%;
+    max-width: 485px;
+}
+
+.buscador button{
+
+    box-shadow: 0 3px 3px rgba(0,0,0,.16);
+    background-color: #016db6;
+    border-color: #016db6;
+    border: 0;
+    height: 34px;
+    color: white;
+}
+.contenidoParaMil {
+    display: none;
+}
+}
+@media (min-width: 1400px){
+.tresLogos {
+    width: 270px;
+}
+
+.container.conFooter {
+
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+.contenidoParaMil {
+    display: none;
+}
+
+}
+.nodisplay {
+    display: none;
+}
+amp-mega-menu nav,
+amp-mega-menu nav > ul {
+    height: 100%;
+}
+amp-mega-menu nav > ul {
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: stretch;
+}
+amp-mega-menu nav > ul > li {
+    order: 0;
+    flex: 0 1 auto;
+    align-self: center;
+}
+amp-mega-menu:nth-child(1) nav > ul > li {
+    padding-right: 15px;
+}
+amp-mega-menu:nth-child(2) nav > ul > li {
+    padding-left: 15px;
+}
+.bodyContent {
+    margin-top: 25px;
+    padding: 0;
+}
+.menuDesktop > .container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: stretch;
+}
+.menuDesktop > .container > amp-mega-menu:nth-child(2) {
+    order: 0;
+    flex: 0 1 auto;
+    align-self: flex-end;
+    margin-top: -58px;
+}
+.top-left {
+    top: 15px;
+    left: 15px;
+}
+.top-center {
+    top: 15px;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+}
+.top-right {
+    top: 15px;
+    right: 15px;
+    text-align: right;
+}
+.bottom-left {
+    bottom: 15px;
+    left: 15px;
+}
+.bottom-center {
+    bottom: 15px;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+}
+.bottom-right {
+    bottom: 15px;
+    right: 15px;
+    text-align: right;
+}
+</style>
+</head>
+<body data-ampdevmode>
+    <header class="header" id="top">
+        <nav class="navbar row">
+            <div class="col-md-7 col-xs-12">   
+                <div class="botonMenuMobile  col-md-12 col-xs-2 hidden-md hidden-lg" >
+                    <button class="hamburger" on="tap:sidebar.toggle"><span class="copyMenu">MENÚ</span></button>
+                </div>
+                <div class=" logoCoppel col-md-3 col-sm-2 col-xs-4" [class]="ocultarMenuMobil">
+                    <amp-img src="https://coppel.com/wcsstore/AuroraStorefrontAssetStore/images/logo.svg" 
+                    media="(max-width: 991px)"
+                    width="105" height="37px" 
+                    alt="Logo de Coppel.com" /></amp-img>
+                    <amp-img src="https://coppel.com/wcsstore/AuroraStorefrontAssetStore/images/logo.svg"
+                    media="(min-width: 992px)" 
+                    width="170px" height="37px" 
+                    alt="Logo de Coppel.com" /></amp-img>
+                
+                </div>
+                <div class="hidden-lg hidden-md">
+                    <div class="buscador col-md-6 col-sm-6 col-xs-2"  [class]="buscadorExpanded">
+                        <span [class]="mostrarFlechaFlotante" class="flechaFlotante" 
+                        tabindex="0" role="button"
+                        on="tap:AMP.setState({ buscadorExpanded: 'ocultarBuscadorExpanded', iconoBuscadorMobil: 'ocultarIconoBuscadorMobil', mostrarFlechaFlotante: 'flechaFlotante' })"> < </span>
+                        <form
+                        method="GET"
+                        action="https://coppel.com/SearchDisplay?"
+                        target="_top">
+                            <input name="storeId" value="12251" hidden>
+                            <input name="catalogId" value="10001" hidden>
+                            <input name="langId" value="-5" hidden>
+                            <input name="searchTerm"  
+                            type="search" 
+                            on="tap:AMP.setState({ buscadorExpanded: 'buscadorExpanded', iconoBuscadorMobil: 'iconoBuscadorMobil', mostrarFlechaFlotante: 'mostrarFlechaFlotante'  })" 
+                            placeholder="Busca tus productos" 
+                            tabindex="0" role="button">
+                            <button class="hidden-xs hidden-sm" [class]="iconoBuscadorMobil ">buscar</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="hidden-xs hidden-sm">
+                    <div class="buscador col-md-6 col-sm-6 col-xs-2 "  >
+                        <form
+                        method="GET"
+                        action="https://coppel.com/SearchDisplay?"
+                        target="_top"
+                        style="display: contents;">
+                            <input name="storeId" value="12251" hidden>
+                            <input name="catalogId" value="10001" hidden>
+                            <input name="langId" value="-5" hidden>
+                            <input  name="searchTerm"  type="search" placeholder="Busca tus productos" tabindex="0" role="button">
+                            <button class="hidden-xs hidden-sm">buscar</button>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="carritoMobil col-md-4 col-xs-2  hidden-md hidden-lg" >
+                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/carrito.png" 
+                    media="(min-width: 200px)"
+                    width="30px" height="28px" 
+                    alt="Carrito" /></amp-img>
+                </div>     
+            </div>
+
+            <div class="col-md-5 col-xs-6">   
+                <div class="telefono col-md-4 col-xs-2 col-md-push-6 hidden-xs hidden-sm">
+                    <a href="tel:8002207735">
+                        <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/telefono.png" 
+                        media="(min-width: 992px)"
+                        width="14px" height="18px" 
+                        alt="Telefono" /></amp-img>
+                        <span  class="hidden-sm llamar-texto">Compra ahora</span>
+                        <span class="llamar-numero">800 220 7735</span>
+                    </a>
+                </div>
+                <a href="/AjaxOrderItemDisplayView?storeId=12251&catalogId=10001&langId=-5">
+                    <div class="carrito col-md-4 hidden-xs hidden-sm">
+                        <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/carrito-desktop.png" 
+                        media="(min-width: 992px)"
+                        class="margenCarritoDesktop"
+                        width="43px" height="45px" 
+                        alt="Carrito" /></amp-img>
+                    </div> 
+                </a>     
+            </div>
+        </nav>
+    </header>
+
+    <div class="menuDesktop hidden-xs hidden-sm">
+        <div class="container">
+            <amp-mega-menu height="58" layout="fixed-height">
+                <nav>
+                    <ul>
+                        <li class="menu-item">
+                            <button><b>Departamentos </b><span class="arrowDownIcon">˅</span></button>
+                            <div role="dialog">
+                                <ul class="primeroNiveles">
+                                    <a href="" on="hover:AMP.setState({displayCelulares: none})">
+                                        <li>Celulares</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Electrónica</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Consolas y Videojuegos</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Hogar y Muebles</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Línea Blanca y Electrodomésticos</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Zapatos</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Mujeres</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Hombres</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Relojes Lentes y Joyería</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Perfumes y Cuidado Personal</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Bebés y Niños</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Juguetes</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Motos y Automotriz</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Deportes</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Viajes</li>
+                                    </a>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="menu-item">
+                            <button>Ofertas <span class="arrowDownIcon">˅</span></button>
+                        </li>
+                        <li class="menu-item">
+                            <button>Exclusivos en línea <span class="arrowDownIcon">˅</span></button>
+                        </li>
+                        <li class="menu-item">
+                            <button>Servicios <span class="arrowDownIcon">˅</span></button>
+                        </li>
+                        <li class="menu-item">
+                            <button>Crédito Coppel <span class="arrowDownIcon">˅</span></button>
+                        </li>
+                    </ul>
+                </nav>
+            </amp-mega-menu>
+            <amp-mega-menu height="58" layout="fixed-height">
+                <nav>
+                    <ul>
+                        <li class="menu-item derMenuTienda">
+                            <button class="hidden-xs hidden-sm hidden-md">Ubica tu tienda </button>
+                        </li>
+                        <li class="menu-item">
+                            <button class="">Ayuda </button>
+                        </li>
+                    </ul>
+                </nav>
+            </amp-mega-menu>
+        </div>
+    </div>
+    <div class="row menuMobile visible-xs">
+        <amp-sidebar id="sidebar" class="sample-sidebar" layout="nodisplay" side="left">
+            <div class="row rowAmarillo">
+                <div class="col-xs-6">
+                    <h3>Bienvenido</h3>
+                </div>
+                <div class="col-xs-6 cerrarSideBar">
+                    <button on="tap:sidebar.close">X</button>
+                </div>
+            </div>
+            <div class="navMobil col-xs-12">
+                <a [hidden]="hiddenState1"  on="tap:AMP.setState({hiddenState2: false,hiddenState1: true,
+                pushBackground: 'pushBackground' })">
+                 <li>
+                    <span><b>Departamentos</b> <span class="arrowDownIcon">˅</span></span>
+                </li>
+                </a>
+               <a [hidden]="hiddenState2" hidden=""  on="tap:AMP.setState({hiddenState1: false, hiddenState2: true})" >
+                <li class="" [class]="pushBackground" >
+
+                    <span><b>Departamentos</b> <span class="arrowDownIcon">˄</span></span>
+
+                    <li [hidden]="hiddenState2" hidden=""  class="subMenuMobil">
+                                <ul >
+                                    <a href="">
+                                        <li>Celulares</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Electrónica</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Consolas y Videojuegos</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Hogar y Muebles</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Línea Blanca y Electrodomésticos</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Zapatos</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Mujeres</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Hombres</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Relojes Lentes y Joyería</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Perfumes y Cuidado Personal</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Bebés y Niños</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Juguetes</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Motos y Automotriz</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Deportes</li>
+                                    </a>
+                                    <a href="">
+                                        <li>Viajes</li>
+                                    </a>
+                                </ul>
+                        </li>
+                </li>
+                </a>
+                </li>
+                <li>
+                    <span id="ofertas">Ofertas</span>
+                </li>
+                <li>
+                    <span>Exclusivos en línea</span>
+                </li>
+                <li>
+                    <span>Servicios</span>
+                </li>
+                <li>
+                    <span>Crédito Coppel</span>
+                </li>
+            </div>
+            <div class="footerNavMobil col-xs-12">
+                <li>
+                    <span>Preguntas frecuentes</span>
+                </li>
+                </li>
+                <li>
+                    <span>Aviso de privacidad</span>
+                </li>
+                <li>
+                    <span>Términos y condiciones</span>
+                </li> 
+                <li>
+                    <span>Agréganos a</span> <br>
+                    <amp-img src="/amp-hotsale/img/logo_whatsapp_texto.png" width="120px" height="30px" alt="Hotsale" layout="intrinsic" />
+                </li>
+                 <li>
+                    <span><b>Ventas por teléfono</span> <br>
+                    <a href="tel:8002207735">800 220 7735</a></b>
+                   
+                </li>
+               
+            </div>
+        </amp-sidebar>
+    </div>
+
+    <div class="container bodyContent">
+        <div class="col-sm-3 cold-md-3 col-lg-3 catRow hidden-xs hidden-sm category-list">
+            <amp-list 
+            layout="responsive"
+            width="396" height="1000"
+            src="/amp-hotsale/category.json"
+            items="."
+            single-item>
+                <template type="amp-mustache">
+                    <nav class="cat">
+                        <h2>{{titulo}}</h2>
+                        <ul>
+                            {{#items}}
+                                <li class="menuCategorias">
+                                    <a href="{{url}}"><span><b>{{text}}</b></span></a>
+                                </li>
+                            {{/items}}
+                        </ul>
+                    </nav>
+                </template>
+            </amp-list>
+        </div>
+
+        <div class="col-md-9">
+            <div>
+                <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/Desktop/buenfin-comercial-desktop-01.jpg" 
+                width="886px" height="249px" 
+                alt="Hotsale" 
+                layout="intrinsic"  
+                media="(min-width: 600px)" />
+                <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/Mobile/buenfin-comercial-mobile-01.jpg" 
+                width="640px" height="240px" 
+                alt="Hotsale" 
+                layout="intrinsic"  
+                media="(max-width: 425px)" />
+            </div>
+            <div>
+                <h3>Nombre del carrusel</h3>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12" style="height: 340px;">
+                <amp-list 
+                layout="fill"
+                src="/amp-hotsale/carousel1.json"
+                items="."
+                single-item>
+                    <template type="amp-mustache">
+                        <amp-carousel 
+                        type="carousel" 
+                        width="auto" 
+                        height="340px"
+                        controls 
+                        data-next-button-aria-label="Go to next slide" 
+                        data-previous-button-aria-label="Go to previous slide" 
+                        layout="fixed-height" >
+                        {{#items}}
+                            <div class="item">
+                                <amp-img src="{{image.url}}"
+                                class="product" width="220px" height="176px" 
+                                layout="intrinsic" alt="{{image.alt}}"></amp-img>
+                                <div class="areaDetexto">
+                                    <p class="titulo">
+                                        <span>{{texto.titulo}}</span></p>
+                                        <p class="copyContado">{{texto.copyContado}}</p>
+                                    <p class="precios">
+                                    <span class="precioAnterior">{{precio.precioAnterior}}</span>
+                                    <span class="precioAhora">{{precio.precioActual}}</span>
+                                    </p>
+                                </div>
+                            </div>
+                        {{/items}}
+                    </amp-carousel>
+                    </template>
+                </amp-list>
+            </div>
+
+            <amp-state id="myRemoteState" src="/amp-hotsale/estructuraUnoFinal.json"> </amp-state>
+            <p [text]="myRemoteState" style="color: #edeef2;">texto</p>
+            <amp-list
+            width="800"
+            height="300"
+            layout="responsive"
+            src="/amp-hotsale/estructuraUnoFinal.json"
+            items="."
+            single-item>
+                <template type="amp-mustache">
+                    {{#items}}
+                    <div style="
+                        float: left;
+                        width: {{image.style.width}};
+                        position: relative;
+                        padding: {{image.style.padding}};
+                    ">
+                        <a href="coppel.com">
+                            <div role="img" aria-label="{{image.alt}}" style="
+                                background-image: url('{{image.url}}');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                background-position: {{image.style.position}};
+                                height: {{image.style.height}};
+                                width: 100%;
+                                line-height: 25px;
+                            ">
+                                <div class="{{text.position}}"
+                                style="
+                                    position: absolute;
+                                ">
+                                    <p style="color: {{text.price.style.color}}; margin: 0; font-size: {{text.price.style.fontSize}}; font-weight: {{text.price.style.fontWeight}}">{{text.price.label}}</p>
+                                    <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.label}}</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    {{/items}}
+                </template>
+            </amp-list>
+
+            <div>
+                <h3>Nombre del carrusel2</h3>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12" style="height: 340px;">
+                <amp-list 
+                layout="fill"
+                src="/amp-hotsale/carousel2.json"
+                items="."
+                single-item>
+                    <template type="amp-mustache">
+                        <amp-carousel 
+                        type="carousel" 
+                        width="auto" 
+                        height="340px"         
+                        controls 
+                        data-next-button-aria-label="Go to next slide" 
+                        data-previous-button-aria-label="Go to previous slide" 
+                        layout="fixed-height" >
+                        {{#items}}
+                            <div class="item">
+                                <amp-img src="{{image.url}}"
+                                class="product" width="220px" height="176px" 
+                                layout="intrinsic" alt="{{image.alt}}"></amp-img>
+                                <div class="areaDetexto">
+                                    <p class="titulo">
+                                        <span>{{texto.titulo}}</span></p>
+                                        <p class="copyContado">{{texto.copyContado}}</p>
+                                    <p class="precios">
+                                    <span class="precioAnterior">{{precio.precioAnterior}}</span>
+                                    <span class="precioAhora">{{precio.precioActual}}</span>
+                                    </p>
+                                </div>
+                            </div>
+                        {{/items}}
+                    </amp-carousel>
+                    </template>
+                </amp-list>
+            </div>
+
+            <amp-state id="myRemoteState" src="/amp-hotsale/estructuraUnoFinal.json"> </amp-state>
+            <p [text]="myRemoteState" style="color: #edeef2;">texto</p>
+            <amp-list
+            width="800"
+            height="300"
+            layout="responsive"
+            src="/amp-hotsale/estructuraUnoFinal.json"
+            items="."
+            single-item>
+                <template type="amp-mustache">
+                    {{#items}}
+                    <div style="
+                        float: left;
+                        width: {{image.style.width}};
+                        position: relative;
+                        padding: {{image.style.padding}};
+                    ">
+                        <a href="coppel.com">
+                            <div role="img" aria-label="{{image.alt}}" style="
+                                background-image: url('{{image.url}}');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                background-position: {{image.style.position}};
+                                height: {{image.style.height}};
+                                width: 100%;
+                                line-height: 25px;
+                            ">
+                                <div class="{{text.position}}"
+                                style="
+                                    position: absolute;
+                                ">
+                                    <p style="color: {{text.price.style.color}}; margin: 0; font-size: {{text.price.style.fontSize}}; font-weight: {{text.price.style.fontWeight}}">{{text.price.label}}</p>
+                                    <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.label}}</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    {{/items}}
+                </template>
+            </amp-list>
+
+            <!-- contenedor right
+            https://www.coppel.com/SearchDisplay?
+            catalogId=10001&
+            categoryId=13001&
+            langId=-5&
+            storeId=12251
+
+            asd asd asd as da sd a sdasdasd -->
+        </div>
+    </div>
+</div>
+
+ <footer>
+<div class="text-right gototop">
+   
+    <a href="#top"><div  id="gototop"> Inicio de página  <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/arrowUP.png" id="flechaArriba" width="12px" height="8px"   layout="intrinsic" alt="ir arriba"></amp-img></div></a>
+</div>
+<section class="footerCompleto">
+    <div class="container conFooter">
+        <div class="col-md-2 col-xs-12  col-sm-4 footerMobile">
+            
+          
+                        <h5 class="hidden-xs">
+                            ACERCA DE COPPEL
+
+                        </h5>
+                         <ul class="listadoFooter" >
+                            <li>
+                                <a  href="https://www.coppel.com/ubicacion-de-tiendas-coppel"  >
+                                    Ubica tu tienda Coppel</a>
+                            </li>
+                            <li>
+                                <a  href="https://www.coppel.com/acerca-de-nosotros"> 
+                                    Acerca de nosotros
+                            </a>
+                            </li>
+                            <li >
+                                <a href="https://grupocoppel.hiringroom.com/internal_jobs" target="_blank">
+                                    Trabaja con nosotros</a>
+                            </li>
+                            
+                            <li >
+                                <a href="http://proveedores.coppel.com" target="_blank">
+                                    Proveedores
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/coppel-pay" target="_blank">
+                                    Afiliados Coppel</a>
+                            </li>
+                            <li>
+                                <a href="http://www.bancoppel.com/" target="_blank">BanCoppel</a>
+                            </li>
+                            <li>
+                                <a href="http://www.aforecoppel.com/" target="_blank">Afore Coppel</a>
+                            </li>
+                            <li >
+                                <a href="/sala-de-prensa">Sala de prensa</a>
+                            </li>
+                            
+                            
+                        </ul>
+
+                       <!-------- MOBILE ----->           
+                        <h5 class="titulosFooterMobile visible-xs">
+                            <a [hidden]="acercaocultar"  on="tap:AMP.setState({ acercade: false , acercamostrar: false, acercaocultar: true})" class="titulosFooterMobile visible-xs">
+                               Acerca de coppel
+                            </a>
+                            <a  hidden="" [hidden]="acercamostrar"  on="tap:AMP.setState({ acercade: true, acercaocultar: false, acercamostrar: true })" class="titulosFooterMobile visible-xs">
+                              Acerca de coppel
+                            </a>
+
+                        </h5>
+                        <ul hidden="" [hidden]="acercade" class="listadoFooterBlock" >
+                            <li>
+                                <a  href="https://www.coppel.com/ubicacion-de-tiendas-coppel"  >
+                                    Ubica tu tienda Coppel</a>
+                            </li>
+                            <li>
+                                <a  href="https://www.coppel.com/acerca-de-nosotros"> 
+                                    Acerca de nosotros
+                            </a>
+                            </li>
+                            <li >
+                                <a href="https://grupocoppel.hiringroom.com/internal_jobs" target="_blank">
+                                    Trabaja con nosotros</a>
+                            </li>
+                            
+                            <li >
+                                <a href="http://proveedores.coppel.com" target="_blank">
+                                    Proveedores
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/coppel-pay" target="_blank">
+                                    Afiliados Coppel</a>
+                            </li>
+                            <li>
+                                <a href="http://www.bancoppel.com/" target="_blank">BanCoppel</a>
+                            </li>
+                            <li>
+                                <a href="http://www.aforecoppel.com/" target="_blank">Afore Coppel</a>
+                            </li>
+                            <li >
+                                <a href="/sala-de-prensa">Sala de prensa</a>
+                            </li>
+                            
+                            
+                        </ul>
+                
+        </div>
+        <div class="col-md-2 col-xs-12 col-sm-4 footerMobile">
+            <h5 class="hidden-xs">
+                            SERVICIOS COPPEL
+             </h5>
+               <ul  class="listadoFooter">
+                             <li>
+                                <a  href="https://www.coppel.com/solicita-tu-credito-coppel"  >
+                                   Solicita tu crédito Coppel</a>
+                            </li>
+                            <li>
+                                <a  href="https://www.coppel.com/recarga-de-tiempo-aire"> 
+                                   Tiempo aire
+                            </a>
+                            </li>
+                            <li >
+                                <a href="https://www.coppel.com/club-de-proteccion" target="_blank">
+                                    Club de Protección</a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/envios-de-dinero" target="_blank">
+                                    Envío de dinero 
+                                </a>
+                            </li>
+                            <li >
+                                <a href="https://www.coppel.com/ganadores-de-sorteos-y-concursos" target="_blank">
+                                    Sorteos y concursos
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/dinero-electronico" target="_blank">
+                                    Dinero electrónico</a>
+                            </li>
+                            <li>
+                                <a href="https://digital.virtualmobiletechnologies.com.mx/i/1170682-viajero-natural" target="_blank">Revista Motos</a>
+                            </li>
+                            <li>
+                                <a href="https://digital.virtualmobiletechnologies.com.mx/i/1225188-es-juego-de-ni%C3%B1os" target="_blank">Revista Es juego de niños
+                                </a>
+                            </li>
+                            <li >
+                                <a href="https://blog.coppel.com/">Mejora tu vida</a>
+                            </li>                            
+                            <li>
+                                <a href="https://www.coppel.com/solicitar-prestamo-personal">Préstamo personal</a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=18&searchTerm=bcplv">Exclusivos BanCoppel</a>
+                            </li>
+                            
+                            
+                        </ul>
+             <!-------- MOBILE ----->
+                     <h5 class="titulosFooterMobile visible-xs">      
+                        <a [hidden]="servocultar"  on="tap:AMP.setState({ servicios: false , servmostrar: false, servocultar: true})" class="titulosFooterMobile visible-xs">
+                               Servicios coppel
+                        </a>
+                          <a  hidden="" [hidden]="servmostrar"  on="tap:AMP.setState({ servicios: true,servocultar: false, servmostrar:true })" class="titulosFooterMobile visible-xs">
+                               Servicios coppel
+                        </a>
+                    </h5>
+
+                        <ul hidden="" [hidden]="servicios" class="listadoFooterBlock ">
+                             <li>
+                                <a  href="https://www.coppel.com/solicita-tu-credito-coppel"  >
+                                   Solicita tu crédito Coppel</a>
+                            </li>
+                            <li>
+                                <a  href="https://www.coppel.com/recarga-de-tiempo-aire"> 
+                                   Tiempo aire
+                            </a>
+                            </li>
+                            <li >
+                                <a href="https://www.coppel.com/club-de-proteccion" target="_blank">
+                                    Club de Protección</a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/envios-de-dinero" target="_blank">
+                                    Envío de dinero 
+                                </a>
+                            </li>
+                            <li >
+                                <a href="https://www.coppel.com/ganadores-de-sorteos-y-concursos" target="_blank">
+                                    Sorteos y concursos
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/dinero-electronico" target="_blank">
+                                    Dinero electrónico</a>
+                            </li>
+                            <li>
+                                <a href="https://digital.virtualmobiletechnologies.com.mx/i/1170682-viajero-natural" target="_blank">Revista Motos</a>
+                            </li>
+                            <li>
+                                <a href="https://digital.virtualmobiletechnologies.com.mx/i/1225188-es-juego-de-ni%C3%B1os" target="_blank">Revista Es juego de niños
+                                </a>
+                            </li>
+                            <li >
+                                <a href="https://blog.coppel.com/">Mejora tu vida</a>
+                            </li>                            
+                            <li>
+                                <a href="https://www.coppel.com/solicitar-prestamo-personal">Préstamo personal</a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=18&searchTerm=bcplv">Exclusivos BanCoppel</a>
+                            </li>
+                            
+                            
+                        </ul>
+        </div>
+        <div class="col-md-2 col-xs-12 col-sm-4 footerMobile ">
+             <h5 class="hidden-xs">
+                           ATENCIÓN A CLIENTES
+            </h5>
+          <ul class="listadoFooter" >
+                            <li>
+                                <a  href="https://www.coppel.com/como-comprar-en-linea"  >
+                                   Cómo comprar</a>
+                            </li>
+                           
+                            <li>
+                                <a  href="https://www.coppel.com/beneficios-coppel"> 
+                                   Beneficios Coppel
+                            </a>
+                            </li>
+                            <li >
+                                <a href="https://www.coppel.com/metodos-de-pago" target="_blank">
+                                    Métodos de pago</a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/beneficios-coppel#anclaDevoluciones" target="_blank">
+                                    Cambios y devoluciones 
+                                </a>
+                            </li>
+                            <li >
+                                <a href="https://www.coppel.com/preguntas-frecuentes" target="_blank">
+                                    Preguntas frecuentes
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://smail.coppel.com/circulocalidad/" target="_blank">
+                                    Quejas y sugerencias</a>
+                            </li>
+                            <li>
+                                <a href="http://seguro.coppel.com/facturascoppel/" target="_blank">Factura electrónica</a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/coppel-pay" target="_blank">Coppel Pay
+                                </a>
+                            </li>
+                         </ul>
+
+         <!-------- MOBILE ----->
+                    <h5  class="titulosFooterMobile visible-xs"> 
+                        <a [hidden]="ocultar"   on="tap:AMP.setState({ atencion: false, mostrar: false, ocultar: true})" class="titulosFooterMobile visible-xs">
+                               Atención a clientes
+                        </a>
+                          <a  hidden="" [hidden]="mostrar"  on="tap:AMP.setState({ 
+                          atencion: true,
+                          ocultar: false, 
+                          mostrar:true })" class="titulosFooterMobile visible-xs">
+                               Atención a clientes
+                        </a>
+
+                    </h5>
+                        
+                        <ul hidden="" [hidden]="atencion" class="listadoFooterBlock" >
+                            <li>
+                                <a  href="https://www.coppel.com/como-comprar-en-linea"  >
+                                   Cómo comprar</a>
+                            </li>
+                           
+                            <li>
+                                <a  href="https://www.coppel.com/beneficios-coppel"> 
+                                   Beneficios Coppel
+                            </a>
+                            </li>
+                            <li >
+                                <a href="https://www.coppel.com/metodos-de-pago" target="_blank">
+                                    Métodos de pago</a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/beneficios-coppel#anclaDevoluciones" target="_blank">
+                                    Cambios y devoluciones 
+                                </a>
+                            </li>
+                            <li >
+                                <a href="https://www.coppel.com/preguntas-frecuentes" target="_blank">
+                                    Preguntas frecuentes
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://smail.coppel.com/circulocalidad/" target="_blank">
+                                    Quejas y sugerencias</a>
+                            </li>
+                            <li>
+                                <a href="http://seguro.coppel.com/facturascoppel/" target="_blank">Factura electrónica</a>
+                            </li>
+                            <li>
+                                <a href="https://www.coppel.com/coppel-pay" target="_blank">Coppel Pay
+                                </a>
+                            </li>
+                         </ul>
+                    
+                      
+        </div>
+        <div class="col-md-2 col-sm-2 hidden-sm">
+           <h5 class="hidden-xs">
+                           PERIÓDICO COPPEL
+                        </h5>
+                    
+                        <ul class="listadoFooter">
+                            <li>
+                                <a  class="imagenUrl" href="https://digital.virtualmobiletechnologies.com.mx/i/1211529-la-tendencia-es-tener-actitud">
+                                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/revistas/2020/marzo/miniatura-home-pc-marzo.jpg" width="130px" height="150px"   layout="intrinsic" alt="Periodico coppel"></amp-img>
+                                </a>
+                            </li>
+                            
+                        </ul>
+        </div>
+        <div class="col-md-2 hidden-xs hidden-sm">
+                     <h5 class="hidden-xs">
+                           ACCESIBILIDAD
+                        </h5>
+                    
+                        <ul class="listadoFooter">
+                            <li>
+                                <a class="imagenUrl" href="https://www.hearcolors.com.mx/SelloAccesibilidad.php?num_clte=FA30D267">
+                                    <amp-img  src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/images/icono-accesibilidad.png"  width="104px" height="104px"   layout="intrinsic" alt="accesibilidad"></amp-img>
+                                   
+                                </a>
+                            </li>
+                            
+                        </ul>
+                         <h5 class="hidden-xs">
+                           SÍGUENOS
+                        </h5>
+                         <ul class="listadoFooter">
+                            <li>
+                                <a href="https://www.facebook.com/tiendascoppel"  class="imagenUrl">
+                                    <amp-img   src="http://localhost/amp-hotsale/img/fb.svg"  width="40px" height="40px"   layout="intrinsic" alt="Facebook"></amp-img>
+                                   
+                                </a>
+                                <a href="https://www.youtube.com/user/tiendascoppel" class="imagenUrl">
+                                    <amp-img    src="http://localhost/amp-hotsale/img/youtube.svg"   width="40px" height="40px"   layout="intrinsic" alt="youtube"></amp-img>
+                                   
+                                </a>
+                                <a href="https://www.instagram.com/coppel/" class="imagenUrl" >
+                                    <amp-img  src="http://localhost/amp-hotsale/img/insta.svg"  width="40px" height="40px"   layout="intrinsic" alt="instagram"></amp-img>
+                                   
+                                </a>
+                            </li>
+                            
+                        </ul>
+                        <div class="contenidoParaMil">
+                            
+                      
+                         <h5>
+                          DESCARGA NUESTRA APP COPPEL 
+                        </h5>
+                    
+                        <ul class="listadoFooter">
+                            <li class="logosApps">
+                                <a class="imagenUrl" href="https://apps.apple.com/app/id1267382794">
+                                    <amp-img src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/app_store.png"  width="80px" height="29px"   layout="intrinsic" alt="App Store"></amp-img>
+
+                                   
+                                </a>
+                                <a  class="imagenUrl" href="https://play.google.com/store/apps/details?id=com.coppel.coppelapp">
+                                    <amp-img src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/google_play.png"  width="80px" height="28px"   layout="intrinsic" alt="Google Play"></amp-img>
+
+                                   
+                                   
+                                </a>
+                            </li>
+                            
+                        </ul>
+                         <h5 class="hidden-xs hidden-sm">
+                           COMPRA SEGURA
+
+                        </h5>
+                         <ul class="listadoFooter tresLogos">
+                            <li>
+                                <a href="__">
+                                    <amp-img src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/globalsign.png"  width="70px" height="28px"   layout="intrinsic" alt="Facebook"></amp-img>
+                                   
+                                </a>
+                                <a href="__">
+                                    <amp-img src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/accertify.png"   width="70px" height="28px"   layout="intrinsic" alt="youtube"></amp-img>
+                                   
+                                </a>
+                                <a href="__">
+                                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/Sello_Comercio.jpg"  width="70px" height="28px"   layout="intrinsic" alt="instagram"></amp-img>
+                                   
+                                </a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+
+        </div>
+        <div class="col-md-2 col-xs-12 col-sm-12 descargaApp">
+                        
+                        <h5 class="hidden-xs hidden-sm ">
+                          DESCARGA NUESTRA APP COPPEL 
+                        </h5>
+                    
+                        <h5 class=" hidden-md hidden-lg" id="descargaText">
+                          Descarga nuestra app coppel
+                        </h5>
+                    
+                        <ul class="">
+                            <li>
+                                <a class="imagenUrl" href="https://apps.apple.com/app/id1267382794">
+                                    <amp-img src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/app_store.png"  width="80px" height="29px"   layout="intrinsic" class="hidden-sm hidden-xs" alt="App Store"></amp-img>
+
+                                    <amp-img src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/app_store.png"  width="132px" height="44px"   layout="intrinsic" class="hidden-md hidden-lg" alt="App Store"></amp-img>
+                                </a>
+                                <a  class="imagenUrl" href="https://play.google.com/store/apps/details?id=com.coppel.coppelapp">
+                                    <amp-img src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/google_play.png"  width="80px" height="28px"   layout="intrinsic" class="hidden-sm hidden-xs" alt="Google Play"></amp-img>
+                                    <amp-img src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/google_play.png"  width="149px" height="46px"   layout="intrinsic" alt="Google Play" class="hidden-md hidden-lg" ></amp-img>
+                                   
+                                </a>
+                            </li>
+                            
+                        </ul>
+                         <h5 class="hidden-xs hidden-sm">
+                           COMPRA SEGURA
+
+                        </h5>
+                         <h5 class="hidden-md hidden-lg" id="compraText">
+                           Compra segura
+
+                        </h5>
+                         <ul class=" tresLogos">
+                            <li>
+                                <a href="__">
+                                    <amp-img src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/globalsign.png"  width="85px" height="40px"   layout="intrinsic" alt="Facebook"></amp-img>
+                                   
+                                </a>
+                                <a href="__">
+                                    <amp-img src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/accertify.png"   width="85px" height="40px"   layout="intrinsic" alt="youtube"></amp-img>
+                                   
+                                </a>
+                                <a href="__">
+                                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/homepage/Sello_Comercio.jpg"  width="85px" height="40px"   layout="intrinsic" alt="instagram"></amp-img>
+                                   
+                                </a>
+                            </li>
+                            
+                        </ul>
+        </div>
+    </div>
+    
+</section>
+        <div class="row col-xs-12 hidden-md hidden-lg">   
+             <div class="col-xs-6">
+                     <h5>
+                           ACCESIBILIDAD
+                        </h5>
+                    
+                        <ul >
+                            <li>
+                                <a class="imagenUrl" href="https://www.hearcolors.com.mx/SelloAccesibilidad.php?num_clte=FA30D267">
+                                    <amp-img  src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/images/icono-accesibilidad.png"  width="104px" height="104px"   layout="intrinsic" alt="accesibilidad"></amp-img>
+                                   
+                                </a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                        <div class="col-xs-6">
+                         <h5 >
+                           SÍGUENOS
+                        </h5>
+                         <ul >
+                            <li>
+                                <a href="https://www.facebook.com/tiendascoppel"  class="imagenUrl">
+                                    <amp-img   src="http://localhost/amp-hotsale/img/fb.svg"  width="40px" height="40px"   layout="intrinsic" alt="Facebook"></amp-img>
+                                   
+                                </a>
+                                <a href="https://www.youtube.com/user/tiendascoppel" class="imagenUrl">
+                                    <amp-img    src="http://localhost/amp-hotsale/img/youtube.svg"   width="40px" height="40px"   layout="intrinsic" alt="youtube"></amp-img>
+                                   
+                                </a>
+                                <a href="https://www.instagram.com/coppel/" class="imagenUrl" >
+                                    <amp-img  src="http://localhost/amp-hotsale/img/insta.svg"  width="40px" height="40px"   layout="intrinsic" alt="instagram"></amp-img>
+                                   
+                                </a>
+                            </li>
+                            
+                        </ul>
+        </div>
+    </div>
+        <div class="row">
+            <div class="col-xs-12 col-md-8 col-md-push-2 ">
+                <p>
+                    Todos los precios de Coppel.com son en pesos mexicanos e incluyen impuestos.
+                </p>
+                <p>
+                    Los precios y promociones de nuestro sitio web son exclusivos de Coppel.com. Los abonos quincenales, el plazo y el pago inicial pueden variar según el margen de crédito y el historial de pago de cada cliente. Los quincenales contemplan: 24, 36 o 48 quincenas para muebles y 16 quincenas para ropa.
+                </p>
+                <ul class="listaFooter">
+                    <li>
+                        <a href="https://coppel.com/aviso-de-privacidad">Aviso de privacidad</a>
+                    </li>
+                    <li>
+                        <a href="https://coppel.com/terminos-y-condiciones">Términos y condiciones</a>
+                    </li>
+                    <li>
+                        <a href="https://coppel.com/compra-segura">Seguridad en Coppel.com</a>
+                    </li>
+                    <li>
+                        <a href="https://coppel.com/mapa-del-sitio">Mapa del sitio</a>
+                    </li>
+                    <li>
+                         <amp-img id="bandera" src="https://www.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/flag-argentina.png"  width="21px" height="15px"   layout="intrinsic" alt="bandera argentina"></amp-img>
+                         <a href="https://coppel.com.ar">Coppel Argentina</a>
+                    </li>
+                    <li>
+                        <a href="https://www.hearcolors.com.mx/SelloAccesibilidad.php?num_clte=FA30D267">Declaración de accesibilidad</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-xs-12">
+                <p>2020 © Coppel todos los derechos reservados</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
