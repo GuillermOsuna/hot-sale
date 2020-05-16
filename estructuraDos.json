@@ -1,18 +1,84 @@
 {
-"__comment": "Recuerda colocar las imagenes correspondientes a su dispositivo mobile y desktop",
+    "items": [
+        {
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/Desktop/buenfin-comercial-desktop-02.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "220px",
+                    "width": "50%",
+                    "padding": "0 5px 10px 0",
+                    "position": "0 0"
+                },
+                "media-min-width-980": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/Desktop/buenfin-comercial-desktop-03.jpg"
+                }
+            },
+            "text": {
+                "position": "top-right",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "#006cba",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "label": "descripción",
+                    "style": {
+                        "color": "#ffe243",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                }
+            }
+        },
+        {
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/Desktop/buenfin-comercial-desktop-02.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "220px",
+                    "width": "50%",
+                    "padding": "0 0 10px 5px",
+                    "position": "0 0"
+                },
+                "media-min-width-980": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/Desktop/buenfin-comercial-desktop-03.jpg"
+                }
+            },
+            "text": {
+                "position": "bottom-center",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "white",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "label": "descripción",
+                    "style": {
+                        "color": "white",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                }
+            }
+        }
+    ],
  "estructuraDos": [
      {
 
      "clases":"col-md-6 col-xs-12",
-         "__comment": "-------------------- Desktop ---------------",
      "imagenDesktop":"http://localhost/amp-hotsale/img/Desktop/buenfin-comercial-desktop-08.jpg",
      "widthDesktop":"419px",
      "heightDesktop":"288px",
-          "__comment": "-------------------- Mobile ------------------",
      "imagenMobile":"https://localhost/amp-hotsale/img/Mobile/cybwknd-comercial-mobile-08.jpg",
      "widthMobile":"296px",
      "heightMobile":"295px",
-          "__comment": "------------ Datos Generales ---------------",
     "precio":"30%",
      "copy":"Descuento",
      "alt":"texto alternativo",
@@ -25,15 +91,12 @@
     {
 
      "clases":"col-md-6 col-xs-12",
-        "__comment": "-------------------- Desktop ------------------",
      "imagenDesktop":"http://localhost/amp-hotsale/img/Desktop/buenfin-comercial-desktop-09.jpg",
      "widthDesktop":"419px",
      "heightDesktop":"288px",
-         "__comment": "-------------------- Mobile ------------------",
      "imagenMobile":"https://localhost/amp-hotsale/img/Mobile/cybwknd-comercial-mobile-09.jpg",
      "widthMobile":"296px",
      "heightMobile":"295px",
-          "__comment": "------------ Datos Generales ---------------",
     "precio":"30%",
      "copy":"Descuento",
      "alt":"texto alternativo",
@@ -46,15 +109,12 @@
     {
 
      "clases":"col-md-4 col-xs-12",
-         "__comment": "-------------------- Desktop ------------------",
      "imagenDesktop":"http://localhost/amp-hotsale/img/Desktop/buenfin-comercial-desktop-10.jpg",
      "widthDesktop":"276px",
      "heightDesktop":"276px",
-         "__comment": "-------------------- Mobile ------------------",
      "imagenMobile":"https://localhost/amp-hotsale/img/Mobile/cybwknd-comercial-mobile-10.jpg",
      "widthMobile":"296px",
      "heightMobile":"295px",
-         "__comment": "------------ Datos Generales ---------------",
       "precio":"30%",
      "copy":"Descuento",
      "alt":"texto alternativo",
@@ -68,15 +128,12 @@
     {
 
      "clases":"col-md-4 col-xs-12",
-         "__comment": "-------------------- Desktop ------------------",
      "imagenDesktop":"http://localhost/amp-hotsale/img/Desktop/buenfin-comercial-desktop-11.jpg",
      "widthDesktop":"276px",
      "heightDesktop":"276px",
-         "__comment": "-------------------- Mobile ------------------",
      "imagenMobile":"https://localhost/amp-hotsale/img/Mobile/buenfin-comercial-mobile-11.jpg",
      "widthMobile":"296px",
      "heightMobile":"295px",
-         "__comment": "------------ Datos Generales ---------------",
      "precio":"30%",
      "copy":"Descuento",
      "alt":"texto alternativo",
@@ -90,15 +147,12 @@
     {
 
      "clases":"col-md-4 col-xs-12",
-         "__comment": "-------------------- Desktop ------------------",
      "imagenDesktop":"http://localhost/amp-hotsale/img/Desktop/buenfin-comercial-desktop-12.gif",
      "widthDesktop":"276px",
      "heightDesktop":"276px",
-         "__comment": "-------------------- Mobile ------------------",
      "imagenMobile":"https://localhost/amp-hotsale/img/Mobile/buenfin-comercial-mobile-13.gif",
      "widthMobile":"296px",
      "heightMobile":"295px",
-         "__comment": "------------ Datos Generales ---------------",
      "precio":"30%",
      "copy":"Descuento",
      "alt":"texto alternativo",
