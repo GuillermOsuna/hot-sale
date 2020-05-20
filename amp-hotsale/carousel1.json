@@ -14,22 +14,7 @@
 			},
 			"precio": {
 				"precioAnterior": "$9,999",
-				"precioActual": "$7,999"
-			}
-		},
-		{
-			"url": "https://www.coppel.com/refrigerador-daewoo-top-mount-dfr-1610dmx-16-pies-color-silver-pm-6271013",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/6271013-1.jpg",
-				"alt": "Foto 1|Refrigerador Daewoo Top Mount DFR-1610DMX 16 Pies color Silver"
-			},
-            "texto": {
-				"titulo": "Refrigerador Daewoo Top Mount DFR-1610DMX 16 Pies color Silver",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "",
-				"precioActual": "$13,399"
+				"precioActual": "$5,999"
 			}
 		},
 		{
@@ -73,8 +58,8 @@
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "",
-				"precioActual": "2,199"
+				"precioAnterior": "$2,199",
+				"precioActual": "$1,699"
 			}
 		},
 		{
@@ -88,8 +73,8 @@
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "",
-				"precioActual": "$6,499"
+				"precioAnterior": "6,499",
+				"precioActual": "$4,999"
 			}
 		},
 		{
@@ -104,7 +89,7 @@
 			},
 			"precio": {
 				"precioAnterior": "$5,999",
-				"precioActual": "$5,499"
+				"precioActual": "$4,199"
 			}
 		},
 		{
@@ -148,8 +133,8 @@
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "",
-				"precioActual": "$10,499"
+				"precioAnterior": "$10,499",
+				"precioActual": "$8,899"
 			}
 		}
 	]

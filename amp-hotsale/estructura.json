@@ -198,7 +198,7 @@
                 }
             },
             "mainText": {
-                "text": "Deportes",
+                "text": "Deportivo",
                 "style": {
                     "textAlign": "center"
                 },
@@ -217,7 +217,7 @@
         {
             "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB9952-BLQEHM-CELULARES-HOTSALE",
             "image": {
-                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-03.jpg",
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-03-a.jpg",
                 "alt": "imagen para hot sale",
                 "style": {
                     "height": "288px",
@@ -226,7 +226,7 @@
                     "position": "0 0"
                 },
                 "sm": {
-                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_03.jpg",
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_03-a.jpg",
                     "alt": "imagen para hot sale",
                     "style": {
                         "height": "360px",
@@ -236,7 +236,7 @@
                     }
                 },
                 "xs": {
-                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_03.jpg",
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_03-a.jpg",
                     "alt": "imagen para hot sale",
                     "style": {
                         "height": "170px",
@@ -249,7 +249,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "50%",
+                    "label": "20%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
