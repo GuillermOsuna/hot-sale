@@ -878,6 +878,9 @@
                 display: none;
             }
         }
+        .nodisplay {
+            display: none;
+        }
 </style>
 
 
@@ -887,11 +890,11 @@
     <header class="header" id="top">
         <nav class="navbar row">
             <div class="col-md-7 col-xs-12">   
-                <div class="botonMenuMobile  col-md-12 col-xs-2 hidden-md hidden-lg" >
+                <div class="botonMenuMobile  col-md-12 col-xs-2 hidden-md hidden-lg" hidden>
                     <button class="hamburger" on="tap:sidebar.toggle"><span class="copyMenu">MENÚ</span></button>
                 </div>
                 <div class=" logoCoppel col-md-3 col-sm-2 col-xs-4" [class]="ocultarMenuMobil">
-                    <a href="www.coppel.com">
+                    <a href="https://www.coppel.com">
                         <amp-img src="https://coppel.com/wcsstore/AuroraStorefrontAssetStore/images/logo.svg" 
                         media="(max-width: 991px)"
                         width="105" height="37px" 
@@ -1271,7 +1274,7 @@
                                         <p style="color: {{text.sm.description.style.color}}; margin: 0; font-size: {{text.sm.description.style.fontSize}}; font-weight: {{text.sm.description.style.fontWeight}}">{{text.sm.description.lastLabel}}</p>
                                     </div>
                                 </div>
-                                <p class="mainTextEstructura" style="text-align: {{mainText.style.textAlign}}">{{mainText.text}}</p>
+                                <p class="mainTextEstructura" style="text-align: {{mainText.sm.style.textAlign}}">{{mainText.text}}</p>
                             </a>
                         </div>
                     {{/items}}
@@ -1302,7 +1305,7 @@
                                         <p style="color: {{text.xs.description.style.color}}; margin: 0; font-size: {{text.xs.description.style.fontSize}}; font-weight: {{text.xs.description.style.fontWeight}}">{{text.xs.description.lastLabel}}</p>
                                     </div>
                                 </div>
-                                <p class="mainTextEstructura" style="text-align: {{mainText.style.textAlign}}">{{mainText.text}}</p>
+                                <p class="mainTextEstructura" style="text-align: {{mainText.xs.style.textAlign}}">{{mainText.text}}</p>
                             </a>
                         </div>
                     {{/items}}

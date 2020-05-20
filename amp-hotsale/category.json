@@ -60,6 +60,55 @@
         },
         {
             "text": "Motos", "url": "https://www.coppel.com/automotriz/motos/motocicletas-motos" 
+        },
+
+        {
+            "text": "Consolas y VIdeojuegos", 
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-CONSOLASYVIDEOJUEGOS-HOTSALE"
+        },
+        {
+            "text": "Laptops", 
+            "url": "https://www.coppel.com/electronica/computadoras/laptops"
+        },
+        {
+            "text": "Audio", 
+            "url": "https://www.coppel.com/electronica/audio-y-equipos-de-sonido"
+        },
+        {
+            "text": "Cámaras y Fotografía", 
+            "url": "https://www.coppel.com/electronica/camaras-y-fotografia"
+        },
+        {
+            "text": "Smartwatches", 
+            "url": "https://www.coppel.com/relojes-lentes-joyeria/relojes/smartwatches"
+        },
+        {
+            "text": "Salas", 
+            "url": "https://www.coppel.com/hogar/salas/ "
+        },
+        {
+            "text": "Cocinas", 
+            "url": "https://www.coppel.com/hogar/muebles-para-cocinas/  "
+        },
+        {
+            "text": "Comedores", 
+            "url": "https://www.coppel.com/hogar/comedores/  "
+        },
+        {
+            "text": "Patio y jardín", 
+            "url": "https://www.coppel.com/hogar/patio-y-jardin-hogar/   "
+        },
+        {
+            "text": "Colchones", 
+            "url": "https://www.coppel.com/colchones"
+        },
+        {
+            "text": "Oficina", 
+            "url": "https://www.coppel.com/hogar/oficinas"
+        },
+        {
+            "text": "Recámaras", 
+            "url": "https://www.coppel.com/recamara"
         }
 	]
 }
