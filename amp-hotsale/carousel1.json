@@ -108,18 +108,33 @@
 			}
 		},
 		{
-			"url": "",
+			"url": "https://www.coppel.com/comedor-valentino-ii-color-negro-con-6-sillas-estilo-contemporaneo-pm-3402783",
 			"image": {
-				"url": "",
-				"alt": "alt"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3402783-1.jpg",
+				"alt": "Foto 1|Comedor Valentino II color Negro con 6 Sillas estilo contemporáneo"
 			},
             "texto": {
-				"titulo": "",
+				"titulo": "Comedor Valentino II color Negro con 6 Sillas estilo contemporáneo",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$9,999",
+				"precioAnterior": "$10,099",
 				"precioActual": "$7,999"
+			}
+		},
+		{
+			"url": "https://www.coppel.com/cocina-integral-toscana-240-cm-clasico-pm-3412743",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3412743-1.jpg",
+				"alt": "Foto 1|Cocina Integral Toscana 240 cm Clásico"
+			},
+            "texto": {
+				"titulo": "Cocina Integral Toscana 240 cm Clásico",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "",
+				"precioActual": "$10,499"
 			}
 		}
 	]
