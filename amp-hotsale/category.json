@@ -11,9 +11,6 @@
             "text": "Celulares", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-PROMOPRECIOHOTSALE-HOTSALE" 
         },
         {
-            "text": "Colchones", "url": "https://www.coppel.com/colchones" 
-        },
-        {
             "text": "Zapatos", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2020-EPMTPE-ZAPATOS-HOTSALE" 
         },
         {
@@ -23,16 +20,10 @@
             "text": "Línea blanca", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-LINEABLANCA-HOTSALE" 
         },
         {
-            "text": "Salas", "url": "https://www.coppel.com/hogar/salas/" 
-        },
-        {
-            "text": "Comedores", "url": "https://www.coppel.com/hogar/comedores/" 
-        },
-        {
             "text": "Cocinas", "url": "https://www.coppel.com/hogar/muebles-para-cocinas/" 
         },
         {
-            "text": "Ropa para bebés", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-OTROPM-BEBESROPA-HOTSALE" 
+            "text": "Ropa para bebés", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2025-BLQELD-BEBES-HOTSALE" 
         },
         {
             "text": "Juguetes", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-JUGUETESDESCUENTO-HOTSALE" 
@@ -87,10 +78,6 @@
             "url": "https://www.coppel.com/hogar/salas/ "
         },
         {
-            "text": "Cocinas", 
-            "url": "https://www.coppel.com/hogar/muebles-para-cocinas/  "
-        },
-        {
             "text": "Comedores", 
             "url": "https://www.coppel.com/hogar/comedores/  "
         },
@@ -105,10 +92,6 @@
         {
             "text": "Oficina", 
             "url": "https://www.coppel.com/hogar/oficinas"
-        },
-        {
-            "text": "Recámaras", 
-            "url": "https://www.coppel.com/recamara"
         }
 	]
 }
