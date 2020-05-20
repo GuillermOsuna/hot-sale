@@ -3,6 +3,7 @@
 	"titulo": "Looks para toda la familia",
 	"items": [
 		{
+			"sku": "pr-3358232",
 			"url": "https://www.coppel.com/pantalon-marca-levis-721-high-rise-skinny-para-mujer-pr-3358232",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/3358232-1.jpg",
@@ -17,6 +18,7 @@
 				"precioActual": "$599"
 			}
 		},{
+			"sku": "pr-3202492",
 			"url": "https://www.coppel.com/coordinado-color-tinto-marca-eva-tu-estilo-intimo-para-mujer-pr-3202492",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/3202492-1.jpg",
@@ -31,6 +33,7 @@
 				"precioActual": "$133"
 			}
 		},{
+			"sku": "pr-8124652",
 			"url": "https://www.coppel.com/sandalias-marca-jennifer-lopez-color-negro-para-mujer-pr-8124652",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/8124652-1.jpg",
@@ -45,6 +48,7 @@
 				"precioActual": "$240"
 			}
 		},{
+			"sku": "pr-1736372",
 			"url": "https://www.coppel.com/pantalon-straight-fit-marca-refill-para-hombre-pr-1736372",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/1736372-1.jpg",
@@ -59,6 +63,7 @@
 				"precioActual": "$161"
 			}
 		},{
+			"sku": "pr-8146492",
 			"url": "https://www.coppel.com/tenis-reebok-energylux-2-0-azules-para-hombre-pr-8146492",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/8146492-1.jpg",
@@ -73,6 +78,7 @@
 				"precioActual": "$600"
 			}
 		},{
+			"sku": "pr-5093012",
 			"url": "https://www.coppel.com/set-de-panaleros-marca-baby-colors-para-bebe-nina-pr-5093012",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/5093012-1.jpg",
@@ -87,6 +93,7 @@
 				"precioActual": "$112"
 			}
 		},{
+			"sku": "pr-3343882",
 			"url": "https://www.coppel.com/vestido-de-maternidad-multicolor-marca-mama-bella-pr-3343882",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/3343882-1.jpg",
@@ -101,6 +108,7 @@
 				"precioActual": "$238"
 			}
 		},{
+			"sku": "pr-2660272",
 			"url": "https://www.coppel.com/playera-anaranjada-refill-para-nino-pr-2660272",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/2660272-1.jpg",
@@ -115,6 +123,7 @@
 				"precioActual": "$63"
 			}
 		},{
+			"sku": "pr-4028352",
 			"url": "https://www.coppel.com/jumper-marca-up-and-down-girls-estampado-para-nina-pr-4028352",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/4028352-1.jpg",
@@ -129,6 +138,7 @@
 				"precioActual": "$112"
 			}
 		},{
+			"sku": "pr-8137712",
 			"url": "https://www.coppel.com/zapatos-casuales-marca-refill-color-gris-para-hombre-pr-8137712",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/8137712-1.jpg",

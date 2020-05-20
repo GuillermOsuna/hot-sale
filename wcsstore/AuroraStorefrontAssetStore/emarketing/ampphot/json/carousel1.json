@@ -3,6 +3,7 @@
 	"titulo": "Lo que tu hogar necesita",
 	"items": [
 		{
+			"sku": "PM-3552163",
 			"url": "https://www.coppel.com/colchon-matrimonial-sealy-rous-pm-3552163",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/3552163-1.jpg",
@@ -18,6 +19,7 @@
 			}
 		},
 		{
+			"sku": "pm-2463843",
 			"url": "https://www.coppel.com/pantalla-led-hisense-55-pulgadas-ultra-hd-4k-smart-tv-55h6f-pm-2463843",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/2463843-1.jpg",
@@ -33,6 +35,7 @@
 			}
 		},
 		{
+			"sku": "pm-6323923",
 			"url": "https://www.coppel.com/lavadora-daewoo-dwf-te161abm1-10-kg-blanca-pm-6323923",
 			"image": {
 				"url": "https://www.coppel.com/images/catalog/pm/6323923-1.jpg",
@@ -48,6 +51,7 @@
 			}
 		},
 		{
+			"sku": "pm-4978783",
 			"url": "https://www.coppel.com/cabecera-aria-matrimonial-color-chocolate-pm-4978783",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/4978783-1.jpg",
@@ -63,6 +67,7 @@
 			}
 		},
 		{
+			"sku": "pm-6338523",
 			"url": "https://www.coppel.com/minisplit-on-off-midea-frio-mas12c1asc-110v-1t-pm-6338523",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/6338523-1.jpg",
@@ -78,6 +83,7 @@
 			}
 		},
 		{
+			"sku": "pm-4293273",
 			"url": "https://www.coppel.com/sala-esquinera-cloe-contemporaneo-1-pieza-pm-4293273",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/4293273-1.jpg",
@@ -93,6 +99,7 @@
 			}
 		},
 		{
+			"sku": "pm-2291273",
 			"url": "https://www.coppel.com/celular-motorola-moto-one-action-128-gb-blanco-pm-2291273",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/2291273-1.jpg",
@@ -108,6 +115,7 @@
 			}
 		},
 		{
+			"sku": "pm-3402783",
 			"url": "https://www.coppel.com/comedor-valentino-ii-color-negro-con-6-sillas-estilo-contemporaneo-pm-3402783",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/3402783-1.jpg",
@@ -123,6 +131,7 @@
 			}
 		},
 		{
+			"sku": "pm-3412743",
 			"url": "https://www.coppel.com/cocina-integral-toscana-240-cm-clasico-pm-3412743",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/3412743-1.jpg",
