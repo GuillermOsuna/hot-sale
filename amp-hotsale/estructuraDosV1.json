@@ -1,0 +1,59 @@
+{
+ "estructuraDos": [
+   {
+     "clases":"col-md-6 col-xs-12 col-sm-6",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-08.jpg",
+     "precio":"30%",
+     "id": "bloque7",
+     "width":"419px",
+     "height":"288px",
+     "alt":"texto alternativo",
+     "url":"https://www.google.com/"
+   },
+    {
+     "clases":"col-md-6 col-xs-12 col-sm-6",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-09.jpg",
+     "precio":"10%",
+     "id": "bloque8",
+     "width":"419px",
+     "height":"288px",
+     "alt":"texto alternativo",
+     "url":"https://www.coppel.com/"
+     
+   },
+    {
+     "clases":"col-md-4 col-sm-4 col-xs-4",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-10.jpg",
+     "precio":"40%",
+     "id": "bloque9",
+     "width":"276px",
+     "height":"276px",
+     "alt":"texto alternativo",
+     "url":"https://www.coppel.com/"
+     
+   },
+    {
+     "clases":"col-md-4 col-sm-4 col-xs-4",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-11.jpg",
+     "precio":"20%",
+     "id": "bloque10",
+     "width":"276px",
+     "height":"276px",
+     "alt":"texto alternativo",
+     "url":"https://www.coppel.com/"
+     
+   },
+    {
+     "clases":"col-md-4 col-sm-4 col-xs-4",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-12.gif",
+     "precio":"30%",
+     "id": "bloque11",
+     "width":"276px",
+     "height":"276px",
+     "alt":"texto alternativo",
+     "url":"https://www.coppel.com/"
+     
+   }
+ ]
+}
+

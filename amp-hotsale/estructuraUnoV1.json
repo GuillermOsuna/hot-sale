@@ -1,0 +1,70 @@
+{
+ "estructura": [
+   {
+     "clases":"col-md-6 col-xs-6",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-02.jpg",
+     "precio":"30%",
+     "id": "bloque1",
+     "width":"419px",
+     "height":"288px",
+     "alt":"texto alternativo",
+     "url":"https://www.google.com/"
+   },
+    {
+     "clases":"col-md-6 col-xs-6",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-03.jpg",
+     "precio":"10%",
+     "id": "bloque2",
+     "width":"419px",
+     "height":"288px",
+     "alt":"texto alternativo",
+     "url":"https://www.coppel.com/"
+     
+   },
+    {
+     "clases":"col-md-8 col-sm-8 col-xs-12",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-04.jpg",
+     "precio":"40%",
+     "id": "bloque3",
+     "width":"575px",
+     "height":"288px",
+     "alt":"texto alternativo",
+     "url":"https://www.coppel.com/"
+     
+   },
+    {
+     "clases":"col-md-4 col-sm-4 col-xs-6",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-05.jpg",
+     "precio":"20%",
+     "id": "bloque4",
+     "width":"265px",
+     "height":"288px",
+     "alt":"texto alternativo",
+     "url":"https://www.coppel.com/"
+     
+   },
+    {
+     "clases":"col-md-4 col-sm-4 col-xs-6",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-06.jpg",
+     "precio":"30%",
+     "id": "bloque5",
+     "width":"265px",
+     "height":"288px",
+     "alt":"texto alternativo",
+     "url":"https://www.coppel.com/"
+     
+   },
+    {
+     "clases":"col-md-8 col-sm-8 col-xs-12",
+     "imagen":"https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/buenfin-comercial-desktop-07.jpg",
+     "precio":"40%",
+     "id": "bloque6",
+     "width":"575px",
+     "height":"288px",
+     "alt":"texto alternativo",
+     "url":"https://www.coppel.com/"
+     
+   }
+ ]
+}
+

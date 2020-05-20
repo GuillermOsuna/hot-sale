@@ -1,0 +1,61 @@
+{
+	"items": [
+		{
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/5480913-1.jpg",
+				"alt": "alt"
+			},
+            "texto": {
+				"titulo": "Alberca Intex Circular de 4485 Litros",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3499",
+				"precioActual": "$2499"
+			}
+		},
+		{
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3487083-1.jpg",
+				"alt": "alt"
+			},
+            "texto": {
+				"titulo": "Escritorio Cipres Blanco",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3499",
+				"precioActual": "$2499"
+			}
+		},
+		{
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/2369313-1.jpg",
+				"alt": "alt"
+			},
+            "texto": {
+				"titulo": "Multifuncional Epson L-5190 Negra",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3499",
+				"precioActual": "$2499"
+			}
+		},
+		{
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3489023-1.jpg",
+				"alt": "alt"
+			},
+            "texto": {
+				"titulo": "Silla para Oficina Spark Negra",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3499",
+				"precioActual": "$2499"
+			}
+		}
+		
+	]
+}

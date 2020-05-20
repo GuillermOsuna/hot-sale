@@ -1,0 +1,16 @@
+{
+ "items": [
+   {
+     "clases":"col-md-4",
+     "sku":"456",
+     "nombreProducto":"Demo",
+     "precioAhora":"300",
+     "precioAnterior":"654",
+     "imagenProducto":"https://cdn1.coppel.com/images/catalog/pm/2290973-1.jpg",
+     "urlProducto":"www.coppel.com",
+     "altProducto": "hola"
+     
+   }
+ ]
+}
+
