@@ -2,16 +2,84 @@
     "titulo": "Categorías",
 	"items": [
 		{
-            "text": "categoria 1",
-            "url": "coppel.com"
+            "text": "Todo elctrónica (pantallas, consolas , laptops)",
+            "url": "/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ELECTRONICA-HOTSALE"
         },
         {
-            "text": "categoria 2",
-            "url": "coppel.com"
+            "text": "Calzado Deportivo",
+            "url": "/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-DEPORTIVO-HOTSALE"
         },
         {
-            "text": "categoria 2",
-            "url": "coppel.com"
+            "text": "Celulares",
+            "url": "/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB9952-BLQEHM-CELULARES-HOTSALE"
+        },
+        {
+            "text": "Colchones",
+            "url": "/colchones"
+		},
+        {
+            "text": "Caballero, Infantil, Dama",
+            "url": "RB2020-EPMTPE-ZAPATOS-HOTSALE"
+		},
+        {
+            "text": "Mujer y Hombre",
+            "url": "/SearchDisplay?categoryId=&storeId=15851&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ROPAHOMBREYMUJER-HOTSALE"
+		},
+        {
+            "text": "Todo Linea Blanca (refri, lavadora, estufa)",
+            "url": "/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-LINEABLANCA-HOTSALE"
+		},
+        {
+            "text": "Sala Vizze",
+            "url": "/hogar/salas/"
+		},
+        {
+            "text": "Comedor Damara",
+            "url": "/hogar/comedores/"
+		},
+        {
+            "text": "Ébano",
+            "url": "/hogar/muebles-para-cocinas/"
+		},
+        {
+            "text": "Ropa de bebés",
+            "url": ""
+		},
+        {
+            "text": "Juguetes Ropa",
+            "url": "RB2018-EPMTPE-JUGUETESDESCUENTO-HOTSALE"
+		},
+        {
+            "text": "Lenceria",
+            "url": "/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2020-EPMTPE-LENCERIA-HOTSALE"
+		},
+        {
+            "text": "Muebles de Recamara",
+            "url": "/recamara"
+		},
+        {
+            "text": "sin nombre",
+            "url": "RB2021-EPMTPE-ELECTRODOMESTICOS-HOTSALE"
+		},
+        {
+            "text": "Bose de imagen",
+            "url": "/electronica/audio-y-equipos-de-sonido/bocinas-portatiles"
+		},
+        {
+            "text": "Niños y niñas ropa",
+            "url": "RB2018-EPMTPE-INFANTILDESCUENTO-HOTSALE"
+		},
+        {
+            "text": "Poner, relojes, joyeria, bolsas y accesorios",
+            "url": "/SearchDisplay?categoryId=&storeId=12753&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-BLQELD-ACCESORIOS-HOTSALE"
+		},
+        {
+            "text": "sin nombre",
+            "url": "RB2021-EPMTPE-CUIDADOPERSONAL-HOTSALE"
+		},
+        {
+            "text": "Motos",
+            "url": "/automotriz/motos/motocicletas-motos"
 		}
 	]
 }

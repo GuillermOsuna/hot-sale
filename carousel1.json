@@ -1,7 +1,9 @@
 {
-    "activo": true,
+	"activo": true,
+	"titulo": "Nombre carrusel dinamico",
 	"items": [
 		{
+			"url": "",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/5480913-1.jpg",
 				"alt": "alt"
@@ -16,6 +18,7 @@
 			}
 		},
 		{
+			"url": "",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/3487083-1.jpg",
 				"alt": "alt"
@@ -30,6 +33,7 @@
 			}
 		},
 		{
+			"url": "",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/2369313-1.jpg",
 				"alt": "alt"
@@ -44,6 +48,7 @@
 			}
 		},
 		{
+			"url": "",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/3489023-1.jpg",
 				"alt": "alt"
