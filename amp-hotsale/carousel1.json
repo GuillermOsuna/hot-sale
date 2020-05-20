@@ -1,15 +1,15 @@
 {
 	"activo": true,
-	"titulo": "Nombre carrusel dinamico",
+	"titulo": "Lo que tu hogar necesita",
 	"items": [
 		{
-			"url": "",
+			"url": "https://www.coppel.com/colchon-matrimonial-sealy-rous-pm-3552163",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/5480913-1.jpg",
-				"alt": "alt"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3552163-1.jpg",
+				"alt": "Foto 1|Colchón Matrimonial Sealy Rous"
 			},
             "texto": {
-				"titulo": "Alberca Intex Circular de 4485 Litros",
+				"titulo": "Colchón Matrimonial Sealy Rous",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
@@ -18,48 +18,108 @@
 			}
 		},
 		{
-			"url": "",
+			"url": "https://www.coppel.com/pantalla-led-hisense-55-pulgadas-ultra-hd-4k-smart-tv-55h6f-pm-2463843",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/3487083-1.jpg",
-				"alt": "alt"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/2463843-1.jpg",
+				"alt": "Foto 1|Pantalla LED Hisense 55&#034; Ultra HD 4K Smart TV 55H6F"
 			},
             "texto": {
-				"titulo": "Escritorio Cipres Blanco",
+				"titulo": "Pantalla LED Hisense 55\" Ultra HD 4K Smart TV 55H6F",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$3499",
-				"precioActual": "$2499"
+				"precioAnterior": "$17,499",
+				"precioActual": "$9,299"
+			}
+		},
+		{
+			"url": "https://www.coppel.com/lavadora-daewoo-dwf-te161abm1-10-kg-blanca-pm-6323923",
+			"image": {
+				"url": "https://www.coppel.com/images/catalog/pm/6323923-1.jpg",
+				"alt": "Foto 1|Lavadora Daewoo DWF-TE161ABM1 10 kg Blanca"
+			},
+            "texto": {
+				"titulo": "Lavadora Daewoo DWF-TE161ABM1 10 kg Blanca",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "",
+				"precioActual": "$7,599"
+			}
+		},
+		{
+			"url": "https://www.coppel.com/cabecera-aria-matrimonial-color-chocolate-pm-4978783",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/4978783-1.jpg",
+				"alt": "Foto 1|Cabecera Aria Matrimonial color Chocolate"
+			},
+            "texto": {
+				"titulo": "Cabecera Aria Matrimonial color Chocolate",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "",
+				"precioActual": "2,199"
+			}
+		},
+		{
+			"url": "https://www.coppel.com/minisplit-on-off-midea-frio-mas12c1asc-110v-1t-pm-6338523",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/6338523-1.jpg",
+				"alt": "Foto 1|Minisplit On Off Midea Frío MAS12C1ASC 110V 1t"
+			},
+            "texto": {
+				"titulo": "Minisplit On Off Midea Frío MAS12C1ASC 110V 1t",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "",
+				"precioActual": "$6,499"
+			}
+		},
+		{
+			"url": "https://www.coppel.com/sala-esquinera-cloe-contemporaneo-1-pieza-pm-4293273",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/4293273-1.jpg",
+				"alt": "Foto 1|Sala Esquinera Cloe Contemporáneo 1 Pieza"
+			},
+            "texto": {
+				"titulo": "Sala Esquinera Cloe Contemporáneo 1 Pieza",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$5,999",
+				"precioActual": "$5,499"
+			}
+		},
+		{
+			"url": "https://www.coppel.com/celular-motorola-moto-one-action-128-gb-blanco-pm-2291273",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/2291273-1.jpg",
+				"alt": "Foto 1|Celular Motorola Moto One Action 128 GB Blanco"
+			},
+            "texto": {
+				"titulo": "Celular Motorola Moto One Action 128 GB Blanco",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$8,999",
+				"precioActual": "$6,999"
 			}
 		},
 		{
 			"url": "",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/2369313-1.jpg",
+				"url": "",
 				"alt": "alt"
 			},
             "texto": {
-				"titulo": "Multifuncional Epson L-5190 Negra",
+				"titulo": "",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$3499",
-				"precioActual": "$2499"
-			}
-		},
-		{
-			"url": "",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/3489023-1.jpg",
-				"alt": "alt"
-			},
-            "texto": {
-				"titulo": "Silla para Oficina Spark Negra",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$3499",
-				"precioActual": "$2499"
+				"precioAnterior": "$9,999",
+				"precioActual": "$7,999"
 			}
 		}
 	]

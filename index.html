@@ -32,8 +32,7 @@
             font-weight: bold;
         }
 
-        body h1, h2{ font-family: 'Circular'; font-weight: bold }
-        body span, p, a{ font-family: unset; }
+        body h1, h2, a, p, span, label { font-family: 'Circular'; font-weight: bold }
         header .logoCoppel{ display: inline-block; margin-left: 15px;}
         header .logoCoppel img{ width: 130px; }
         header  a{ display: inline-block; text-decoration: underline; margin-top: 5px; }
@@ -260,6 +259,8 @@
             color: #323232;
             font-size: 16px;
             font-weight: 400;
+            height: 53px;
+            overflow: hidden;
         }
         span.precioAnterior {
             color: #6E7272;
@@ -276,6 +277,8 @@
             color: #6E7272;
             font-size: 15px;
             padding-top: 0;
+            margin-top: 27px;
+            margin-bottom: -25px;
         }
         p.precios {
             margin-top: 25px;
@@ -543,6 +546,18 @@
             transform: rotate(45deg);
             -webkit-transform: rotate(45deg);
         }
+        .right {
+            transform: rotate(-45deg);
+            -webkit-transform: rotate(-45deg);
+        }
+        .left {
+            transform: rotate(135deg);
+            -webkit-transform: rotate(135deg);
+        }
+        .up {
+            transform: rotate(-135deg);
+            -webkit-transform: rotate(-135deg);
+        }
         amp-mega-menu button {
             background: none;
             border: none;
@@ -745,7 +760,6 @@
                 font-size: 14px;
                 text-align: left;
                 padding-top: 10px;
-                font-family: circular;
                 margin-bottom: 5px;
             }
             .listadoFooter a {
@@ -1189,118 +1203,99 @@
             <!-- <amp-state id="myRemoteState" src="/amp-hotsale/estructura.json"> </amp-state>
             <p [text]="myRemoteState" style="color: #edeef2;">texto</p> -->
             <amp-list
-            width="800"
-            height="1500"
-            layout="responsive"
+            height="3042"
+            layout="fixed-height"
             src="/amp-hotsale/estructura.json"
             items="."
+            class="hidden-xs hidden-sm"
             single-item>
                 <template type="amp-mustache">
                     {{#items}}
-                    <div class="card-estructura hidden-xs hidden-sm" style="
-                        width: {{image.style.width}};
-                        padding: {{image.style.padding}};
-                    ">
-                        <a href="{{url}}">
-                            <div role="img" aria-label="{{image.alt}}" style="
-                                background-image: url('{{image.url}}');
-                                background-position: {{image.style.position}};
-                                height: {{image.style.height}};
-                            " class="image-estructura">
-                                <div class="{{text.position}}">
-                                    <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.firstLabel}}</p>
-                                    <p style="color: {{text.price.style.color}}; margin: 0; font-size: {{text.price.style.fontSize}}; font-weight: {{text.price.style.fontWeight}}">{{text.price.label}}</p>
-                                    <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.lastLabel}}</p>
+                        <div class="card-estructura" style="
+                            width: {{image.style.width}};
+                            padding: {{image.style.padding}};
+                        ">
+                            <a href="{{url}}">
+                                <div role="img" aria-label="{{image.alt}}" style="
+                                    background-image: url('{{image.url}}');
+                                    background-position: {{image.style.position}};
+                                    height: {{image.style.height}};
+                                " class="image-estructura">
+                                    <div class="{{text.position}}">
+                                        <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.firstLabel}}</p>
+                                        <p style="color: {{text.price.style.color}}; margin: 0; font-size: {{text.price.style.fontSize}}; font-weight: {{text.price.style.fontWeight}}">{{text.price.label}}</p>
+                                        <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.lastLabel}}</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <p class="mainTextEstructura" style="text-align: {{mainText.style.textAlign}}">{{mainText.text}}</p>
-                        </a>
-                    </div>
-                    <div class="card-estructura visible-sm" style="
-                        width: {{image.sm.style.width}};
-                        padding: {{image.sm.style.padding}};
-                    ">
-                        <a href="{{url}}">
-                            <div role="img" aria-label="{{image.sm.alt}}" style="
-                                background-image: url('{{image.sm.url}}');
-                                background-position: {{image.sm.style.position}};
-                                height: {{image.sm.style.height}};
-                            " class="image-estructura">
-                                <div class="{{text.sm.position}}">
-                                    <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.firstLabel}}</p>
-                                    <p style="color: {{text.price.style.color}}; margin: 0; font-size: {{text.price.style.fontSize}}; font-weight: {{text.price.style.fontWeight}}">{{text.price.label}}</p>
-                                    <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.lastLabel}}</p>
+                                <p class="mainTextEstructura" style="text-align: {{mainText.style.textAlign}}">{{mainText.text}}</p>
+                            </a>
+                        </div>
+                    {{/items}}
+                </template>
+            </amp-list>
+            <amp-list
+            height="4100"
+            layout="fixed-height"
+            src="/amp-hotsale/estructura.json"
+            items="."
+            class="visible-sm"
+            single-item>
+                <template type="amp-mustache">
+                    {{#items}}
+                        <div class="card-estructura" style="
+                            width: {{image.sm.style.width}};
+                            padding: {{image.sm.style.padding}};
+                        ">
+                            <a href="{{url}}">
+                                <div role="img" aria-label="{{image.sm.alt}}" style="
+                                    background-image: url('{{image.sm.url}}');
+                                    background-position: {{image.sm.style.position}};
+                                    height: {{image.sm.style.height}};
+                                " class="image-estructura">
+                                    <div class="{{text.sm.position}}">
+                                        <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.firstLabel}}</p>
+                                        <p style="color: {{text.price.style.color}}; margin: 0; font-size: {{text.price.style.fontSize}}; font-weight: {{text.price.style.fontWeight}}">{{text.price.label}}</p>
+                                        <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.lastLabel}}</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <p class="mainTextEstructura" style="text-align: {{mainText.style.textAlign}}">{{mainText.text}}</p>
-                        </a>
-                    </div>
-                    <div class="card-estructura visible-xs" style="
-                        width: {{image.sm.style.width}};
-                        padding: {{image.sm.style.padding}};
-                    ">
-                        <a href="{{url}}">
-                            <div role="img" aria-label="{{image.xs.alt}}" style="
-                                background-image: url('{{image.xs.url}}');
-                                background-position: {{image.xs.style.position}};
-                                height: {{image.xs.style.height}};
-                            " class="image-estructura">
-                                <div class="{{text.xs.position}}">
-                                    <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.firstLabel}}</p>
-                                    <p style="color: {{text.price.style.color}}; margin: 0; font-size: {{text.price.style.fontSize}}; font-weight: {{text.price.style.fontWeight}}">{{text.price.label}}</p>
-                                    <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.lastLabel}}</p>
+                                <p class="mainTextEstructura" style="text-align: {{mainText.style.textAlign}}">{{mainText.text}}</p>
+                            </a>
+                        </div>
+                    {{/items}}
+                </template>
+            </amp-list>
+            <amp-list
+            height="2220"
+            layout="fixed-height"
+            src="/amp-hotsale/estructura.json"
+            items="."
+            class="visible-xs"
+            single-item>
+                <template type="amp-mustache">
+                    {{#items}}   
+                        <div class="card-estructura" style="
+                            width: {{image.xs.style.width}};
+                            padding: {{image.xs.style.padding}};
+                        ">
+                            <a href="{{url}}">
+                                <div role="img" aria-label="{{image.xs.alt}}" style="
+                                    background-image: url('{{image.xs.url}}');
+                                    background-position: {{image.xs.style.position}};
+                                    height: {{image.xs.style.height}};
+                                " class="image-estructura">
+                                    <div class="{{text.xs.position}}">
+                                        <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.firstLabel}}</p>
+                                        <p style="color: {{text.price.style.color}}; margin: 0; font-size: {{text.price.style.fontSize}}; font-weight: {{text.price.style.fontWeight}}">{{text.price.label}}</p>
+                                        <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.lastLabel}}</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <p class="mainTextEstructura" style="text-align: {{mainText.style.textAlign}}">{{mainText.text}}</p>
-                        </a>
-                    </div>
+                                <p class="mainTextEstructura" style="text-align: {{mainText.style.textAlign}}">{{mainText.text}}</p>
+                            </a>
+                        </div>
                     {{/items}}
                 </template>
             </amp-list>
 
-            <!-- <amp-list
-            width="800"
-            height="300"
-            layout="responsive"
-            src="/amp-hotsale/estructuraDos.json"
-            items="."
-            single-item>
-                <template type="amp-mustache">
-                    {{#items}}
-                    <div style="
-                        float: left;
-                        width: {{image.style.width}};
-                        position: relative;
-                        padding: {{image.style.padding}};
-                    ">
-                        <a href="coppel.com">
-                            <div role="img" aria-label="{{image.alt}}" style="
-                                background-image: url('{{image.url}}');
-                                background-repeat: no-repeat;
-                                background-size: cover;
-                                background-position: {{image.style.position}};
-                                height: {{image.style.height}};
-                                width: 100%;
-                                line-height: 25px;
-                            ">
-                                <div class="{{text.position}}"
-                                style="
-                                    position: absolute;
-                                ">
-                                    <p style="color: {{text.price.style.color}}; margin: 0; font-size: {{text.price.style.fontSize}}; font-weight: {{text.price.style.fontWeight}}">{{text.price.label}}</p>
-                                    <p style="color: {{text.description.style.color}}; margin: 0; font-size: {{text.description.style.fontSize}}; font-weight: {{text.description.style.fontWeight}}">{{text.description.label}}</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    {{/items}}
-                </template>
-            </amp-list> -->
-
-            
-     
-
-            
             <amp-list 
             layout="fixed-height"
             height="340"
@@ -1309,6 +1304,104 @@
             items="."
             single-item>
                 <amp-state id="myRemoteState" src="/amp-hotsale/carousel1.json"> </amp-state>
+                <p [text]="myRemoteState.items.length"></p>
+                <template type="amp-mustache">
+                    <div style="height: 400px; position: relative; width: 100%;">
+                        <div>
+                            <h3>{{titulo}}</h3>
+                        </div>
+                        <amp-carousel 
+                        type="carousel" 
+                        width="auto" 
+                        height="340px"
+                        controls 
+                        data-next-button-aria-label="Go to next slide" 
+                        data-previous-button-aria-label="Go to previous slide" 
+                        layout="fixed-height" >
+                            {{#items}}
+
+                                <div class="item">
+                                    <a href="{{url}}">
+                                        <amp-img src="{{image.url}}"
+                                        class="product" width="220px" height="176px" 
+                                        layout="intrinsic" alt="{{image.alt}}"></amp-img>
+                                    </a>
+                                    <a href="{{url}}">
+                                        <div class="areaDetexto">
+                                            <p class="titulo">
+                                                <span>{{texto.titulo}}</span></p>
+                                                <p class="copyContado">{{texto.copyContado}}</p>
+                                            <p class="precios">
+                                            <span class="precioAnterior">{{precio.precioAnterior}}</span>
+                                            <span class="precioAhora">{{precio.precioActual}}</span>
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+
+                            {{/items}}
+                        </amp-carousel>
+                    </div>
+                </template>
+            </amp-list>
+
+            <amp-list 
+            layout="fixed-height"
+            height="340"
+            binding="no"
+            src="/amp-hotsale/carousel2.json"
+            items="."
+            single-item>
+                <amp-state id="myRemoteState" src="/amp-hotsale/carousel2.json"> </amp-state>
+                <p [text]="myRemoteState.items.length"></p>
+                <template type="amp-mustache">
+                    <div style="height: 400px; position: relative; width: 100%;">
+                        <div>
+                            <h3>{{titulo}}</h3>
+                        </div>
+                        <amp-carousel 
+                        type="carousel" 
+                        width="auto" 
+                        height="340px"
+                        controls 
+                        data-next-button-aria-label="Go to next slide" 
+                        data-previous-button-aria-label="Go to previous slide" 
+                        layout="fixed-height" >
+                            {{#items}}
+
+                                <div class="item">
+                                    <a href="{{url}}">
+                                        <amp-img src="{{image.url}}"
+                                        class="product" width="220px" height="176px" 
+                                        layout="intrinsic" alt="{{image.alt}}"></amp-img>
+                                    </a>
+                                    <a href="{{url}}">
+                                        <div class="areaDetexto">
+                                            <p class="titulo">
+                                                <span>{{texto.titulo}}</span></p>
+                                                <p class="copyContado">{{texto.copyContado}}</p>
+                                            <p class="precios">
+                                            <span class="precioAnterior">{{precio.precioAnterior}}</span>
+                                            <span class="precioAhora">{{precio.precioActual}}</span>
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+
+                            {{/items}}
+                        </amp-carousel>
+                    </div>
+                </template>
+            </amp-list>
+
+            <amp-list 
+            layout="fixed-height"
+            height="340"
+            binding="no"
+            src="/amp-hotsale/carousel3.json"
+            items="."
+            single-item>
+                <amp-state id="myRemoteState" src="/amp-hotsale/carousel3.json"> </amp-state>
                 <p [text]="myRemoteState.items.length"></p>
                 <template type="amp-mustache">
                     <div style="height: 400px; position: relative; width: 100%;">
@@ -1366,7 +1459,7 @@
    
     <a href="#top"><div  id="gototop"> Inicio de página  <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/arrowUP.png" id="flechaArriba" width="12px" height="8px"   layout="intrinsic" alt="ir arriba"></amp-img></div></a>
 </div>
-<section class="footerCompleto">
+<!-- <section class="footerCompleto">
     <div class="container conFooter">
         <div class="col-md-2 col-xs-12  col-sm-4 footerMobile">
             
@@ -1412,7 +1505,7 @@
                             
                         </ul>
 
-                       <!-------- MOBILE ----->           
+       
                         <h5 class="titulosFooterMobile visible-xs">
                             <a [hidden]="acercaocultar"  on="tap:AMP.setState({ acercade: false , acercamostrar: false, acercaocultar: true})" class="titulosFooterMobile visible-xs">
                                Acerca de coppel
@@ -1511,7 +1604,7 @@
                             
                             
                         </ul>
-             <!-------- MOBILE ----->
+
                      <h5 class="titulosFooterMobile visible-xs">      
                         <a [hidden]="servocultar"  on="tap:AMP.setState({ servicios: false , servmostrar: false, servocultar: true})" class="titulosFooterMobile visible-xs">
                                Servicios coppel
@@ -1611,7 +1704,7 @@
                             </li>
                          </ul>
 
-         <!-------- MOBILE ----->
+
                     <h5  class="titulosFooterMobile visible-xs"> 
                         <a [hidden]="ocultar"   on="tap:AMP.setState({ atencion: false, mostrar: false, ocultar: true})" class="titulosFooterMobile visible-xs">
                                Atención a clientes
@@ -1813,8 +1906,8 @@
         </div>
     </div>
     
-</section>
-        <div class="row col-xs-12 hidden-md hidden-lg">   
+</section> -->
+        <!-- <div class="row col-xs-12 hidden-md hidden-lg">   
              <div class="col-xs-6">
                      <h5>
                            ACCESIBILIDAD
@@ -1852,9 +1945,9 @@
                             
                         </ul>
         </div>
-    </div>
-        <div class="row">
-            <div class="col-xs-12 col-md-8 col-md-push-2 ">
+    </div> -->
+        <div class="container">
+            <div class="col-xs-12">
                 <p>
                     Todos los precios de Coppel.com son en pesos mexicanos e incluyen impuestos.
                 </p>

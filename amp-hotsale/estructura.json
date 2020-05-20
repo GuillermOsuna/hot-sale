@@ -1085,6 +1085,897 @@
                     "textAlign": "center"
                 }
             }
+        },
+        {
+            "url": "www.coppel.com",
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-12.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "288px",
+                    "width": "50%",
+                    "padding": "0px 5px 10px 0px",
+                    "position": "0 0"
+                },
+                "sm": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_12.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "360px",
+                        "width": "50%",
+                        "padding": "0 0px 10px 5px",
+                        "position": "50% 50%"
+                    }
+                },
+                "xs": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_12.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "170px",
+                        "width": "50%",
+                        "padding": "0 0px 10px 5px",
+                        "position": "50% 70%"
+                    }
+                }
+            },
+            "text": {
+                "position": "top-right",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "red",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "firstLabel": "Hasta",
+                    "lastLabel": "de descuento",
+                    "style": {
+                        "color": "black",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "sm": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                },
+                "xs": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                }
+            },
+            "mainText": {
+                "text": "Juguetes",
+                "style": {
+                    "textAlign": "center"
+                }
+            }
+        },
+        {
+            "url": "www.coppel.com",
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-13.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "288px",
+                    "width": "50%",
+                    "padding": "0px 0px 10px 5px",
+                    "position": "0 0"
+                },
+                "sm": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_13.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "360px",
+                        "width": "50%",
+                        "padding": "0 5px 10px 0px",
+                        "position": "50% 50%"
+                    }
+                },
+                "xs": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_13.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "170px",
+                        "width": "50%",
+                        "padding": "0 5px 10px 0px",
+                        "position": "50% 70%"
+                    }
+                }
+            },
+            "text": {
+                "position": "top-right",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "red",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "firstLabel": "Hasta",
+                    "lastLabel": "de descuento",
+                    "style": {
+                        "color": "black",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "sm": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                },
+                "xs": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                }
+            },
+            "mainText": {
+                "text": "Lencería",
+                "style": {
+                    "textAlign": "center"
+                }
+            }
+        },
+        {
+            "url": "www.coppel.com",
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-14.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "288px",
+                    "width": "50%",
+                    "padding": "0px 5px 10px 0px",
+                    "position": "0 0"
+                },
+                "sm": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_14.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "360px",
+                        "width": "50%",
+                        "padding": "0 0px 10px 5px",
+                        "position": "50% 50%"
+                    }
+                },
+                "xs": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_14.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "170px",
+                        "width": "50%",
+                        "padding": "0 0px 10px 5px",
+                        "position": "50% 70%"
+                    }
+                }
+            },
+            "text": {
+                "position": "top-right",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "red",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "firstLabel": "Hasta",
+                    "lastLabel": "de descuento",
+                    "style": {
+                        "color": "black",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "sm": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                },
+                "xs": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                }
+            },
+            "mainText": {
+                "text": "Muebles para recámara",
+                "style": {
+                    "textAlign": "center"
+                }
+            }
+        },
+        {
+            "url": "www.coppel.com",
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-15.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "288px",
+                    "width": "50%",
+                    "padding": "0px 0px 10px 5px",
+                    "position": "0 0"
+                },
+                "sm": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_15.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "360px",
+                        "width": "50%",
+                        "padding": "0 5px 10px 0px",
+                        "position": "50% 50%"
+                    }
+                },
+                "xs": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_15.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "170px",
+                        "width": "50%",
+                        "padding": "0 5px 10px 0px",
+                        "position": "50% 70%"
+                    }
+                }
+            },
+            "text": {
+                "position": "top-right",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "red",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "firstLabel": "Hasta",
+                    "lastLabel": "de descuento",
+                    "style": {
+                        "color": "black",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "sm": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                },
+                "xs": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                }
+            },
+            "mainText": {
+                "text": "Electrodomésticos",
+                "style": {
+                    "textAlign": "center"
+                }
+            }
+        },
+        {
+            "url": "www.coppel.com",
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-16.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "288px",
+                    "width": "33.3333%",
+                    "padding": "0px 5px 10px 0px",
+                    "position": "0 0"
+                },
+                "sm": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_16.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "360px",
+                        "width": "50%",
+                        "padding": "0 0px 10px 5px",
+                        "position": "50% 50%"
+                    }
+                },
+                "xs": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_16.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "170px",
+                        "width": "50%",
+                        "padding": "0 0px 10px 5px",
+                        "position": "50% 70%"
+                    }
+                }
+            },
+            "text": {
+                "position": "top-right",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "red",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "firstLabel": "Hasta",
+                    "lastLabel": "de descuento",
+                    "style": {
+                        "color": "black",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "sm": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                },
+                "xs": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                }
+            },
+            "mainText": {
+                "text": "Bocinas",
+                "style": {
+                    "textAlign": "center"
+                }
+            }
+        },
+        {
+            "url": "www.coppel.com",
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-17.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "288px",
+                    "width": "33.3333%",
+                    "padding": "0px 5px 10px 5px",
+                    "position": "0 0"
+                },
+                "sm": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_17.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "360px",
+                        "width": "50%",
+                        "padding": "0 5px 10px 0px",
+                        "position": "50% 50%"
+                    }
+                },
+                "xs": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_17.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "170px",
+                        "width": "50%",
+                        "padding": "0 5px 10px 0px",
+                        "position": "50% 70%"
+                    }
+                }
+            },
+            "text": {
+                "position": "top-right",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "red",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "firstLabel": "Hasta",
+                    "lastLabel": "de descuento",
+                    "style": {
+                        "color": "black",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "sm": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                },
+                "xs": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                }
+            },
+            "mainText": {
+                "text": "Ropa infantil",
+                "style": {
+                    "textAlign": "center"
+                }
+            }
+        },
+        {
+            "url": "www.coppel.com",
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-18.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "288px",
+                    "width": "33.3333%",
+                    "padding": "0px 0px 10px 5px",
+                    "position": "0 0"
+                },
+                "sm": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_18.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "360px",
+                        "width": "50%",
+                        "padding": "0 0px 10px 5px",
+                        "position": "50% 50%"
+                    }
+                },
+                "xs": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_18.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "170px",
+                        "width": "50%",
+                        "padding": "0 0px 10px 5px",
+                        "position": "50% 70%"
+                    }
+                }
+            },
+            "text": {
+                "position": "top-right",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "red",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "firstLabel": "Hasta",
+                    "lastLabel": "de descuento",
+                    "style": {
+                        "color": "black",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "sm": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                },
+                "xs": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                }
+            },
+            "mainText": {
+                "text": "Relojes y joyería",
+                "style": {
+                    "textAlign": "center"
+                }
+            }
+        },
+        {
+            "url": "www.coppel.com",
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-19.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "288px",
+                    "width": "50%",
+                    "padding": "0px 5px 10px 5px",
+                    "position": "0 0"
+                },
+                "sm": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_19.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "360px",
+                        "width": "50%",
+                        "padding": "0 5px 10px 0px",
+                        "position": "50% 50%"
+                    }
+                },
+                "xs": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_19.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "170px",
+                        "width": "50%",
+                        "padding": "0 5px 10px 0px",
+                        "position": "50% 70%"
+                    }
+                }
+            },
+            "text": {
+                "position": "top-right",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "red",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "firstLabel": "Hasta",
+                    "lastLabel": "de descuento",
+                    "style": {
+                        "color": "black",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "sm": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                },
+                "xs": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                }
+            },
+            "mainText": {
+                "text": "Perfumes y cuidado personal",
+                "style": {
+                    "textAlign": "center"
+                }
+            }
+        },
+        {
+            "url": "www.coppel.com",
+            "image": {
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-20.jpg",
+                "alt": "imagen para hot sale",
+                "style": {
+                    "height": "288px",
+                    "width": "50%",
+                    "padding": "0px 0px 10px 5px",
+                    "position": "0 0"
+                },
+                "sm": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_20.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "360px",
+                        "width": "50%",
+                        "padding": "0 0px 10px 5px",
+                        "position": "50% 50%"
+                    }
+                },
+                "xs": {
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_20.jpg",
+                    "alt": "imagen para hot sale",
+                    "style": {
+                        "height": "170px",
+                        "width": "50%",
+                        "padding": "0 0px 10px 5px",
+                        "position": "50% 70%"
+                    }
+                }
+            },
+            "text": {
+                "position": "top-right",
+                "price": {
+                    "label": "30%",
+                    "style": {
+                        "color": "red",
+                        "fontSize": "40px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "description": {
+                    "firstLabel": "Hasta",
+                    "lastLabel": "de descuento",
+                    "style": {
+                        "color": "black",
+                        "fontSize": "20px",
+                        "fontWeight": "bold"
+                    }
+                },
+                "sm": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                },
+                "xs": {
+                    "position": "top-right",
+                    "price": {
+                        "label": "30%",
+                        "style": {
+                            "color": "red",
+                            "fontSize": "40px",
+                            "fontWeight": "bold"
+                        }
+                    },
+                    "description": {
+                        "firstLabel": "Hasta",
+                        "lastLabel": "de descuento",
+                        "style": {
+                            "color": "black",
+                            "fontSize": "20px",
+                            "fontWeight": "bold"
+                        }
+                    }
+                }
+            },
+            "mainText": {
+                "text": "Motos",
+                "style": {
+                    "textAlign": "center"
+                }
+            }
         }
     ]
 }
