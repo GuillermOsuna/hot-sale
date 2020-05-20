@@ -5,17 +5,155 @@
 		{
 			"url": "",
 			"image": {
-				"url": "",
-				"alt": "alt"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8132562-1.jpg",
+				"alt": "Tenis Adidas Pokémon Hoops Mid 2.0 K Blancos Juveniles"
 			},
             "texto": {
-				"titulo": "",
+				"titulo": "Tenis Adidas Pokémon Hoops Mid 2.0 K Blancos Juveniles",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$9,999",
-				"precioActual": "$7,999"
+				"precioAnterior": "",
+				"precioActual": "$1,079"
+			}
+		},
+		{
+			"url": "",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/1066663-1.jpg",
+				"alt": "Batería de Cocina T-Fal A730SA74/ 75 13PZ con 13 Piezas"
+			},
+            "texto": {
+				"titulo": "Batería de Cocina T-Fal A730SA74/ 75 13PZ con 13 Piezas",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "",
+				"precioActual": "$2,699"
+			}
+		},
+		{
+			"url": "/set-de-panaleros-marca-baby-colors-para-bebe-nino-pr-5098872",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/5098872-1.jpg",
+				"alt": "Set de Pañaleros marca Baby Colors para Bebé Niño"
+			},
+            "texto": {
+				"titulo": "Set de Pañaleros marca Baby Colors para Bebé Niño",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "",
+				"precioActual": "$159"
+			}
+		},
+		{
+			"url": "/motocicleta-vento-ryder-3-0-150-cc-dot-pm-5680153",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/5680153-1.jpg",
+				"alt": "Motocicleta Vento Ryder 3.0 150 cc DOT"
+			},
+            "texto": {
+				"titulo": "Motocicleta Vento Ryder 3.0 150 cc DOT",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "",
+				"precioActual": "$21,999"
+			}
+		},
+		{
+			"url": "/pijama-color-rosa-marca-beauty-secret-juvenil-pr-3338092",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3338092-1.jpg",
+				"alt": "Pijama color Rosa marca Beauty Secret Juvenil"
+			},
+            "texto": {
+				"titulo": "Pijama color Rosa marca Beauty Secret Juvenil",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "",
+				"precioActual": "$169"
 			}
 		}
+		,
+		{
+			"url": "/compresor-portatil-para-pintar-paint-blast-4x4-pm-5492583",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/5492583-1.jpg",
+				"alt": "Compresor Portátil para Pintar Paint Blast 4x4"
+			},
+            "texto": {
+				"titulo": "Compresor Portátil para Pintar Paint Blast 4x4",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,999",
+				"precioActual": "$1,399"
+			}
+		}
+		,
+		{
+			"url": "/lancome-la-vie-est-belle-pr-7406382",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/7406382-1.jpg",
+				"alt": "Lancome - La Vie Est Belle"
+			},
+            "texto": {
+				"titulo": "Lancome - La Vie Est Belle",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "",
+				"precioActual": "$2,419"
+			}
+		},
+		{
+			"url": "/escritorio-esquinero-arlette-negro-pm-3469423",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3469423-1.jpg",
+				"alt": "Escritorio Esquinero Arlette Negro"
+			},
+            "texto": {
+				"titulo": "Escritorio Esquinero Arlette Negro",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "1,499",
+				"precioActual": "$1,199"
+			}
+		},
+		{
+			"url": "/carrito-de-compras-prinsel-pr-7303502",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/7303502-1.jpg",
+				"alt": "Carrito de Compras Prinsel"
+			},
+            "texto": {
+				"titulo": "Carrito de Compras Prinsel",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$199",
+				"precioActual": "$180"
+			}
+		},
+		{
+			"url": "/reloj-fossil-es4720-rose-gold-pm-7315523",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/7315523-1.jpg",
+				"alt": "Reloj Fossil ES4720 Rose Gold"
+			},
+            "texto": {
+				"titulo": "Reloj Fossil ES4720 Rose Gold",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3,499",
+				"precioActual": "$2,429"
+			}
+		}
+		
 	]
 }

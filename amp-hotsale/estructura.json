@@ -1,6 +1,7 @@
 {
     "items": [
         {
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ELECTRONICA-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-01.jpg",
                 "alt": "imagen para hot sale",
@@ -34,7 +35,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "46%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -53,7 +54,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -73,7 +73,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -99,6 +98,7 @@
             }
         },
         {
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-DEPORTIVO-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-02.jpg",
                 "alt": "imagen para hot sale",
@@ -132,7 +132,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "50%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -151,7 +151,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -171,7 +170,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -197,6 +195,7 @@
             }
         },
         {
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB9952-BLQEHM-CELULARES-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-03.jpg",
                 "alt": "imagen para hot sale",
@@ -230,7 +229,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "50%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -249,7 +248,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -269,7 +267,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -295,7 +292,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/colchones",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-04.jpg",
                 "alt": "imagen para hot sale",
@@ -329,7 +326,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "40%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -348,7 +345,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -368,7 +364,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -394,7 +389,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2020-EPMTPE-ZAPATOS-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-05.jpg",
                 "alt": "imagen para hot sale",
@@ -428,7 +423,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "40%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -447,7 +442,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -467,7 +461,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -492,8 +485,8 @@
                 }
             }
         },
-        {
-            "url": "www.coppel.com",
+        {  
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=15851&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ROPAHOMBREYMUJER-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-06.jpg",
                 "alt": "imagen para hot sale",
@@ -527,7 +520,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "50%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -546,7 +539,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -566,7 +558,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -592,7 +583,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-LINEABLANCA-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-07.jpg",
                 "alt": "imagen para hot sale",
@@ -626,7 +617,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "40%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -645,7 +636,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -665,7 +655,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -691,7 +680,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/hogar/salas/",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-08.jpg",
                 "alt": "imagen para hot sale",
@@ -744,7 +733,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -764,7 +752,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -790,7 +777,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/hogar/comedores/",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-09.jpg",
                 "alt": "imagen para hot sale",
@@ -824,7 +811,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "20%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -843,7 +830,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -863,7 +849,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -889,7 +874,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/hogar/muebles-para-cocinas/",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-10.jpg",
                 "alt": "imagen para hot sale",
@@ -923,7 +908,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "15%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -942,7 +927,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -962,7 +946,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -988,7 +971,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-OTROPM-BEBESROPA-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-11.jpg",
                 "alt": "imagen para hot sale",
@@ -1022,7 +1005,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "40%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -1041,7 +1024,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1061,7 +1043,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1087,7 +1068,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-JUGUETESDESCUENTO-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-12.jpg",
                 "alt": "imagen para hot sale",
@@ -1121,7 +1102,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "50%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -1140,7 +1121,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1160,7 +1140,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1186,7 +1165,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2020-EPMTPE-LENCERIA-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-13.jpg",
                 "alt": "imagen para hot sale",
@@ -1220,7 +1199,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "50%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -1239,7 +1218,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1259,7 +1237,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1285,9 +1262,9 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/recamara",
             "image": {
-                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-14.jpg",
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-14-a.jpg",
                 "alt": "imagen para hot sale",
                 "style": {
                     "height": "288px",
@@ -1296,7 +1273,7 @@
                     "position": "0 0"
                 },
                 "sm": {
-                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_14.jpg",
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_14-a.jpg",
                     "alt": "imagen para hot sale",
                     "style": {
                         "height": "360px",
@@ -1306,7 +1283,7 @@
                     }
                 },
                 "xs": {
-                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_14.jpg",
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_14-a.jpg",
                     "alt": "imagen para hot sale",
                     "style": {
                         "height": "170px",
@@ -1319,7 +1296,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "20%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -1338,7 +1315,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1358,7 +1334,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1384,7 +1359,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ELECTRODOMESTICOS-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-15.jpg",
                 "alt": "imagen para hot sale",
@@ -1437,7 +1412,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1457,7 +1431,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1483,7 +1456,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/electronica/audio-y-equipos-de-sonido/bocinas-portatiles",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-16.jpg",
                 "alt": "imagen para hot sale",
@@ -1517,7 +1490,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "42%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -1536,7 +1509,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1556,7 +1528,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1582,7 +1553,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-INFANTILDESCUENTO-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-17.jpg",
                 "alt": "imagen para hot sale",
@@ -1616,7 +1587,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "40%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -1635,7 +1606,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1655,7 +1625,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1681,7 +1650,7 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12753&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-BLQELD-ACCESORIOS-HOTSALE",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-18.jpg",
                 "alt": "imagen para hot sale",
@@ -1734,7 +1703,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1754,7 +1722,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1773,16 +1740,16 @@
                 }
             },
             "mainText": {
-                "text": "Relojes y joyería",
+                "text": "Relojería, joyería y óptica",
                 "style": {
                     "textAlign": "center"
                 }
             }
         },
         {
-            "url": "www.coppel.com",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-CUIDADOPERSONAL-HOTSALE",
             "image": {
-                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-19.jpg",
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-19-a.jpg",
                 "alt": "imagen para hot sale",
                 "style": {
                     "height": "288px",
@@ -1791,7 +1758,7 @@
                     "position": "0 0"
                 },
                 "sm": {
-                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_19.jpg",
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_19-a.jpg",
                     "alt": "imagen para hot sale",
                     "style": {
                         "height": "360px",
@@ -1801,7 +1768,7 @@
                     }
                 },
                 "xs": {
-                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_19.jpg",
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_19-a.jpg",
                     "alt": "imagen para hot sale",
                     "style": {
                         "height": "170px",
@@ -1833,7 +1800,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1853,7 +1819,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1879,7 +1844,8 @@
             }
         },
         {
-            "url": "www.coppel.com",
+            
+            "url": "https://www.coppel.com/automotriz/motos/motocicletas-motos",
             "image": {
                 "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-20.jpg",
                 "alt": "imagen para hot sale",
@@ -1913,7 +1879,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "30%",
+                    "label": "$5,000",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -1932,7 +1898,6 @@
                 "sm": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
@@ -1952,7 +1917,6 @@
                 "xs": {
                     "position": "top-right",
                     "price": {
-                        "label": "30%",
                         "style": {
                             "color": "red",
                             "fontSize": "40px",
