@@ -73,7 +73,7 @@
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "6,499",
+				"precioAnterior": "$6,499",
 				"precioActual": "$4,999"
 			}
 		},

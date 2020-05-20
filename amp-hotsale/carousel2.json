@@ -120,7 +120,7 @@
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "1,499",
+				"precioAnterior": "$1,499",
 				"precioActual": "$1,199"
 			}
 		},
@@ -138,22 +138,6 @@
 				"precioAnterior": "$199",
 				"precioActual": "$180"
 			}
-		},
-		{
-			"url": "https://www.coppel.com/reloj-fossil-es4720-rose-gold-pm-7315523",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/7315523-1.jpg",
-				"alt": "Reloj Fossil ES4720 Rose Gold"
-			},
-            "texto": {
-				"titulo": "Reloj Fossil ES4720 Rose Gold",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$3,499",
-				"precioActual": "$2,429"
-			}
-		}
-		
+		}		
 	]
 }
