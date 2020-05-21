@@ -22,7 +22,7 @@ let JsonA =
 			"selector": "#the-button",
 			"request": "event",
 			"vars": {
-				"eventCategory": "EEC - Promo - SelecciÃ³n",
+				"eventCategory": "EEC - Promo - Selección",
 				"eventAction": "Landing HS 2020|"
 			}
 		},
@@ -31,7 +31,7 @@ let JsonA =
 			"selector": "#prod",
 			"request": "event",
 			"vars": {
-				"eventCategory": "EEC - Lista - SelecciÃ³n",
+				"eventCategory": "EEC - Lista - Selección",
 				"eventAction": "Landing HS 2020|${id}"
 			},
 			"extraUrlParams": {

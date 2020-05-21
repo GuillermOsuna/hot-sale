@@ -164,23 +164,16 @@
             margin-top: 0;
             text-decoration: none;
         }
+        .container-numero {
+            padding: 10px;
+        }
         .llamar-texto {
             font-weight: 700;
-            margin-left: 8px;
             color: #000;
-        
         }
         .llamar-numero {
             display: block;
-            margin-left: 24px;
             color: #000;
-        }
-
-        .carritoMobil{
-            position: absolute;
-            right: 13px;
-            top: 6px;
-            text-align: center;
         }
         nav.cat {
             background: #ffffff;
@@ -255,9 +248,6 @@
         }
         p.precios {
             margin-top: 25px;
-        }
-        .container-menu-mobile {
-            margin-right: 15px;
         }
         .botonMenuMobile {
             text-align: left;
@@ -420,6 +410,9 @@
         amp-mega-menu:nth-child(1) nav > ul > li {
             padding-right: 35px;
         }
+        amp-mega-menu:nth-child(1) nav > ul > li > div {
+            width: 237px;
+        }
         amp-mega-menu:nth-child(2) nav > ul > li {
             padding-left: 15px;
         }
@@ -510,10 +503,9 @@
             position: relative;
             width: 20px;
             height: 20px;
-            margin: 0 auto;
             background-color: #006db6;
-            margin-top: 8px;
-            margin-left: 6px;
+            margin-left: 9px;
+            margin-top: 6px;
         }
         .search {
             position: relative;
@@ -831,25 +823,153 @@
         button.hamburger {
             background: #006CBA;
             border-radius: 15px;
-            padding: 6px 9px 5px 9px;
+            padding: 9px 9px 8px 9px;
             border: none;
             color: white;
             display: inline-flex;
         }
         .container-header {
             padding: 0 5px; 
-            display: flex;
+            display: flow-root;
+        }
+        .image-logo-coppel {
+            width: 100px;
+            margin-top: 5px;
+        }
+        .container-menu-mobile {
+            float: left;
+            margin-right: 10px;
+        }
+        .input-search-term {
+            width: 70px;
+            border-radius: 16px;
+            padding-left: 18px;
+            border: none;
+            height: 30px;
+            font-size: 12px;
+        }
+        .input-search-term::placeholder {
+        color: #006CBA;
+        }
+        .button-search-term {
+            display: none;
+            background: #006db6;
+            border: none;
+            width: 34px;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+            padding: 0;
+        }
+        .container-image {
+            float: left;
+        }
+        .buscador {
+            float: right;
+        }
+        .carritoMobil{
+            float: right;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .search-wrapper2 {
+            position: absolute;
+            width: 11px;
+            height: 11px;
+            background-color: #ffffff;
+            margin-top: -21px;
+            margin-left: 5px;
+        }
+        .search2 {
+            position: relative;
+            width: 40px;
+            margin: 0 auto;
+            padding: 0px 0;
+            text-align: center;
+        }
+        .search__circle2 {
+            width: 9px;
+            height: 9px;
+            border: 1px solid #006cba;
+            border-radius: 100px;
+        }
+        .search__rectangle2 {
+            position: absolute;
+            right: 29px;
+            bottom: -1px;
+            width: 4px;
+            -webkit-transform: rotate(45deg);
+            transform: rotate(45deg);
+            border: 1px solid #006cba;
+            border-top-right-radius: 12px;
+            border-bottom-right-radius: 12px;
+        }
+        .opciones-desktop {
+            display: none;
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+        .carritoDesktop {
+            background: #006cba;
+            padding: 10.3px;
+        }
+        .img-phone {
+            position: absolute;
+            margin-left: -20px;
+            margin-top: 2px;
         }
         @media only screen and (min-width: 360px) {
             .sandwich {
                 display: block;
             }
             button.hamburger {
-                padding: 6px 15px 5px 15px;
+                padding: 9px 15px 8px 15px;
+            }
+            .container-menu-mobile {
+                margin-right: 15px;
             }
             .container-header {
                 padding: 0 15px; 
+            }
+        }
+        @media only screen and (min-width: 424px) {
+            .input-search-term {
+                width: 120px;
+            }
+        }
+        @media only screen and (min-width: 992px) {
+            .buscador {
+                float: left;
+                margin-left: 15px;
+            }
+            .carritoMobil {
+                display: none;
+            }
+            .opciones-desktop {
                 display: flex;
+            }
+        }
+        @media only screen and (min-width: 1200px) {
+            .buscador > form {
+                display: flex;
+            }
+            .input-search-term {
+                width: 270px;
+                border-top-left-radius: 5px;
+                border-bottom-left-radius: 5px;
+                border-top-right-radius: 0;
+                border-bottom-right-radius: 0;
+                padding-left: 10px;
+                font-size: 14px;
+            }
+            .input-search-term::placeholder {
+                color: grey;
+            }
+            .search-wrapper2 {
+                display: none;
+            }
+            .button-search-term {
+                display: block;
             }
         }
 </style>
@@ -877,7 +997,7 @@
         </section>
     </div> -->
     <header style="
-        background: black;
+        background: #FFE143;
         width: 100%;
         height: auto;
     ">
@@ -894,17 +1014,31 @@
                     </span>
                 </button>
             </div>
-            <div>
+            <div class="container-image">
                 <a href="https://www.coppel.com">
                     <amp-img src="/wcsstore/AuroraStorefrontAssetStore/images/logo.svg"
                     width="130" 
                     height="27"
+                    layout="responsive"
                     data-vars-nd1="Landing HS 2020"
                     data-vars-nd2="Menu superior" 
                     data-vars-nd3="Logo" 
                     data-vars-nd4="" 
-                    class="clicGeneral" 
+                    class="clicGeneral image-logo-coppel" 
                     alt="Logo de Coppel.com" /></amp-img>
+                </a>
+            </div>
+            <div class="carritoMobil" >
+                <a href="/AjaxOrderItemDisplayView?storeId=12251&catalogId=10001&langId=-5">
+                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/carrito.png" 
+                    media="(min-width: 200px)"
+                    width="30px" height="28px" 
+                    data-vars-nd1="Landing HS 2020"
+                    data-vars-nd2="Menu superior" 
+                    data-vars-nd3="Ir al carrito"
+                    data-vars-nd4=""
+                    class="clicGeneral"
+                    alt="Carrito" /></amp-img>
                 </a>
             </div>
             <div class="buscador">
@@ -916,16 +1050,23 @@
                     <input name="catalogId" value="10001" type="hidden" />
                     <input name="langId" value="-5" type="hidden" />
                     <input name="searchTerm"  
+                    class="input-search-term"
                     type="search" 
                     placeholder="Busca tus productos" 
                     tabindex="0" role="button" />
+                    <div class="search-wrapper2">
+                        <div class="search2">
+                        <div class="search__circle2"></div>
+                        <div class="search__rectangle2"></div>
+                        </div>
+                    </div>
                     <button
                     name="iconoBuscadorMobil" 
                     data-vars-nd1="Landing HS 2020"
                     data-vars-nd2="Buscar - Botón" 
                     data-vars-nd3=""
                     data-vars-nd4="" 
-                    class="clicGeneral"
+                    class="clicGeneral button-search-term"
                     >
                         <div class="search-wrapper">
                             <div class="search">
@@ -937,76 +1078,37 @@
                 </form>
             </div>
         </div>
-    </header>
-    <header class="header" id="top">
-        <nav class="navbar row">
-            <div class="col-md-7 col-xs-12">   
-
-                
-                <div class="hidden-xs hidden-sm">
-                    <div class="buscador col-md-6 col-sm-6 col-xs-2 "  >
-                        <form
-                        method="GET"
-                        action="https://coppel.com/SearchDisplay?"
-                        target="_top"
-                        style="display: contents;">
-                            <input name="storeId" value="12251" hidden>
-                            <input name="catalogId" value="10001" hidden>
-                            <input name="langId" value="-5" hidden>
-                            <input  name="searchTerm"  type="search" placeholder="Busca tus productos" tabindex="0" role="button">
-                            <button name="searchWrapper" class="hidden-xs hidden-sm">
-                                <div class="search-wrapper">
-                                    <div class="search">
-                                    <div class="search__circle"></div>
-                                    <div class="search__rectangle"></div>
-                                    </div>
-                                </div>
-                            </button>
-                        </form>
-                    </div>
-                </div>
-
-                <div class="carritoMobil col-md-4 col-xs-2  hidden-md hidden-lg" >
-                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/carrito.png" 
+        <div class="opciones-desktop">
+            <div class="container-numero">
+                <a href="tel:8002207735">
+                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/telefono.png" 
+                    media="(min-width: 992px)"
+                    width="14px" height="18px" 
+                    data-vars-nd1="Landing HS 2020"
+                    data-vars-nd2="Menu superior" 
+                    data-vars-nd3="Llama al 800"
+                    data-vars-nd4=""
+                    class="img-phone"
+                    alt="Telefono" /></amp-img>
+                    <span  class="llamar-texto">Compra ahora</span>
+                    <span class="llamar-numero">800 220 7735</span>
+                </a>
+            </div>
+            <div class="carritoDesktop" >
+                <a href="/AjaxOrderItemDisplayView?storeId=12251&catalogId=10001&langId=-5">
+                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/carrito-desktop.png" 
                     media="(min-width: 200px)"
-                    width="30px" height="28px" 
+                    width="39px" height="38px" 
                     data-vars-nd1="Landing HS 2020"
                     data-vars-nd2="Menu superior" 
                     data-vars-nd3="Ir al carrito"
                     data-vars-nd4=""
                     class="clicGeneral"
                     alt="Carrito" /></amp-img>
-                </div>     
+                </a>
             </div>
-
-            <div class="col-md-5 col-xs-6 hidden-sm hidden-xs">   
-                <div class="telefono col-md-4 col-xs-2 col-md-push-6 hidden-xs hidden-sm">
-                    <a href="tel:8002207735">
-                        <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/telefono.png" 
-                        media="(min-width: 992px)"
-                        width="14px" height="18px" 
-                        data-vars-nd1="Landing HS 2020"
-                        data-vars-nd2="Menu superior" 
-                        data-vars-nd3="Llama al 800"
-                        data-vars-nd4=""
-                        alt="Telefono" /></amp-img>
-                        <span  class="hidden-sm llamar-texto">Compra ahora</span>
-                        <span class="llamar-numero">800 220 7735</span>
-                    </a>
-                </div>
-                <a href="/AjaxOrderItemDisplayView?storeId=12251&catalogId=10001&langId=-5">
-                    <div class="carrito col-md-4 hidden-xs hidden-sm">
-                        <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/img/carrito-desktop.png" 
-                        media="(min-width: 992px)"
-                        class="margenCarritoDesktop"
-                        width="43px" height="45px" 
-                        alt="Carrito" /></amp-img>
-                    </div> 
-                </a>     
-            </div>
-        </nav>
+        </div>
     </header>
-
     <div class="menuDesktop hidden-xs hidden-sm">
         <div class="container">
             <amp-mega-menu height="58" layout="fixed-height">
@@ -1014,58 +1116,33 @@
                     <ul>
                         <li class="menu-item">
                             <button name="departamentos"><b>Departamentos</b><i class="arrow down"></i></button>
-                            <div role="dialog">
+                            <div role="dialog" class="dialog-departamentos">
                                 <ul class="primeroNiveles">
-                                    <a href="https://www.coppel.com">
-                                        <li>Celulares</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Electrónica</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Consolas y Videojuegos</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Hogar y Muebles</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Línea Blanca y Electrodomésticos</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Zapatos</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Mujeres</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Hombres</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Relojes Lentes y Joyería</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Perfumes y Cuidado Personal</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Bebés y Niños</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Juguetes</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Motos y Automotriz</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Deportes</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Viajes</li>
-                                    </a>
+                                    <li><a href="/celulares">Celulares</a></li>
+                                    <li><a href="/electronica">Electrónica</a></li>
+                                    <li><a href="/consolas-videojuegos">Consolas y Videojuegos</a></li>
+                                    <li><a href="/hogar">Hogar y Muebles</a></li>
+                                    <li><a href="/linea-blanca-electrodomesticos">Línea Blanca y Electrodomésticos</a></li>
+                                    <li><a href="/zapatos">Zapatos</a></li>
+                                    <li><a href="/mujeres">Mujeres</a></li>
+                                    <li><a href="/hombres">Hombres</a></li>
+                                    <li><a href="/relojes-lentes-joyeria">Relojes Lentes y Joyería</a></li>
+                                    <li><a href="/perfumes-y-cuidado-personal">Perfumes y Cuidado Personal</a></li>
+                                    <li><a href="bebes-y-ninos">Bebés y Niños</a></li>
+                                    <li><a href="/juguetes">Juguetes</a></li>
+                                    <li><a href="automotriz">Motos y Automotriz</a></li>
+                                    <li><a href="/deportes">Deportes</a></li>
+                                    <li><a href="https://viajes.coppel.com">Viajes</a></li>
                                 </ul>
                             </div>
                         </li>
-                        <li class="menu-item">
+                        <!-- <li class="menu-item">
                             <button name="ofertas">Ofertas <i class="arrow down"></i></button>
+                            <div role="dialog">
+                                <ul>
+                                    <li>algo</li>
+                                </ul>
+                            </div>
                         </li>
                         <li class="menu-item">
                             <button name="exclusivosEnLinea">Exclusivos en línea <i class="arrow down"></i></button>
@@ -1075,11 +1152,11 @@
                         </li>
                         <li class="menu-item">
                             <button name="creditoCoppel">Crédito Coppel <i class="arrow down"></i></button>
-                        </li>
+                        </li> -->
                     </ul>
                 </nav>
             </amp-mega-menu>
-            <amp-mega-menu height="58" layout="fixed-height">
+            <!-- <amp-mega-menu height="58" layout="fixed-height">
                 <nav>
                     <ul>
                         <li class="menu-item derMenuTienda">
@@ -1090,7 +1167,7 @@
                         </li>
                     </ul>
                 </nav>
-            </amp-mega-menu>
+            </amp-mega-menu> -->
         </div>
     </div>
     <div class="row menuMobile visible-xs">
@@ -1116,52 +1193,22 @@
                     <span><b>Departamentos</b> <span class="arrowDownIcon">˄</span></span>
 
                     <li [hidden]="hiddenState2" hidden=""  class="subMenuMobil">
-                                <ul >
-                                    <a href="https://www.coppel.com">
-                                        <li>Celulares</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Electrónica</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Consolas y Videojuegos</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Hogar y Muebles</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Línea Blanca y Electrodomésticos</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Zapatos</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Mujeres</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Hombres</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Relojes Lentes y Joyería</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Perfumes y Cuidado Personal</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Bebés y Niños</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Juguetes</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Motos y Automotriz</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Deportes</li>
-                                    </a>
-                                    <a href="https://www.coppel.com">
-                                        <li>Viajes</li>
-                                    </a>
+                                <ul>
+                                    <li><a href="/celulares">Celulares</a></li>
+                                    <li><a href="/electronica">Electrónica</a></li>
+                                    <li><a href="/consolas-videojuegos">Consolas y Videojuegos</a></li>
+                                    <li><a href="/hogar">Hogar y Muebles</a></li>
+                                    <li><a href="/linea-blanca-electrodomesticos">Línea Blanca y Electrodomésticos</a></li>
+                                    <li><a href="/zapatos">Zapatos</a></li>
+                                    <li><a href="/mujeres">Mujeres</a></li>
+                                    <li><a href="/hombres">Hombres</a></li>
+                                    <li><a href="/relojes-lentes-joyeria">Relojes Lentes y Joyería</a></li>
+                                    <li><a href="/perfumes-y-cuidado-personal">Perfumes y Cuidado Personal</a></li>
+                                    <li><a href="bebes-y-ninos">Bebés y Niños</a></li>
+                                    <li><a href="/juguetes">Juguetes</a></li>
+                                    <li><a href="automotriz">Motos y Automotriz</a></li>
+                                    <li><a href="/deportes">Deportes</a></li>
+                                    <li><a href="https://viajes.coppel.com">Viajes</a></li>
                                 </ul>
                         </li>
                 </li>
