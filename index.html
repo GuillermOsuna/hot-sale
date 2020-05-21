@@ -40,7 +40,6 @@
         body h1, h2, a, p, span, label { font-family: 'Circular'; font-weight: bold }
         header .logoCoppel{ display: inline-block; margin-left: 15px;}
         header .logoCoppel img{ width: 130px; }
-        header  a{ display: inline-block; text-decoration: underline; margin-top: 5px; }
         header{ padding-top: 16px; padding-bottom: 16px;background-color: #ffe143;  }
 
         button, a, h4, h2 {
@@ -160,39 +159,7 @@
         span.copyMenu {
             font-size: 1rem;
             font-weight: 400;
-            line-height: 28px;
         }
-
-        .buscador {
-            display: inline-flex;
-            margin-top: 5px;
-            margin-bottom: 5px;
-            padding-left: 0;
-            margin-left: 15px;
-        }
-
-        .buscador input {
-            border: none;
-            box-shadow: 0 2px 3px rgba(0,0,0,.16);
-            height: 33px;
-            width: 78px;
-            max-width: 485px;
-            font-size: 1rem;
-            border-top-left-radius: 5px;
-            border-bottom-left-radius: 5px;
-        }
-
-        .buscador button {
-            box-shadow: 0 3px 3px rgba(0,0,0,.16);
-            background-color: #016db6;
-            border-color: #016db6;
-            border: 0;
-            height: 34px;
-            color: white;
-            border-top-right-radius: 5px;
-            border-bottom-right-radius: 5px;
-        }
-
         .telefono a {
             margin-top: 0;
             text-decoration: none;
@@ -289,16 +256,8 @@
         p.precios {
             margin-top: 25px;
         }
-        button.hamburger {
-            background: #006CBA;
-            border-radius: 15px;
-            padding: 0 6px;
-            height: 28px;
-            border: none;
-            margin: 5px 0 0 5px;
-            width: 50px;
-            color: white;
-            text-align: center;
+        .container-menu-mobile {
+            margin-right: 15px;
         }
         .botonMenuMobile {
             text-align: left;
@@ -397,28 +356,6 @@
         #descargaText {
             font-size: 20px;
             text-align: left;
-        }
-        .buscadorExpanded {
-            position: absolute;
-            z-index: 3;
-            right: 0;
-            left: 32px;
-            top: 5px;
-            width: 100%;
-            height: 48px;
-            background: #ffe143;
-            text-align: center;
-        }
-
-        .buscadorExpanded input {
-            border-radius: 17px;
-            border: none;
-            box-shadow: 0 2px 3px rgba(0,0,0,.16);
-            height: 33px;
-            width: 200px;
-            max-width: 485px;
-            font-size: 1rem;
-            transition: width 1s, height 1s;
         }
         .iconoBuscadorMobil {
             box-shadow: 0 3px 3px rgba(0,0,0,.16);
@@ -625,28 +562,6 @@
             float: left;
         }
         @media only screen and (min-width: 375px) {
-            .buscadorExpanded {
-                position: absolute;
-                z-index: 3;
-                right: 0;
-                left: 32px;
-                top: 5px;
-                width: 95%;
-                height: 31px;
-                background: #ffe143;
-                text-align: center;
-                
-            }
-            .buscadorExpanded input {
-                border-radius: 17px;
-                border: none;
-                box-shadow: 0 2px 3px rgba(0,0,0,.16);
-                height: 33px;
-                width: 280px;
-                max-width: 485px;
-                font-size: 1rem;
-                transition: width 1s, height 1s;
-            }
             .iconoBuscadorMobil {
                 box-shadow: 0 3px 3px rgba(0,0,0,.16);
                 background-color: #016db6;
@@ -660,16 +575,6 @@
         }
 
         @media only screen and (min-width: 768px) {
-            .buscadorExpanded input {
-                border-radius: 17px;
-                border: none;
-                box-shadow: 0 2px 3px rgba(0,0,0,.16);
-                height: 33px;
-                width: 600px;
-                max-width: 485px;
-                font-size: 1rem;
-                transition: width 1s, height 1s;
-            }
             .tresLogos {
                 text-align: left;
             }
@@ -688,15 +593,6 @@
             .botonMenuMobile {
                 text-align: center;
             }
-            .buscador input {
-                width: 100%;
-                height: 30px;
-                transition: .3s all;
-                padding-left: 22px;
-                box-shadow: none;
-                border: none;
-                font-size: 1.5rem;
-            }
             .menuDesktop {
             background: #fff;
             line-height: 30px;
@@ -706,14 +602,6 @@
                 padding-top: 15px;
                 width: 1170px;
             }
-            .buscador {
-                display: inline-flex;
-                margin-top: 5px;
-                margin-bottom: 5px;
-                padding-left: 0;
-                margin-left: 5px;
-            }
-
         }
 
         @media (min-width: 992px ) {
@@ -728,20 +616,6 @@
                 width: 95px;
                 top: -16px;
                 right: 0px;
-            }
-            .buscador {
-                display: inline-flex;
-                margin-top: 5px;
-                margin-bottom: 5px;
-                padding-left: 0;
-                margin-left: 55px;
-            }
-            .buscador input {
-                border: none;
-                box-shadow: 0 2px 3px rgba(0,0,0,.16);
-                height: 33px;
-                width: 100%;
-                max-width: 485px;
             }
             .margenCarritoDesktop {
                 margin-top: 15px;
@@ -834,24 +708,7 @@
             padding-left: 35px;
             }
             ul.primeroNiveles:before {
-            right: 80%;
-            }
-            .buscador input {
-                border: none;
-                box-shadow: 0 2px 3px rgba(0,0,0,.16);
-                height: 33px;
-                width: 100%;
-                max-width: 485px;
-            }
-
-            .buscador button {
-
-                box-shadow: 0 3px 3px rgba(0,0,0,.16);
-                background-color: #016db6;
-                border-color: #016db6;
-                border: 0;
-                height: 34px;
-                color: white;
+                right: 80%;
             }
             .contenidoParaMil {
                 display: none;
@@ -944,6 +801,57 @@
         .main-image amp-img {
             border-radius: 4px;
         }
+        .list-amp-category-mobile-h2[aria-expanded=true] .arrow.down {
+            display: none;
+        }
+        .list-amp-category-mobile-h2[aria-expanded=false] .arrow.down {
+            display: inline-block;
+        }
+        .list-amp-category-mobile-h2[aria-expanded=true] .arrow.up {
+            display: inline-block;
+        }
+        .list-amp-category-mobile-h2[aria-expanded=false] .arrow.up {
+            display: none;
+        }
+        .categoria-arrow {
+            position: absolute;
+            right: 20px;
+            top: 16px;
+        }
+        .sandwich {
+            display: none;
+            margin: 0px 4px 0 0;
+        }
+        .sandwich > div {
+            width: 10px;
+            height: 1px;
+            background-color: white;
+            margin: 2px 0px;
+        }
+        button.hamburger {
+            background: #006CBA;
+            border-radius: 15px;
+            padding: 6px 9px 5px 9px;
+            border: none;
+            color: white;
+            display: inline-flex;
+        }
+        .container-header {
+            padding: 0 5px; 
+            display: flex;
+        }
+        @media only screen and (min-width: 360px) {
+            .sandwich {
+                display: block;
+            }
+            button.hamburger {
+                padding: 6px 15px 5px 15px;
+            }
+            .container-header {
+                padding: 0 15px; 
+                display: flex;
+            }
+        }
 </style>
 </head>
 <body data-ampdevmode>
@@ -968,65 +876,73 @@
             </a>
         </section>
     </div> -->
+    <header style="
+        background: black;
+        width: 100%;
+        height: auto;
+    ">
+        <div class="container-header">
+            <div class="hidden-md hidden-lg container-menu-mobile">
+                <button name="hamburger" class="hamburger" on="tap:sidebar.toggle">
+                    <div class="sandwich">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                    <span class="copyMenu">
+                        MENÚ
+                    </span>
+                </button>
+            </div>
+            <div>
+                <a href="https://www.coppel.com">
+                    <amp-img src="/wcsstore/AuroraStorefrontAssetStore/images/logo.svg"
+                    width="130" 
+                    height="27"
+                    data-vars-nd1="Landing HS 2020"
+                    data-vars-nd2="Menu superior" 
+                    data-vars-nd3="Logo" 
+                    data-vars-nd4="" 
+                    class="clicGeneral" 
+                    alt="Logo de Coppel.com" /></amp-img>
+                </a>
+            </div>
+            <div class="buscador">
+                <form
+                method="GET"
+                action="https://coppel.com/SearchDisplay?"
+                target="_top">
+                    <input name="storeId" value="12251" type="hidden" />
+                    <input name="catalogId" value="10001" type="hidden" />
+                    <input name="langId" value="-5" type="hidden" />
+                    <input name="searchTerm"  
+                    type="search" 
+                    placeholder="Busca tus productos" 
+                    tabindex="0" role="button" />
+                    <button
+                    name="iconoBuscadorMobil" 
+                    data-vars-nd1="Landing HS 2020"
+                    data-vars-nd2="Buscar - Botón" 
+                    data-vars-nd3=""
+                    data-vars-nd4="" 
+                    class="clicGeneral"
+                    >
+                        <div class="search-wrapper">
+                            <div class="search">
+                            <div class="search__circle"></div>
+                            <div class="search__rectangle"></div>
+                            </div>
+                        </div>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </header>
     <header class="header" id="top">
         <nav class="navbar row">
             <div class="col-md-7 col-xs-12">   
-                <div class="botonMenuMobile  col-md-12 col-xs-2 hidden-md hidden-lg" hidden>
-                    <button name="hamburger" class="hamburger" on="tap:sidebar.toggle"><span class="copyMenu">MENÚ</span></button>
-                </div>
-                <div class=" logoCoppel col-md-3 col-sm-2 col-xs-4" [class]="ocultarMenuMobil">
-                    <a href="https://www.coppel.com">
-                        <amp-img src="/wcsstore/AuroraStorefrontAssetStore/images/logo.svg" 
-                        media="(max-width: 991px)"
-                        width="105" height="37px" 
-                        alt="Logo de Coppel.com" 
-                        data-vars-nd1="Landing HS 2020"
-                        data-vars-nd2="Menu superior" 
-                        data-vars-nd3="Logo" 
-                        data-vars-nd4="" 
-                        class="clicGeneral"
-                        
-                        /></amp-img>
-                        <amp-img src="/wcsstore/AuroraStorefrontAssetStore/images/logo.svg"
-                        media="(min-width: 992px)" 
-                        width="170px" height="37px"
-                        data-vars-nd1="Landing HS 2020"
-                        data-vars-nd2="Menu superior" 
-                        data-vars-nd3="Logo" 
-                        data-vars-nd4="" 
-                        class="clicGeneral" 
-                        alt="Logo de Coppel.com" /></amp-img>
-                    </a>
-                </div>
-                <div class="hidden-lg hidden-md">
-                    <div class="buscador col-md-6 col-sm-6 col-xs-2"  [class]="buscadorExpanded">
-                        <span [class]="mostrarFlechaFlotante" class="flechaFlotante" 
-                        tabindex="0" role="button"
-                        on="tap:AMP.setState({ buscadorExpanded: 'ocultarBuscadorExpanded', iconoBuscadorMobil: 'ocultarIconoBuscadorMobil', mostrarFlechaFlotante: 'flechaFlotante' })"> < </span>
-                        <form
-                        method="GET"
-                        action="https://coppel.com/SearchDisplay?"
-                        target="_top">
-                            <input name="storeId" value="12251" hidden>
-                            <input name="catalogId" value="10001" hidden>
-                            <input name="langId" value="-5" hidden>
-                            <input name="searchTerm"  
-                            type="search" 
-                            on="tap:AMP.setState({ buscadorExpanded: 'buscadorExpanded', iconoBuscadorMobil: 'iconoBuscadorMobil', mostrarFlechaFlotante: 'mostrarFlechaFlotante'  })" 
-                            placeholder="Busca tus productos" 
-                            tabindex="0" role="button">
-                            <button
-                            name="iconoBuscadorMobil" 
-                            [class]="iconoBuscadorMobil hidden-xs hidden-sm"
-                            data-vars-nd1="Landing HS 2020"
-                            data-vars-nd2="Buscar - Botón" 
-                            data-vars-nd3=""
-                            data-vars-nd4="" 
-                            class="clicGeneral"
-                            >buscar</button>
-                        </form>
-                    </div>
-                </div>
+
+                
                 <div class="hidden-xs hidden-sm">
                     <div class="buscador col-md-6 col-sm-6 col-xs-2 "  >
                         <form
@@ -1091,7 +1007,7 @@
         </nav>
     </header>
 
-    <div class="menuDesktop hidden-xs hidden-sm" hidden>
+    <div class="menuDesktop hidden-xs hidden-sm">
         <div class="container">
             <amp-mega-menu height="58" layout="fixed-height">
                 <nav>
@@ -1302,12 +1218,14 @@
                         <amp-accordion class="sample">
                             <section on="expand:AMP.setState({heightAmpList: true});collapse:AMP.setState({heightAmpList: false})">
                                 <h2 class="list-amp-category-mobile-h2">
-                                    {{titulo}}
+                                    {{titulo}} 
+                                    <i class="arrow down categoria-arrow"></i>
+                                    <i class="arrow up categoria-arrow"></i>
                                 </h2>
                                 <div class="div-list-category-mobile">
                                     <ul class="category-lista-items">
                                         {{#items}}
-                                            <li><a href="{{ulr}}"><p>{{text}}</p></a></li>
+                                            <li><a href="{{url}}"><p>{{text}}</p></a></li>
                                         {{/items}}
                                     </ul>
                                 </div>
