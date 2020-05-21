@@ -18,6 +18,7 @@
     <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
     <script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
     <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
     <meta name="amp-script-src" content="sha384-ca3XiU8XueX_pavNyW6vRWzgDEJE-GGC5mD2WkiHqENVoMqT9KWQPJT-wsEI6QvN" />
     
     
@@ -42,7 +43,7 @@
         header  a{ display: inline-block; text-decoration: underline; margin-top: 5px; }
         header{ padding-top: 16px; padding-bottom: 16px;background-color: #ffe143;  }
 
-        button, a {
+        button, a, h4, h2 {
             color: initial;
             outline: none;
         }
@@ -73,6 +74,7 @@
         footer ul li {
             list-style: none;
             padding-bottom: 7px;
+            height: 30px;
         }
         footer ul li a {
             color: #fff;
@@ -603,12 +605,6 @@
         .mainContainer {
             padding: 5px;
         }
-        .mainContainer > div {
-            margin-bottom: 5px;
-        }
-        .mainContainer > div > amp-img {
-            border-radius: 3px;
-        }
         .image-estructura {
             background-repeat: no-repeat;
             background-size: cover;
@@ -879,10 +875,99 @@
         .nodisplay {
             display: none;
         }
+
+        .msgEnTira{
+            background-image: url(https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hotSale2020/back_cintillo.png);
+            background-color: #040404;
+        }
+
+        .msgEnTira a{
+            width: 100%;
+            text-align: center;
+            display: block;
+            margin: 0;
+            height: 100%;
+        }
+
+        .msgEnTira a p{
+            color: #fff;
+            font-size: 16px;
+        }
+
+        .msgEnTira .ColorRed{
+            color: #e22132;
+        }
+        .abierto {
+            position: relative;
+            width: 100%;
+            height: 975px;
+            border-radius: 4px;
+            transition: all .3s;
+        }
+        .cerrado {
+            position: relative;
+            width: 100%;
+            height: 50px;
+            border-radius: 4px;
+            transition: all .05s;
+        }
+        .list-amp-category-mobile {
+            position: relative;
+            width: 100%;
+            height: 40px;
+            border-radius: 4px;
+        }
+        .list-amp-category-mobile-h2 {
+            border: none;
+            background: white;
+            padding: 6px;
+            padding-left: 10px;
+            border-radius: 4px;
+        }
+        .list-amp-category-mobile > div {
+            background: white;
+        }
+        .div-list-category-mobile {
+            background: white;
+        }
+        .category-lista-items { 
+            list-style: none;
+            background: white;
+            margin: 0;
+        }
+        .amp-accordion-category {
+            padding: 0 5px 0 5px;
+        }
+        .main-image {
+            margin-bottom: 10px;
+        }
+        .main-image amp-img {
+            border-radius: 4px;
+        }
 </style>
 </head>
 <body data-ampdevmode>
     <amp-analytics config="/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/json/analytics.json"></amp-analytics>
+    <!-- <div class="msgEnTira" id="msgEnTira">
+        <section id="carousel">
+            <a href="/adelantamos-las-ofertas" class="ancla">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12" data-nd1="Cintillo" data-nd2="Haz tus abonos aquí" data-nd3="Clic cintillo" data-nd4="1" data-evento="clicGeneral">                      
+                            <p class="paragraph" 
+                                data-nd1="Cintillo" 
+                                data-nd2="Haz tus abonos aquí" 
+                                data-nd3="Clic cintillo" data-nd4="1" 
+                                data-evento="clicGeneral">
+                                    ¡Adelantamos las <span class="ColorRed">ofertas</span>! 
+                                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hotSale2020/emo/Cintillo_emoji_shopping_blank.svg" style="width: 20px;"> 💨
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </section>
+    </div> -->
     <header class="header" id="top">
         <nav class="navbar row">
             <div class="col-md-7 col-xs-12">   
@@ -1205,6 +1290,33 @@
     </div>
 
     <div class="container bodyContent">
+        <div class="visible-xs visible-sm amp-accordion-category">
+            <amp-list 
+                layout="fill"
+                src="/wcsstore/AuroraStorefrontAssetStore/emarketing/ampphot/json/category.json"
+                items="."
+                class="list-amp-category-mobile"
+                [class]="heightAmpList ? 'abierto' : 'cerrado'"
+                single-item>
+                    <template type="amp-mustache">
+                        <amp-accordion class="sample">
+                            <section on="expand:AMP.setState({heightAmpList: true});collapse:AMP.setState({heightAmpList: false})">
+                                <h2 class="list-amp-category-mobile-h2">
+                                    {{titulo}}
+                                </h2>
+                                <div class="div-list-category-mobile">
+                                    <ul class="category-lista-items">
+                                        {{#items}}
+                                            <li><a href="{{ulr}}"><p>{{text}}</p></a></li>
+                                        {{/items}}
+                                    </ul>
+                                </div>
+                            </section>
+                        </amp-accordion>
+                    </template>
+            </amp-list>
+        </div>
+
         <div class="col-sm-3 cold-md-3 col-lg-3 catRow hidden-xs hidden-sm category-list">
             <amp-list 
             layout="fixed-height"
@@ -1230,7 +1342,7 @@
         </div>
 
         <div class="col-md-9 mainContainer">
-            <div>
+            <div class="main-image">
                 <a href="https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-BLQEHM-BANNERCAMPA%C3%91A-HOTSALE">
                     <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-header.jpg" 
                     width="887px" 
