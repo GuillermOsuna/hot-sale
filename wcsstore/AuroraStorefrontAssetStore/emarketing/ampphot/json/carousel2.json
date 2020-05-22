@@ -3,23 +3,103 @@
 	"titulo": "¿Qué vas a estrenar hoy?",
 	"items": [
 		{
-			"sku": "pr-7858382",
-			"url": "https://www.coppel.com/dolce-and-gabbana-the-one-pr-7858382",
+			"sku": "pr-552021",
+			"url": "https://www.coppel.com/motocicleta-veloci-xeverus-pro-xr-250-cc-roja-pm-5520213",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/7858382-1.jpg",
-				"alt": "Dolce & Gabbana - The One"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/5520213-1.jpg",
+				"alt": "Motocicleta Veloci Xeverus Pro XR 250 cc Roja"
 			},
             "texto": {
-				"titulo": "Dolce & Gabbana - The One",
+				"titulo": "Motocicleta Veloci Xeverus Pro XR 250 cc Roja",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$1,499",
-				"precioActual": "$1,050"
+				"precioAnterior": "$36,999",
+				"precioActual": "$32,999"
 			}
 		},
 		{
-			"sku": "pm-1066663",
+			"sku": "pr-741949",
+			"url": "https://www.coppel.com/calvin-klein-one-pr-7419492",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/7419492-1.jpg",
+				"alt": "Calvin Klein - One"
+			},
+            "texto": {
+				"titulo": "Calvin Klein - One",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,099",
+				"precioActual": "$770"
+			}
+		},
+		{
+			"sku": "pr-549061",
+			"url": "https://www.coppel.com/ab-tomic-de-inova-pm-5490613",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/5490613-1.jpg",
+				"alt": "AB Tomic de Inova"
+			},
+            "texto": {
+				"titulo": "AB Tomic de Inova",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$2,399",
+				"precioActual": "$1,999"
+			}
+		},
+		{
+			"sku": "pr-307188",
+			"url": "https://www.coppel.com/bolsa-cruzada-color-negro-marca-lady-sun-para-mujer-pr-3071882",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3071882-1.jpg",
+				"alt": "Bolsa Cruzada color Negro marca Lady Sun para Mujer"
+			},
+            "texto": {
+				"titulo": "Bolsa Cruzada color Negro marca Lady Sun para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$389",
+				"precioActual": "$273"
+			}
+		},
+		{
+			"sku": "pr-139327",
+			"url": "https://www.coppel.com/licuadora-con-accesorios-oster-m4125-13-1-velocidad-vaso-de-vidrio-pm-1393273",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/1393273-1.jpg",
+				"alt": "Licuadora con Accesorios Oster M4125-13 1 Velocidad Vaso de Vidrio"
+			},
+            "texto": {
+				"titulo": "Licuadora con Accesorios Oster M4125-13 1 Velocidad Vaso de Vidrio",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$2,199",
+				"precioActual": "$1,499"
+			}
+		},
+		{
+			"sku": "pr-716074",
+			"url": "https://www.coppel.com/muneca-little-mommy-paseo-en-bici-pr-7160742",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/7160742-1.jpg",
+				"alt": "Muñeca Little Mommy Paseo en Bici"
+			},
+            "texto": {
+				"titulo": "Muñeca Little Mommy Paseo en Bici",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,699",
+				"precioActual": "$1,020"
+			}
+		},
+		{
+			"sku": "pr-106666",
 			"url": "https://www.coppel.com/bateria-de-cocina-t-fal-a730sa74-75-13pz-con-13-piezas-pm-1066663",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/1066663-1.jpg",
@@ -35,14 +115,14 @@
 			}
 		},
 		{
-			"sku": "pr-3309272",
-			"url": "https://www.coppel.com/bolsa-cruzada-gris-marca-jennifer-lopez-para-mujer-pr-3309272",
+			"sku": "pr-322199",
+			"url": "https://www.coppel.com/pantalon-de-maternidad-marca-mama-bella-pr-3221992",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/3309272-1.jpg",
-				"alt": "Bolsa Cruzada Gris marca Jennifer Lopez para Mujer"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3221992-1.jpg",
+				"alt": "Pantalón de Maternidad marca Mamá Bella"
 			},
             "texto": {
-				"titulo": "Bolsa Cruzada Gris marca Jennifer Lopez para Mujer",
+				"titulo": "Pantalón de Maternidad marca Mamá Bella",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
@@ -51,40 +131,7 @@
 			}
 		},
 		{
-			"sku": "pm-5576333",
-			"url": "https://www.coppel.com/motocicleta-veloci-aggressor-zx-2-250cc-2020-pm-5576333",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/5576333-1.jpg",
-				"alt": "Motocicleta Veloci AGGRESSOR ZX-2 250CC 2020"
-			},
-            "texto": {
-				"titulo": "Motocicleta Veloci AGGRESSOR ZX-2 250CC 2020",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$32,999",
-				"precioActual": "$26,999"
-			}
-		},
-		{
-			"sku": "pr-7572002",
-			"url": "https://www.coppel.com/bloques-de-construccion-first-builders-mega-bloks-con-80-piezas-pr-7572002",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/7572002-1.jpg",
-				"alt": "Bloques de Construcción First Builders Mega Bloks con 80 Piezas"
-			},
-            "texto": {
-				"titulo": "Bloques de Construcción First Builders Mega Bloks con 80 Piezas",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$339",
-				"precioActual": "$272"
-			}
-		}
-		,
-		{
-			"sku": "pm-5492583",
+			"sku": "pr-549258",
 			"url": "https://www.coppel.com/compresor-portatil-para-pintar-paint-blast-4x4-pm-5492583",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/5492583-1.jpg",
@@ -98,71 +145,23 @@
 				"precioAnterior": "$1,999",
 				"precioActual": "$1,399"
 			}
+		},
+		{
+			"sku": "pr-715705",
+			"url": "https://staging.coppel.com/juguete-para-construir-viaje-de-lloyd-lego-ninjago-pr-7157052",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/7157052-1.jpg",
+				"alt": "Juguete para Construir Viaje de Lloyd LEGO Ninjago"
+			},
+            "texto": {
+				"titulo": "Juguete para Construir Viaje de Lloyd LEGO Ninjago",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$299",
+				"precioActual": "$240"
+			}
 		}
-		,
-		{
-			"sku": "pr-7857832",
-			"url": "https://www.coppel.com/dolce-and-gabbana-light-blue-pr-7857832",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/7857832-1.jpg",
-				"alt": "Dolce & Gabbana - Light Blue"
-			},
-            "texto": {
-				"titulo": "Dolce & Gabbana - Light Blue",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$1,839",
-				"precioActual": "$1,288"
-			}
-		},
-		{
-			"sku": "pm-3469423",
-			"url": "https://www.coppel.com/escritorio-esquinero-arlette-negro-pm-3469423",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/3469423-1.jpg",
-				"alt": "Escritorio Esquinero Arlette Negro"
-			},
-            "texto": {
-				"titulo": "Escritorio Esquinero Arlette Negro",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$1,499",
-				"precioActual": "$1,199"
-			}
-		},
-		{
-			"sku": "pr-7145232",
-			"url": "https://www.coppel.com/casa-de-munecas-belula-pr-7145232",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/7145232-1.jpg",
-				"alt": "Casa de Muñecas Belúla"
-			},
-            "texto": {
-				"titulo": "Casa de Muñecas Belúla",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$1,399",
-				"precioActual": "$980"
-			}
-		},
-		{
-			"sku": "pm-7310643",
-			"url": "https://www.coppel.com/reloj-bulova-98a205-azul-pm-7310643",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/7310643-1.jpg",
-				"alt": "Reloj Bulova 98A205 Azul"
-			},
-            "texto": {
-				"titulo": "Reloj Bulova 98A205 Azul",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$3,999",
-				"precioActual": "$2,799"
-			}
-		}	
+		
 	]
 }

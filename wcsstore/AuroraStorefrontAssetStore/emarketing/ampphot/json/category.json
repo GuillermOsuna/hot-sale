@@ -2,13 +2,14 @@
     "titulo": "Categorías",
 	"items": [
 		{
-            "text": "Tecnología", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ELECTRONICA-HOTSALE" 
+            "text": "Electrónica", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ELECTRONICA-HOTSALE" 
         },
         {
             "text": "Deportivo", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-DEPORTIVO-HOTSALE" 
         },
         {
-            "text": "Celulares", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-PROMOPRECIOHOTSALE-HOTSALE" 
+            "text": "Celulares", 
+            "url": "https://www.coppel.com/equipos-celulares" 
         },
         {
             "text": "Zapatos", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2020-EPMTPE-ZAPATOS-HOTSALE" 

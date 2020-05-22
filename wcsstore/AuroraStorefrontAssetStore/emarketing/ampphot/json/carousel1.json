@@ -3,107 +3,75 @@
 	"titulo": "Lo que tu hogar necesita",
 	"items": [
 		{
-			"sku": "PM-3552163",
-			"url": "https://www.coppel.com/colchon-matrimonial-sealy-rous-pm-3552163",
+			"sku": "PM-248008",
+			"url": "https://www.coppel.com/pantalla-led-hisense-40-pulgadas-full-hd-smart-tv-40h5f-pm-2480083",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/3552163-1.jpg",
-				"alt": "Foto 1|Colchón Matrimonial Sealy Rous"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/2480083-1.jpg",
+				"alt": "Pantalla LED Hisense 40\" Full HD Smart TV 40H5F"
 			},
             "texto": {
-				"titulo": "Colchón Matrimonial Sealy Rous",
+				"titulo": "Pantalla LED Hisense 40\" Full HD Smart TV 40H5F",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$9,999",
-				"precioActual": "$5,999"
+				"precioAnterior": "$8,499",
+				"precioActual": "$5,799"
 			}
 		},
 		{
-			"sku": "pm-2463843",
-			"url": "https://www.coppel.com/pantalla-led-hisense-55-pulgadas-ultra-hd-4k-smart-tv-55h6f-pm-2463843",
+			"sku": "PM-2463843",
+			"url": "https://www.coppel.com/colchon-matrimonial-sealy-yankee-pm-3516443",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/2463843-1.jpg",
-				"alt": "Foto 1|Pantalla LED Hisense 55&#034; Ultra HD 4K Smart TV 55H6F"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3516443-1.jpg",
+				"alt": "Colchón Matrimonial Sealy Yankee"
 			},
             "texto": {
-				"titulo": "Pantalla LED Hisense 55\" Ultra HD 4K Smart TV 55H6F",
+				"titulo": "Colchón Matrimonial Sealy Yankee",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$17,499",
-				"precioActual": "$9,299"
+				"precioAnterior": "$6,199",
+				"precioActual": "$4,299"
 			}
 		},
 		{
-			"sku": "pm-6323923",
-			"url": "https://www.coppel.com/lavadora-daewoo-dwf-te161abm1-10-kg-blanca-pm-6323923",
+			"sku": "PM-223996",
+			"url": "https://www.coppel.com/notebook-hp-14-cm0033la-14-pulgadas-amd-a4-4-gb-ram-64-gb-emmc-blanca-pm-2239963",
 			"image": {
-				"url": "https://www.coppel.com/images/catalog/pm/6323923-1.jpg",
-				"alt": "Foto 1|Lavadora Daewoo DWF-TE161ABM1 10 kg Blanca"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/2239963-1.jpg",
+				"alt": "Notebook HP 14-CM0033LA 14\" AMD A4 4 GB RAM 64 GB EMMC Blanca"
 			},
             "texto": {
-				"titulo": "Lavadora Daewoo DWF-TE161ABM1 10 kg Blanca",
+				"titulo": "Notebook HP 14-CM0033LA 14\" AMD A4 4 GB RAM 64 GB EMMC Blanca",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$7,599",
-				"precioActual": "$3,999"
+				"precioAnterior": "$7,199",
+				"precioActual": "$5,799"
 			}
 		},
 		{
-			"sku": "pm-4978783",
-			"url": "https://www.coppel.com/cabecera-aria-matrimonial-color-chocolate-pm-4978783",
+			"sku": "PM-616621",
+			"url": "https://www.coppel.com/refrigerador-mabe-top-mount-rme1436ymxe-14-pies-color-grafito-pm-6166213",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/4978783-1.jpg",
-				"alt": "Foto 1|Cabecera Aria Matrimonial color Chocolate"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/6166213-1.jpg",
+				"alt": "Refrigerador Mabe Top Mount RME1436YMXE 14 Pies color Grafito"
 			},
             "texto": {
-				"titulo": "Cabecera Aria Matrimonial color Chocolate",
+				"titulo": "Refrigerador Mabe Top Mount RME1436YMXE 14 Pies color Grafito",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$2,199",
-				"precioActual": "$1,699"
+				"precioAnterior": "$12,799",
+				"precioActual": "$8,999"
 			}
 		},
 		{
-			"sku": "pm-6338523",
-			"url": "https://www.coppel.com/minisplit-on-off-midea-frio-mas12c1asc-110v-1t-pm-6338523",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/6338523-1.jpg",
-				"alt": "Foto 1|Minisplit On Off Midea Frío MAS12C1ASC 110V 1t"
-			},
-            "texto": {
-				"titulo": "Minisplit On Off Midea Frío MAS12C1ASC 110V 1t",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$6,499",
-				"precioActual": "$4,999"
-			}
-		},
-		{
-			"sku": "pm-4293273",
-			"url": "https://www.coppel.com/sala-esquinera-cloe-contemporaneo-1-pieza-pm-4293273",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/4293273-1.jpg",
-				"alt": "Foto 1|Sala Esquinera Cloe Contemporáneo 1 Pieza"
-			},
-            "texto": {
-				"titulo": "Sala Esquinera Cloe Contemporáneo 1 Pieza",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$5,999",
-				"precioActual": "$4,199"
-			}
-		},
-		{
-			"sku": "pm-2291273",
+			"sku": "PM-229127",
 			"url": "https://www.coppel.com/celular-motorola-moto-one-action-128-gb-blanco-pm-2291273",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pm/2291273-1.jpg",
-				"alt": "Foto 1|Celular Motorola Moto One Action 128 GB Blanco"
+				"alt": "Celular Motorola Moto One Action 128 GB Blanco"
 			},
             "texto": {
 				"titulo": "Celular Motorola Moto One Action 128 GB Blanco",
@@ -111,39 +79,87 @@
 			},
 			"precio": {
 				"precioAnterior": "$8,999",
-				"precioActual": "$6,999"
+				"precioActual": "$5,999"
 			}
 		},
 		{
-			"sku": "pm-3402783",
-			"url": "https://www.coppel.com/comedor-valentino-ii-color-negro-con-6-sillas-estilo-contemporaneo-pm-3402783",
+			"sku": "PM-260522",
+			"url": "https://www.coppel.com/consola-nintendo-switch-lite-coral-pm-2605223",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/3402783-1.jpg",
-				"alt": "Foto 1|Comedor Valentino II color Negro con 6 Sillas estilo contemporáneo"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/2605223-1.jpg",
+				"alt": "Consola Nintendo Switch Lite Coral"
 			},
             "texto": {
-				"titulo": "Comedor Valentino II color Negro con 6 Sillas estilo contemporáneo",
+				"titulo": "Consola Nintendo Switch Lite Coral",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$10,099",
-				"precioActual": "$7,999"
+				"precioAnterior": "$6,549",
+				"precioActual": "$4,999"
 			}
 		},
 		{
-			"sku": "pm-3412743",
-			"url": "https://www.coppel.com/cocina-integral-toscana-240-cm-clasico-pm-3412743",
+			"sku": "PM-406015",
+			"url": "https://www.coppel.com/sala-esquinera-antara-contemporanea-5-piezas-pm-4060153",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/3412743-1.jpg",
-				"alt": "Foto 1|Cocina Integral Toscana 240 cm Clásico"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/4060153-1.jpg",
+				"alt": "Sala Esquinera Antara Contemporánea 5 Piezas"
 			},
             "texto": {
-				"titulo": "Cocina Integral Toscana 240 cm Clásico",
+				"titulo": "Sala Esquinera Antara Contemporánea 5 Piezas",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$10,499",
-				"precioActual": "$8,899"
+				"precioAnterior": "$8,999",
+				"precioActual": "7,599"
+			}
+		},
+		{
+			"sku": "PM-635626",
+			"url": "https://www.coppel.com/lavadora-daewoo-automatica-dwf-db1b421abds1-21-kg-plateada-pm-6356263",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/6356263-1.jpg",
+				"alt": "Lavadora Daewoo Automática DWF-DB1B421ABDS1 21 kg Plateada"
+			},
+            "texto": {
+				"titulo": "Lavadora Daewoo Automática DWF-DB1B421ABDS1 21 kg Plateada",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$13,699",
+				"precioActual": "$7,499"
+			}
+		},
+		{
+			"sku": "PM-634077",
+			"url": "https://www.coppel.com/minisplit-mirage-frio-setclf120d-110-v-1t-pm-6340773",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/6340773-1.jpg",
+				"alt": "Minisplit Mirage Frío SETCLF120D 110 v 1t"
+			},
+            "texto": {
+				"titulo": "Minisplit Mirage Frío SETCLF120D 110 v 1t",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$7,599",
+				"precioActual": "$6,399"
+			}
+		},
+		{
+			"sku": "PM-630632",
+			"url": "https://www.coppel.com/estufa-mabe-de-piso-30-pulgadas-em7622baps0-color-gris-pm-6306323",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/6306323-1.jpg",
+				"alt": "Estufa Mabe de Piso 30\" EM7622BAPS0 color Gris"
+			},
+            "texto": {
+				"titulo": "Estufa Mabe de Piso 30\" EM7622BAPS0 color Gris",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$6,899",
+				"precioActual": "$4,999"
 			}
 		}
 	]

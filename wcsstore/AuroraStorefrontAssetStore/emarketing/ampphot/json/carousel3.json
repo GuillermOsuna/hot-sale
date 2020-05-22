@@ -3,154 +3,163 @@
 	"titulo": "Renueva tu clóset",
 	"items": [
 		{
-			"sku": "pr-3346342",
-			"url": "https://www.coppel.com/jumper-casual-amarillo-marca-18-forever-para-mujer-pr-3346342",
+			"sku": "pr-332373",
+			"url": "https://www.coppel.com/pantalon-skinny-marca-up-and-down-para-mujer-pr-3323732",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/3346342-1.jpg",
-				"alt": "Jumper Casual Amarillo marca 18 Forever para Mujer"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3323732-1.jpg",
+				"alt": "Pantalón Skinny marca Up & Down para Mujer"
 			},
             "texto": {
-				"titulo": "Jumper Casual Amarillo marca 18 Forever para Mujer",
+				"titulo": "Pantalón Skinny marca Up & Down para Mujer",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$319",
-				"precioActual": "$224"
+				"precioAnterior": "$219",
+				"precioActual": "$154"
 			}
-		},{
-			"sku": "pr-3028042",
-			"url": "https://www.coppel.com/set-de-3-bikinis-marca-jennifer-lopez-para-mujer-pr-3028042",
+		},
+		{
+			"sku": "pr-314731",
+			"url": "https://www.coppel.com/set-de-3-tangas-marca-beauty-secret-para-mujer-pr-3147312",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/3028042-1.jpg",
-				"alt": "Set de 3 Bikinis marca Jennifer Lopez para Mujer"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3147312-1.jpg",
+				"alt": "Set de 3 Tangas marca Beauty Secret para Mujer"
 			},
             "texto": {
-				"titulo": "Set de 3 Bikinis marca Jennifer Lopez para Mujer",
+				"titulo": "Set de 3 Tangas marca Beauty Secret para Mujer",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$159",
-				"precioActual": "$112"
+				"precioAnterior": "$109",
+				"precioActual": "$77"
 			}
-		},{
-			"sku": "pr-8000852",
-			"url": "https://www.coppel.com/sandalias-marca-frida-color-negro-para-mujer-pr-8000852",
+		},
+		{
+			"sku": "pr-812293",
+			"url": "https://www.coppel.com/tenis-grises-marca-18-forever-para-mujer-pr-8122932",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/8000852-1.jpg",
-				"alt": "Sandalias marca Frida color Negro para Mujer"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8122932-1.jpg",
+				"alt": "Tenis Grises marca 18 Forever para Mujer"
 			},
             "texto": {
-				"titulo": "Sandalias marca Frida color Negro para Mujer",
+				"titulo": "Tenis Grises marca 18 Forever para Mujer",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$459",
-				"precioActual": "$368"
+				"precioAnterior": "$449",
+				"precioActual": "$360"
 			}
-		},{
-			"sku": "pr-1580672",
-			"url": "https://www.coppel.com/short-azul-marca-refill-para-hombre-pr-1580672",
+		},
+		{
+			"sku": "pr-111645",
+			"url": "https://www.coppel.com/pantalon-519-skinny-largo-32-marca-levis-para-hombre-pr-1116452",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/1580672-1.jpg",
-				"alt": "Short Azul marca Refill para Hombre"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/1116452-1.jpg",
+				"alt": "Pantalón 519 Skinny Largo 32 marca Levi´s para Hombre"
 			},
             "texto": {
-				"titulo": "Short Azul marca Refill para Hombre",
+				"titulo": "Pantalón 519 Skinny Largo 32 marca Levi´s para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$899",
+				"precioActual": "$450"
+			}
+		},
+		{
+			"sku": "pr-810273",
+			"url": "https://www.coppel.com/botas-de-trabajo-marca-kroogen-de-piel-color-cafe-para-hombre-pr-8102732",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8102732-1.jpg",
+				"alt": "Botas de Trabajo marca Kroogen de Piel color Café para Hombre"
+			},
+            "texto": {
+				"titulo": "Botas de Trabajo marca Kroogen de Piel color Café para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$749",
+				"precioActual": "$600"
+			}
+		},
+		{
+			"sku": "pr-503898",
+			"url": "https://www.coppel.com/conjunto-marca-baby-colors-para-bebe-nina-pr-5038982",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/5038982-1.jpg",
+				"alt": "Conjunto marca Baby Colors para Bebé Niña"
+			},
+            "texto": {
+				"titulo": "Conjunto marca Baby Colors para Bebé Niña",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$129",
+				"precioActual": "$91"
+			}
+		},
+		{
+			"sku": "pr-335886",
+			"url": "https://www.coppel.com/pantalon-skinny-marca-sahara-woman-para-mujer-pr-3358862",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3358862-1.jpg",
+				"alt": "Pantalón Skinny marca Sahara Woman para Mujer"
+			},
+            "texto": {
+				"titulo": "Pantalón Skinny marca Sahara Woman para Mujer",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
 				"precioAnterior": "$299",
 				"precioActual": "$210"
 			}
-		},{
-			"sku": "pr-8146952",
-			"url": "https://www.coppel.com/botas-de-trabajo-marca-omar-castell-de-piel-color-cafe-para-hombre-pr-8146952",
+		},
+		{
+			"sku": "pr-265538",
+			"url": "https://www.coppel.com/playera-cuello-redondo-blanca-marca-refill-kids-para-nino-pr-2655382",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/8146952-1.jpg",
-				"alt": "Botas de Trabajo marca Omar Castell de Piel color Café para Hombre"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/2655382-1.jpg",
+				"alt": "Playera Cuello Redondo Blanca marca Refill Kids para Niño"
 			},
             "texto": {
-				"titulo": "Botas de Trabajo marca Omar Castell de Piel color Café para Hombre",
+				"titulo": "Playera Cuello Redondo Blanca marca Refill Kids para Niño",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$879",
-				"precioActual": "$704"
+				"precioAnterior": "$99",
+				"precioActual": "$70"
 			}
-		},{
-			"sku": "pr-5098022",
-			"url": "https://www.coppel.com/conjunto-marca-baby-colors-para-bebe-nino-pr-5098022",
+		},
+		{
+			"sku": "pr-402874",
+			"url": "https://www.coppel.com/conjunto-con-mallas-marca-up-and-down-girls-para-nina-pr-4028742",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/5098022-1.jpg",
-				"alt": "Conjunto marca Baby Colors para Bebé Niño"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/4028742-1.jpg",
+				"alt": "Conjunto con Mallas marca Up & Down Girls para Niña"
 			},
             "texto": {
-				"titulo": "Conjunto marca Baby Colors para Bebé Niño",
+				"titulo": "Conjunto con Mallas marca Up & Down Girls para Niña",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$169",
-				"precioActual": "$119"
+				"precioAnterior": "$209",
+				"precioActual": "$147"
 			}
-		},{
-			"sku": "pr-3056832",
-			"url": "https://www.coppel.com/vestido-casual-floreado-marca-lady-sun-para-mujer-pr-3056832",
+		},
+		{
+			"sku": "pr-814649",
+			"url": "https://www.coppel.com/tenis-reebok-energylux-2-0-azules-para-hombre-pr-8146492",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/3056832-1.jpg",
-				"alt": "Vestido Casual Floreado marca Lady Sun para Mujer"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8146492-1.jpg",
+				"alt": "Tenis Reebok Energylux 2.0 Azules para Hombre"
 			},
             "texto": {
-				"titulo": "Vestido Casual Floreado marca Lady Sun para Mujer",
+				"titulo": "Tenis Reebok Energylux 2.0 Azules para Hombre",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$279",
-				"precioActual": "$196"
-			}
-		},{
-			"sku": "pr-2660272",
-			"url": "https://www.coppel.com/playera-anaranjada-refill-para-nino-pr-2660272",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/2660272-1.jpg",
-				"alt": "Playera Anaranjada Refill para Niño"
-			},
-            "texto": {
-				"titulo": "Playera Anaranjada Refill para Niño",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$89",
-				"precioActual": "$63"
-			}
-		},{
-			"sku": "pr-4003092",
-			"url": "https://www.coppel.com/jumper-estampado-marca-grafito-girls-para-nina-pr-4003092",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/4003092-1.jpg",
-				"alt": "Jumper Estampado marca Grafito Girls para Niña"
-			},
-            "texto": {
-				"titulo": "Jumper Estampado marca Grafito Girls para Niña",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$189",
-				"precioActual": "$133"
-			}
-		},{
-			"sku": "pr-8129922",
-			"url": "https://www.coppel.com/tenis-puma-anzarun-lite-bold-color-negro-para-hombre-pr-8129922",
-			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/8129922-1.jpg",
-				"alt": "Tenis Puma Anzarun Lite Bold color Negro para Hombre"
-			},
-            "texto": {
-				"titulo": "Tenis Puma Anzarun Lite Bold color Negro para Hombre",
-				"copyContado": "Precio contado"
-			},
-			"precio": {
-				"precioAnterior": "$1399",
-				"precioActual": "$840"
+				"precioAnterior": "$1,199",
+				"precioActual": "$600"
 			}
 		}
 	]
