@@ -2028,7 +2028,7 @@
                 },
                 "xs": {
                     "style": {
-                        "textAlign": "center; font-size: 12px; padding: 1px 1px 2px 1px"
+                        "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
                     }
                 }
             }
