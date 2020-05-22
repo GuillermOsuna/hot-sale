@@ -3,6 +3,7 @@
 	"titulo": "Renueva tu clóset",
 	"items": [
 		{
+			"index": "1",
 			"sku": "pr-332373",
 			"url": "https://www.coppel.com/pantalon-skinny-marca-up-and-down-para-mujer-pr-3323732",
 			"image": {
@@ -15,10 +16,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$219",
-				"precioActual": "$154"
+				"precioActual": "$154",
+				"precioSinFormato": "154"
 			}
 		},
 		{
+			"index": "2",
 			"sku": "pr-314731",
 			"url": "https://www.coppel.com/set-de-3-tangas-marca-beauty-secret-para-mujer-pr-3147312",
 			"image": {
@@ -31,10 +34,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$109",
-				"precioActual": "$77"
+				"precioActual": "$77",
+				"precioSinFormato": "77"
 			}
 		},
 		{
+			"index": "3",
 			"sku": "pr-812293",
 			"url": "https://www.coppel.com/tenis-grises-marca-18-forever-para-mujer-pr-8122932",
 			"image": {
@@ -47,10 +52,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$449",
-				"precioActual": "$360"
+				"precioActual": "$360",
+				"precioSinFormato": "360"
 			}
 		},
 		{
+			"index": "4",
 			"sku": "pr-111645",
 			"url": "https://www.coppel.com/pantalon-519-skinny-largo-32-marca-levis-para-hombre-pr-1116452",
 			"image": {
@@ -63,10 +70,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$899",
-				"precioActual": "$450"
+				"precioActual": "$450",
+				"precioSinFormato": "450"
 			}
 		},
 		{
+			"index": "5",
 			"sku": "pr-810273",
 			"url": "https://www.coppel.com/botas-de-trabajo-marca-kroogen-de-piel-color-cafe-para-hombre-pr-8102732",
 			"image": {
@@ -79,10 +88,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$749",
-				"precioActual": "$600"
+				"precioActual": "$600",
+				"precioSinFormato": "600"
 			}
 		},
 		{
+			"index": "6",
 			"sku": "pr-503898",
 			"url": "https://www.coppel.com/conjunto-marca-baby-colors-para-bebe-nina-pr-5038982",
 			"image": {
@@ -95,10 +106,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$129",
-				"precioActual": "$91"
+				"precioActual": "$91",
+				"precioSinFormato": "91"
 			}
 		},
 		{
+			"index": "7",
 			"sku": "pr-335886",
 			"url": "https://www.coppel.com/pantalon-skinny-marca-sahara-woman-para-mujer-pr-3358862",
 			"image": {
@@ -111,10 +124,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$299",
-				"precioActual": "$210"
+				"precioActual": "$210",
+				"precioSinFormato": "210"
 			}
 		},
 		{
+			"index": "8",
 			"sku": "pr-265538",
 			"url": "https://www.coppel.com/playera-cuello-redondo-blanca-marca-refill-kids-para-nino-pr-2655382",
 			"image": {
@@ -127,10 +142,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$99",
-				"precioActual": "$70"
+				"precioActual": "$70",
+				"precioSinFormato": "70"
 			}
 		},
 		{
+			"index": "9",
 			"sku": "pr-402874",
 			"url": "https://www.coppel.com/conjunto-con-mallas-marca-up-and-down-girls-para-nina-pr-4028742",
 			"image": {
@@ -143,10 +160,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$209",
-				"precioActual": "$147"
+				"precioActual": "$147",
+				"precioSinFormato": "147"
 			}
 		},
 		{
+			"index": "10",
 			"sku": "pr-814649",
 			"url": "https://www.coppel.com/tenis-reebok-energylux-2-0-azules-para-hombre-pr-8146492",
 			"image": {
@@ -159,7 +178,8 @@
 			},
 			"precio": {
 				"precioAnterior": "$1,199",
-				"precioActual": "$600"
+				"precioActual": "$600",
+				"precioSinFormato": "600"
 			}
 		}
 	]

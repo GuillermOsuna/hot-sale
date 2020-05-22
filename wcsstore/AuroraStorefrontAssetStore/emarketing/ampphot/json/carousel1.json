@@ -3,6 +3,7 @@
 	"titulo": "Lo que tu hogar necesita",
 	"items": [
 		{
+			"index": "1",
 			"sku": "PM-248008",
 			"url": "https://www.coppel.com/pantalla-led-hisense-40-pulgadas-full-hd-smart-tv-40h5f-pm-2480083",
 			"image": {
@@ -15,10 +16,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$8,499",
-				"precioActual": "$5,799"
+				"precioActual": "$5,799",
+				"precioSinFormato": "5799"
 			}
 		},
 		{
+			"index": "2",
 			"sku": "PM-2463843",
 			"url": "https://www.coppel.com/colchon-matrimonial-sealy-yankee-pm-3516443",
 			"image": {
@@ -31,10 +34,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$6,199",
-				"precioActual": "$4,299"
+				"precioActual": "$4,299",
+				"precioSinFormato": "4299"
 			}
 		},
 		{
+			"index": "3",
 			"sku": "PM-223996",
 			"url": "https://www.coppel.com/notebook-hp-14-cm0033la-14-pulgadas-amd-a4-4-gb-ram-64-gb-emmc-blanca-pm-2239963",
 			"image": {
@@ -47,10 +52,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$7,199",
-				"precioActual": "$5,799"
+				"precioActual": "$5,799",
+				"precioSinFormato": "5799"
 			}
 		},
 		{
+			"index": "4",
 			"sku": "PM-616621",
 			"url": "https://www.coppel.com/refrigerador-mabe-top-mount-rme1436ymxe-14-pies-color-grafito-pm-6166213",
 			"image": {
@@ -63,10 +70,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$12,799",
-				"precioActual": "$8,999"
+				"precioActual": "$8,999",
+				"precioSinFormato": "8999"
 			}
 		},
 		{
+			"index": "5",
 			"sku": "PM-229127",
 			"url": "https://www.coppel.com/celular-motorola-moto-one-action-128-gb-blanco-pm-2291273",
 			"image": {
@@ -79,10 +88,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$8,999",
-				"precioActual": "$5,999"
+				"precioActual": "$5,999",
+				"precioSinFormato": "5999"
 			}
 		},
 		{
+			"index": "6",
 			"sku": "PM-260522",
 			"url": "https://www.coppel.com/consola-nintendo-switch-lite-coral-pm-2605223",
 			"image": {
@@ -95,10 +106,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$6,549",
-				"precioActual": "$4,999"
+				"precioActual": "$4,999",
+				"precioSinFormato": "4999"
 			}
 		},
 		{
+			"index": "7",
 			"sku": "PM-406015",
 			"url": "https://www.coppel.com/sala-esquinera-antara-contemporanea-5-piezas-pm-4060153",
 			"image": {
@@ -111,10 +124,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$8,999",
-				"precioActual": "7,599"
+				"precioActual": "7,599",
+				"precioSinFormato": ",99"
 			}
 		},
 		{
+			"index": "8",
 			"sku": "PM-635626",
 			"url": "https://www.coppel.com/lavadora-daewoo-automatica-dwf-db1b421abds1-21-kg-plateada-pm-6356263",
 			"image": {
@@ -127,10 +142,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$13,699",
-				"precioActual": "$7,499"
+				"precioActual": "$7,499",
+				"precioSinFormato": "7499"
 			}
 		},
 		{
+			"index": "9",
 			"sku": "PM-634077",
 			"url": "https://www.coppel.com/minisplit-mirage-frio-setclf120d-110-v-1t-pm-6340773",
 			"image": {
@@ -143,10 +160,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$7,599",
-				"precioActual": "$6,399"
+				"precioActual": "$6,399",
+				"precioSinFormato": "6399"
 			}
 		},
 		{
+			"index": "10",
 			"sku": "PM-630632",
 			"url": "https://www.coppel.com/estufa-mabe-de-piso-30-pulgadas-em7622baps0-color-gris-pm-6306323",
 			"image": {
@@ -159,7 +178,8 @@
 			},
 			"precio": {
 				"precioAnterior": "$6,899",
-				"precioActual": "$4,999"
+				"precioActual": "$4,999",
+				"precioSinFormato": "4999"
 			}
 		}
 	]

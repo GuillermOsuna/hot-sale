@@ -3,6 +3,7 @@
 	"titulo": "¿Qué vas a estrenar hoy?",
 	"items": [
 		{
+			"index": "1",
 			"sku": "pr-552021",
 			"url": "https://www.coppel.com/motocicleta-veloci-xeverus-pro-xr-250-cc-roja-pm-5520213",
 			"image": {
@@ -15,10 +16,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$36,999",
-				"precioActual": "$32,999"
+				"precioActual": "$32,999",
+				"precioSinFormato": "32999"
 			}
 		},
 		{
+			"index": "2",
 			"sku": "pr-741949",
 			"url": "https://www.coppel.com/calvin-klein-one-pr-7419492",
 			"image": {
@@ -31,10 +34,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$1,099",
-				"precioActual": "$770"
+				"precioActual": "$770",
+				"precioSinFormato": "770"
 			}
 		},
 		{
+			"index": "3",
 			"sku": "pr-549061",
 			"url": "https://www.coppel.com/ab-tomic-de-inova-pm-5490613",
 			"image": {
@@ -47,10 +52,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$2,399",
-				"precioActual": "$1,999"
+				"precioActual": "$1,999",
+				"precioSinFormato": "1999"
 			}
 		},
 		{
+			"index": "4",
 			"sku": "pr-307188",
 			"url": "https://www.coppel.com/bolsa-cruzada-color-negro-marca-lady-sun-para-mujer-pr-3071882",
 			"image": {
@@ -63,10 +70,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$389",
-				"precioActual": "$273"
+				"precioActual": "$273",
+				"precioSinFormato": "273"
 			}
 		},
 		{
+			"index": "5",
 			"sku": "pr-139327",
 			"url": "https://www.coppel.com/licuadora-con-accesorios-oster-m4125-13-1-velocidad-vaso-de-vidrio-pm-1393273",
 			"image": {
@@ -79,10 +88,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$2,199",
-				"precioActual": "$1,499"
+				"precioActual": "$1,499",
+				"precioSinFormato": "1499"
 			}
 		},
 		{
+			"index": "6",
 			"sku": "pr-716074",
 			"url": "https://www.coppel.com/muneca-little-mommy-paseo-en-bici-pr-7160742",
 			"image": {
@@ -95,10 +106,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$1,699",
-				"precioActual": "$1,020"
+				"precioActual": "$1,020",
+				"precioSinFormato": "1020"
 			}
 		},
 		{
+			"index": "7",
 			"sku": "pr-106666",
 			"url": "https://www.coppel.com/bateria-de-cocina-t-fal-a730sa74-75-13pz-con-13-piezas-pm-1066663",
 			"image": {
@@ -111,10 +124,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$2,699",
-				"precioActual": "$1,839"
+				"precioActual": "$1,839",
+				"precioSinFormato": "1839"
 			}
 		},
 		{
+			"index": "8",
 			"sku": "pr-322199",
 			"url": "https://www.coppel.com/pantalon-de-maternidad-marca-mama-bella-pr-3221992",
 			"image": {
@@ -127,10 +142,12 @@
 			},
 			"precio": {
 				"precioAnterior": "$349",
-				"precioActual": "$245"
+				"precioActual": "$245",
+				"precioSinFormato": "245"
 			}
 		},
 		{
+			"index": "9",
 			"sku": "pr-549258",
 			"url": "https://www.coppel.com/compresor-portatil-para-pintar-paint-blast-4x4-pm-5492583",
 			"image": {
@@ -143,12 +160,14 @@
 			},
 			"precio": {
 				"precioAnterior": "$1,999",
-				"precioActual": "$1,399"
+				"precioActual": "$1,399",
+				"precioSinFormato": "1399"
 			}
 		},
 		{
+			"index": "10",
 			"sku": "pr-715705",
-			"url": "https://staging.coppel.com/juguete-para-construir-viaje-de-lloyd-lego-ninjago-pr-7157052",
+			"url": "https://www.coppel.com/juguete-para-construir-viaje-de-lloyd-lego-ninjago-pr-7157052",
 			"image": {
 				"url": "https://cdn1.coppel.com/images/catalog/pr/7157052-1.jpg",
 				"alt": "Juguete para Construir Viaje de Lloyd LEGO Ninjago"
@@ -159,7 +178,8 @@
 			},
 			"precio": {
 				"precioAnterior": "$299",
-				"precioActual": "$240"
+				"precioActual": "$240",
+				"precioSinFormato": "240"
 			}
 		}
 		
