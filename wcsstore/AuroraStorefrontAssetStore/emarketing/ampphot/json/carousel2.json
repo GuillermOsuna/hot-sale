@@ -1,21 +1,21 @@
 {
 	"activo": true,
-	"titulo": "Atrévete a estrenar",
+	"titulo": "¿Qué vas a estrenar hoy?",
 	"items": [
 		{
-			"sku": "pr-8132562",
-			"url": "https://www.coppel.com/tenis-adidas-pokemon-hoops-mid-2-0-k-blancos-juveniles-pr-8132562",
+			"sku": "pr-7858382",
+			"url": "https://www.coppel.com/dolce-and-gabbana-the-one-pr-7858382",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/8132562-1.jpg",
-				"alt": "Tenis Adidas Pokémon Hoops Mid 2.0 K Blancos Juveniles"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/7858382-1.jpg",
+				"alt": "Dolce & Gabbana - The One"
 			},
             "texto": {
-				"titulo": "Tenis Adidas Pokémon Hoops Mid 2.0 K Blancos Juveniles",
+				"titulo": "Dolce & Gabbana - The One",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$1,079",
-				"precioActual": "$540"
+				"precioAnterior": "$1,499",
+				"precioActual": "$1,050"
 			}
 		},
 		{
@@ -35,51 +35,51 @@
 			}
 		},
 		{
-			"sku": "pr-5098872",
-			"url": "https://www.coppel.com/set-de-panaleros-marca-baby-colors-para-bebe-nino-pr-5098872",
+			"sku": "pr-3309272",
+			"url": "https://www.coppel.com/bolsa-cruzada-gris-marca-jennifer-lopez-para-mujer-pr-3309272",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/5098872-1.jpg",
-				"alt": "Set de Pañaleros marca Baby Colors para Bebé Niño"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3309272-1.jpg",
+				"alt": "Bolsa Cruzada Gris marca Jennifer Lopez para Mujer"
 			},
             "texto": {
-				"titulo": "Set de Pañaleros marca Baby Colors para Bebé Niño",
+				"titulo": "Bolsa Cruzada Gris marca Jennifer Lopez para Mujer",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$159",
-				"precioActual": "$112"
+				"precioAnterior": "$349",
+				"precioActual": "$245"
 			}
 		},
 		{
-			"sku": "pm-5680153",
-			"url": "https://www.coppel.com/motocicleta-vento-ryder-3-0-150-cc-dot-pm-5680153",
+			"sku": "pm-5576333",
+			"url": "https://www.coppel.com/motocicleta-veloci-aggressor-zx-2-250cc-2020-pm-5576333",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pm/5680153-1.jpg",
-				"alt": "Motocicleta Vento Ryder 3.0 150 cc DOT"
+				"url": "https://cdn1.coppel.com/images/catalog/pm/5576333-1.jpg",
+				"alt": "Motocicleta Veloci AGGRESSOR ZX-2 250CC 2020"
 			},
             "texto": {
-				"titulo": "Motocicleta Vento Ryder 3.0 150 cc DOT",
+				"titulo": "Motocicleta Veloci AGGRESSOR ZX-2 250CC 2020",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "",
-				"precioActual": "$21,999"
+				"precioAnterior": "$32,999",
+				"precioActual": "$26,999"
 			}
 		},
 		{
-			"sku": "pr-3338092",
-			"url": "https://www.coppel.com/pijama-color-rosa-marca-beauty-secret-juvenil-pr-3338092",
+			"sku": "pr-7572002",
+			"url": "https://www.coppel.com/bloques-de-construccion-first-builders-mega-bloks-con-80-piezas-pr-7572002",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/3338092-1.jpg",
-				"alt": "Pijama color Rosa marca Beauty Secret Juvenil"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/7572002-1.jpg",
+				"alt": "Bloques de Construcción First Builders Mega Bloks con 80 Piezas"
 			},
             "texto": {
-				"titulo": "Pijama color Rosa marca Beauty Secret Juvenil",
+				"titulo": "Bloques de Construcción First Builders Mega Bloks con 80 Piezas",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$169",
-				"precioActual": "$119"
+				"precioAnterior": "$339",
+				"precioActual": "$272"
 			}
 		}
 		,
@@ -101,19 +101,19 @@
 		}
 		,
 		{
-			"sku": "pr-7406382",
-			"url": "https://www.coppel.com/lancome-la-vie-est-belle-pr-7406382",
+			"sku": "pr-7857832",
+			"url": "https://www.coppel.com/dolce-and-gabbana-light-blue-pr-7857832",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/7406382-1.jpg",
-				"alt": "Lancome - La Vie Est Belle"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/7857832-1.jpg",
+				"alt": "Dolce & Gabbana - Light Blue"
 			},
             "texto": {
-				"titulo": "Lancome - La Vie Est Belle",
+				"titulo": "Dolce & Gabbana - Light Blue",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$2,419",
-				"precioActual": "$1,694"
+				"precioAnterior": "$1,839",
+				"precioActual": "$1,288"
 			}
 		},
 		{
@@ -133,20 +133,36 @@
 			}
 		},
 		{
-			"sku": "pr-7303502",
-			"url": "https://www.coppel.com/carrito-de-compras-prinsel-pr-7303502",
+			"sku": "pr-7145232",
+			"url": "https://www.coppel.com/casa-de-munecas-belula-pr-7145232",
 			"image": {
-				"url": "https://cdn1.coppel.com/images/catalog/pr/7303502-1.jpg",
-				"alt": "Carrito de Compras Prinsel"
+				"url": "https://cdn1.coppel.com/images/catalog/pr/7145232-1.jpg",
+				"alt": "Casa de Muñecas Belúla"
 			},
             "texto": {
-				"titulo": "Carrito de Compras Prinsel",
+				"titulo": "Casa de Muñecas Belúla",
 				"copyContado": "Precio contado"
 			},
 			"precio": {
-				"precioAnterior": "$199",
-				"precioActual": "$180"
+				"precioAnterior": "$1,399",
+				"precioActual": "$980"
 			}
-		}		
+		},
+		{
+			"sku": "pm-7310643",
+			"url": "https://www.coppel.com/reloj-bulova-98a205-azul-pm-7310643",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/7310643-1.jpg",
+				"alt": "Reloj Bulova 98A205 Azul"
+			},
+            "texto": {
+				"titulo": "Reloj Bulova 98A205 Azul",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3,999",
+				"precioActual": "$2,799"
+			}
+		}	
 	]
 }

@@ -42,7 +42,7 @@
         header .logoCoppel img{ width: 130px; }
         header{ padding-top: 16px; padding-bottom: 16px;background-color: #ffe143;  }
 
-        button, a, h4, h2 {
+        button, a, h4, h2, input {
             color: initial;
             outline: none;
         }
@@ -841,7 +841,7 @@
             margin-right: 10px;
         }
         .input-search-term {
-            width: 70px;
+            width: 130px;
             border-radius: 16px;
             padding-left: 18px;
             border: none;
@@ -849,7 +849,7 @@
             font-size: 12px;
         }
         .input-search-term::placeholder {
-        color: #006CBA;
+            color: #006CBA;
         }
         .button-search-term {
             display: none;
@@ -934,7 +934,13 @@
         }
         @media only screen and (min-width: 424px) {
             .input-search-term {
-                width: 120px;
+                width: 200px;
+            }
+        }
+        @media only screen and (min-width: 768px) {
+            .image-logo-coppel {
+                width: 150px;
+                margin-top: 0px;
             }
         }
         @media only screen and (min-width: 992px) {
@@ -1002,7 +1008,7 @@
         height: auto;
     ">
         <div class="container-header">
-            <div class="hidden-md hidden-lg container-menu-mobile">
+            <div class="hidden-md hidden-lg container-menu-mobile" hidden>
                 <button name="hamburger" class="hamburger" on="tap:sidebar.toggle">
                     <div class="sandwich">
                         <div></div>
@@ -1041,7 +1047,7 @@
                     alt="Carrito" /></amp-img>
                 </a>
             </div>
-            <div class="buscador">
+            <div class="buscador" id="buscador">
                 <form
                 method="GET"
                 action="https://coppel.com/SearchDisplay?"
@@ -1051,6 +1057,7 @@
                     <input name="langId" value="-5" type="hidden" />
                     <input name="searchTerm"  
                     class="input-search-term"
+                    id="input-search-term"
                     type="search" 
                     placeholder="Busca tus productos" 
                     tabindex="0" role="button" />
@@ -1109,7 +1116,7 @@
             </div>
         </div>
     </header>
-    <div class="menuDesktop hidden-xs hidden-sm">
+    <div class="menuDesktop hidden-xs hidden-sm" hidden>
         <div class="container">
             <amp-mega-menu height="58" layout="fixed-height">
                 <nav>
@@ -1308,14 +1315,14 @@
 
         <div class="col-md-9 mainContainer">
             <div class="main-image">
-                <a href="https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-BLQEHM-BANNERCAMPA%C3%91A-HOTSALE">
-                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-header.jpg" 
+                <a href="https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-BLQELD-TODO-HOTSALE">
+                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-header-citibnmx.jpg" 
                     width="887px" 
                     height="252px" 
                     alt="Hotsale" 
                     layout="responsive"  
                     class="hidden-xs"></amp-img>
-                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile-header.jpg"
+                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile-header-a.jpg"
                     width="640px" 
                     height="240px" 
                     alt="Hotsale" 
@@ -1599,6 +1606,41 @@
             storeId=12251
             asd asd asd as da sd a sdasdasd -->
         </div>
+    </div>
+</div>
+
+<div hidden>
+    <div>
+        <h1>Hot Sale 2020</h1>
+    </div>
+    <div>
+        <h2>¿Qué es Hot Sale?</h2>
+        <p>Hot Sale es la campaña de ventas online más importante de México, en la que encontrarás increíbles descuentos y
+        promociones exclusivas en productos y servicios.</p>
+    </div>
+    <div>
+        <h2>¿Cuándo es Hot Sale 2020?</h2>
+        <p>¡Prepárate! Las fechas del Hot Sale 2020 es del 22 de mayo al 1 de junio del 2020.</p>
+    </div>
+    <div>
+        <h2>¿Cuáles son las ofertas de Hot Sale 2020?</h2>
+        <p>Durante Hot Sale encontrarás ofertas en celulares, pantallas, muebles, electrodomésticos, línea blanca, ropa y zapatos para toda la familia y ¡en muchos, pero muchos productos más!</p>
+    </div>
+    <div>
+        <h2>¿Cómo puedo comprar en línea?</h2>
+        <p>
+            1- Inicia sesión o compra sin registrarte.<br>
+            2- Agrega tus productos al carrito dando clic en "Agregar al carrito".<br>
+            3- Confirma los datos de entrega a domicilio.<br>
+            4- Elige tu método de pago: crédito Coppel, tarjetas de crédito o débito, medios digitales o en
+            efectivo.<br>
+            5- Verifica tus datos y da clic en "confirmar compra".<br>
+            6- Revisa tu correo, ya que recibirás un mensaje con los datos de tu compra.</p>
+    </div>
+    <div>
+        <h2>¿Cuáles son las formas de pago?</h2>
+        <p>Puedes pagar en Coppel.com usando tu crédito Coppel, tarjeta de crédito, pagos en efectivo con déposito
+            en negocios participantes, PayPal y Visa Checkout.</p>
     </div>
 </div>
 
