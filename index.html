@@ -42,7 +42,7 @@
         header .logoCoppel img{ width: 130px; }
         header{ padding-top: 16px; padding-bottom: 16px;background-color: #ffe143;  }
 
-        button, a, h4, h2, input {
+        button, a, h4, h2, h1, input {
             color: initial;
             outline: none;
         }
@@ -978,6 +978,17 @@
                 display: block;
             }
         }
+        div.col-md-9.mainContainer > amp-accordion > section > h1 {
+            font-size: 20px;
+            padding-left: 15px;
+            background: white;
+            border-radius: 4px;
+        }
+        div.col-md-9.mainContainer > amp-accordion > section > div {
+            background: white;
+            padding: 0 15px;
+            border-radius: 4px;
+        }
 </style>
 </head>
 <body data-ampdevmode>
@@ -1318,16 +1329,16 @@
         <div class="col-md-9 mainContainer">
             <div class="main-image">
                 <a href="https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-BLQELD-TODO-HOTSALE">
-                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-header-citibnmx.jpg" 
+                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-header-b.jpg" 
                     width="887px" 
                     height="252px" 
-                    alt="¡Inicia HOT SALE! Disfruta ofertas increíbles en Coppel.com del 22 de mayo al 1 de junio. Pulsa aquí para ver más." 
+                    alt="Ofertas increíbles para ti Disfruta lo mejor de Hot Sale en Coppel.com del 22 de mayo al 1 de junio. Pulsa aquí para ver más." 
                     layout="responsive"  
                     class="hidden-xs"></amp-img>
-                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile-header-citibnmx.jpg"
+                    <amp-img src="https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile-header-b.jpg"
                     width="640px" 
                     height="240px" 
-                    alt="¡Inicia HOT SALE! Disfruta ofertas increíbles en Coppel.com del 22 de mayo al 1 de junio. Pulsa aquí para ver más." 
+                    alt="Ofertas increíbles para ti Disfruta lo mejor de Hot Sale en Coppel.com del 22 de mayo al 1 de junio. Pulsa aquí para ver más." 
                     layout="intrinsic"
                     class="visible-xs"></amp-img>
                 </a>
@@ -1600,49 +1611,44 @@
                 </template>
             </amp-list>
 
-            <!-- contenedor right
-            https://www.coppel.com/SearchDisplay?
-            catalogId=10001&
-            categoryId=13001&
-            langId=-5&
-            storeId=12251
-            asd asd asd as da sd a sdasdasd -->
-        </div>
-    </div>
-</div>
+            <amp-accordion class="sample"
+            disable-session-states>
+            <section>
+                <h1>Hot Sale 2020</h1>
+                <div>
+                    <h2>¿Qué es Hot Sale?</h2>
+                    <p>Hot Sale es la campaña de ventas online más importante de México, en la que encontrarás increíbles descuentos y
+                    promociones exclusivas en productos y servicios.</p>
+        
+                    <h2>¿Cuándo es Hot Sale 2020?</h2>
+                    <p>¡Prepárate! Las fechas del Hot Sale 2020 es del 22 de mayo al 1 de junio del 2020.</p>
+        
+                    <h2>¿Cuáles son las ofertas de Hot Sale 2020?</h2>
+                    <p>Durante Hot Sale encontrarás ofertas en celulares, pantallas, muebles, electrodomésticos, línea blanca, ropa y zapatos para toda la familia y ¡en muchos, pero muchos productos más!</p>
+                    
+                    <h2>¿Cómo puedo comprar en línea?</h2>
+                    <p>
+                        1- Inicia sesión o compra sin registrarte.<br>
+                        2- Agrega tus productos al carrito dando clic en "Agregar al carrito".<br>
+                        3- Confirma los datos de entrega a domicilio.<br>
+                        4- Elige tu método de pago: crédito Coppel, tarjetas de crédito o débito, medios digitales o en
+                        efectivo.<br>
+                        5- Verifica tus datos y da clic en "confirmar compra".<br>
+                        6- Revisa tu correo, ya que recibirás un mensaje con los datos de tu compra.
+                    </p>
+        
+                    <h2>¿Cuáles son las formas de pago?</h2>
+                    <p>Puedes pagar en Coppel.com usando tu crédito Coppel, tarjeta de crédito, pagos en efectivo con déposito
+                        en negocios participantes, PayPal y Visa Checkout.</p>
+        
+                </div>
+            </section>
+            
+            </amp-accordion>
+            </section>
+        </amp-accordion>
 
-<div hidden>
-    <div>
-        <h1>Hot Sale 2020</h1>
-    </div>
-    <div>
-        <h2>¿Qué es Hot Sale?</h2>
-        <p>Hot Sale es la campaña de ventas online más importante de México, en la que encontrarás increíbles descuentos y
-        promociones exclusivas en productos y servicios.</p>
-    </div>
-    <div>
-        <h2>¿Cuándo es Hot Sale 2020?</h2>
-        <p>¡Prepárate! Las fechas del Hot Sale 2020 es del 22 de mayo al 1 de junio del 2020.</p>
-    </div>
-    <div>
-        <h2>¿Cuáles son las ofertas de Hot Sale 2020?</h2>
-        <p>Durante Hot Sale encontrarás ofertas en celulares, pantallas, muebles, electrodomésticos, línea blanca, ropa y zapatos para toda la familia y ¡en muchos, pero muchos productos más!</p>
-    </div>
-    <div>
-        <h2>¿Cómo puedo comprar en línea?</h2>
-        <p>
-            1- Inicia sesión o compra sin registrarte.<br>
-            2- Agrega tus productos al carrito dando clic en "Agregar al carrito".<br>
-            3- Confirma los datos de entrega a domicilio.<br>
-            4- Elige tu método de pago: crédito Coppel, tarjetas de crédito o débito, medios digitales o en
-            efectivo.<br>
-            5- Verifica tus datos y da clic en "confirmar compra".<br>
-            6- Revisa tu correo, ya que recibirás un mensaje con los datos de tu compra.</p>
-    </div>
-    <div>
-        <h2>¿Cuáles son las formas de pago?</h2>
-        <p>Puedes pagar en Coppel.com usando tu crédito Coppel, tarjeta de crédito, pagos en efectivo con déposito
-            en negocios participantes, PayPal y Visa Checkout.</p>
+        </div>
     </div>
 </div>
 
