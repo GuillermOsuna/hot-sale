@@ -1,8 +1,8 @@
 {
-	"activo": true,
-	"titulo": "Lo que tu hogar necesita",
-	"items": [
-		{
+    "activo": true,
+    "titulo": "Lo que tu hogar necesita",
+    "items": [
+        {
             "index": "10",
             "sku": "PM-351636343188248008237987633852627101632295423434309869553549",
             "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=553549",
@@ -182,5 +182,5 @@
                 "precioSinFormato": "1899"
             }
         }
-	]
+    ]
 }
