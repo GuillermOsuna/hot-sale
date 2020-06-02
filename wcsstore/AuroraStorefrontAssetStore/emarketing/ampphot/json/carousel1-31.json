@@ -1,0 +1,186 @@
+{
+    "activo": true,
+    "titulo": "Lo que tu hogar necesita",
+    "items": [
+		{
+            "index": "1",
+            "sku": "PR-223155",
+            "url": "https://www.coppel.com/atandt-huawei-p30-lite-128-gb-azul-pm-2231553",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/2231553-1.jpg",
+                "alt": "Foto 1 - Huawei P30 Lite 128 GB Azul"
+            },
+            "texto": {
+                "titulo": "Huawei P30 Lite 128 GB Azul",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$6,599",
+                "precioActual": "$5,299",
+                "precioSinFormato": "5299"
+            }
+        },
+        {
+            "index": "2",
+            "sku": "PR-491811",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=491811",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/4918113-1.jpg",
+                "alt": "Foto 1|Sala Esquinera Niza Contemporánea 2 Piezas"
+            },
+            "texto": {
+                "titulo": "Sala Esquinera Niza Contemporánea 2 Piezas",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$7,999",
+                "precioActual": "$7,299",
+                "precioSinFormato": "7299"
+            }
+        },
+        {
+            "index": "3",
+            "sku": "PR-232128",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=232128",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/2321283-1.jpg",
+                "alt": "Foto 1|Notebook HP 14-AX101LA 14&#034; Intel Celeron 4 GB RAM 64 GB Gris"
+            },
+            "texto": {
+                "titulo": "Notebook HP 14-AX101LA 14\" Intel Celeron 4 GB RAM 64 GB Gris",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$6,099",
+                "precioActual": "$5,799",
+                "precioSinFormato": "5799"
+            }
+        },
+        {
+            "index": "4",
+            "sku": "PR-343188",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=343188",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/3431883-1.jpg",
+                "alt": "Foto 1|Escritorio Bilbao Negro"
+            },
+            "texto": {
+                "titulo": "Escritorio Bilbao Negro",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$2,999",
+                "precioActual": "$2,399",
+                "precioSinFormato": "2399"
+            }
+        },
+        {
+            "index": "5",
+            "sku": "PR-349445",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=349445",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/3494453-1.jpg",
+                "alt": "Foto 1|Colchón Matrimonial Wendy Toledo"
+            },
+            "texto": {
+                "titulo": "Colchón Matrimonial Wendy Toledo",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$3,199",
+                "precioActual": "$2,199",
+                "precioSinFormato": "2199"
+            }
+        },
+        {
+            "index": "6",
+            "sku": "PR-637602",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=637602",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/6376023-1.jpg",
+                "alt": "Foto 1|Refrigerador Hisense Top Mount RT11N6WKX 11 Pies color Gris"
+            },
+            "texto": {
+                "titulo": "Refrigerador Hisense Top Mount RT11N6WKX 11 Pies color Gris",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$10,399",
+                "precioActual": "$8,199",
+                "precioSinFormato": "8199"
+            }
+        },
+        {
+            "index": "7",
+            "sku": "PR-228279",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=228279",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/2282793-1.jpg",
+                "alt": "Foto 1|Pantalla LED LG 55&#034; HDR 4K Smart TV AI ThinQ 55UM7200PUA"
+            },
+            "texto": {
+                "titulo": "Pantalla LED LG 55\" HDR 4K Smart TV AI ThinQ 55UM7200PUA",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$14,499",
+                "precioActual": "$10,999",
+                "precioSinFormato": "10999"
+            }
+        },
+        {
+            "index": "8",
+            "sku": "PR-567019",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=567019",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/5670193-1.jpg",
+                "alt": "Foto 1|Motocicleta Vento Ruda 2.0 150 cc 2020"
+            },
+            "texto": {
+                "titulo": "Motocicleta Vento Ruda 2.0 150 cc 2020",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$24,999",
+                "precioActual": "$22,999",
+                "precioSinFormato": "22999"
+            }
+        },
+        {
+            "index": "9",
+            "sku": "PR-347973",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=347973",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/3479733-1.jpg",
+                "alt": "Foto 1|Comedor San Francisco con 6 Sillas"
+            },
+            "texto": {
+                "titulo": "Comedor San Francisco con 6 Sillas",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$11,499",
+                "precioActual": "$10,999",
+                "precioSinFormato": "10999"
+            }
+		},
+		{
+            "index": "10",
+            "sku": "PR-108564",
+            "url": "https://www.coppel.com/procesador-nutribullet-nubpt10101-1-velocidad-pm-1084643",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/1084643-1.jpg",
+                "alt": "Foto 1|Procesador Nutribullet NUBPT10101 1 Velocidad"
+            },
+            "texto": {
+                "titulo": "Procesador Nutribullet NUBPT10101 1 Velocidad",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$3,499",
+                "precioActual": "$2,599",
+                "precioSinFormato": "2599"
+            }
+        }
+    ]
+}

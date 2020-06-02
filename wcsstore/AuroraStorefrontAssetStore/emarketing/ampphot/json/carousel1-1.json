@@ -1,0 +1,186 @@
+{
+	"activo": true,
+	"titulo": "¡Todo para tu hogar!",
+	"items": [
+		{
+            "index": "1",
+            "sku": "PR-557722",
+            "url": "https://www.coppel.com/motocicleta-vento-lithium-2-0-150-2020-pm-5577223",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/5577223-1.jpg",
+                "alt": "Motocicleta Vento Lithium 2.0 150 2020"
+            },
+            "texto": {
+                "titulo": "Motocicleta Vento Lithium 2.0 150 2020",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$21,999",
+                "precioActual": "$20,999",
+                "precioSinFormato": "20999"
+            }
+        },
+		{
+            "index": "2",
+            "sku": "PR-248017",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=248017",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/2480173-1.jpg",
+                "alt": "Foto 1|Pantalla LED Hisense 50&#034; Ultra HD 4K Smart TV 50H6F"
+            },
+            "texto": {
+                "titulo": "Pantalla LED Hisense 50\" Ultra HD 4K Smart TV 50H6F",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$15,499",
+                "precioActual": "$7,999",
+                "precioSinFormato": "7999"
+            }
+        },
+        {
+            "index": "3",
+            "sku": "PR-311171",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=311171",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/3111713-1.jpg",
+                "alt": "Foto 1|Colchón Individual Goldream Imperial Plus"
+            },
+            "texto": {
+                "titulo": "Colchón Individual Goldream Imperial Plus",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$3,499",
+                "precioActual": "$2,399",
+                "precioSinFormato": "2399"
+            }
+        },
+        {
+            "index": "4",
+            "sku": "PR-632597",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=632597",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/6325973-1.jpg",
+                "alt": "Foto 1|Refrigerador Mabe Top Mount RME1436JMXP0 14 Pies color Acero Inoxidable Negro"
+            },
+            "texto": {
+                "titulo": "Refrigerador Mabe Top Mount RME1436JMXP0 14 Pies color Acero Inoxidable Negro",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$12,499",
+                "precioActual": "$8,999",
+                "precioSinFormato": "8999"
+            }
+        },
+        {
+            "index": "5",
+            "sku": "PR-229137",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=229137",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/2291373-1.jpg",
+                "alt": "Foto 1|Celular Motorola Moto One Action 128 GB Gris"
+            },
+            "texto": {
+                "titulo": "Celular Motorola Moto One Action 128 GB Gris",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$8,999",
+                "precioActual": "$5,399",
+                "precioSinFormato": "5399"
+            }
+        },
+        {
+            "index": "6",
+            "sku": "PR-429327",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=429327",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/4293273-1.jpg",
+                "alt": "Foto 1|Sala Esquinera Cloe Contemporáneo 1 Pieza"
+            },
+            "texto": {
+                "titulo": "Sala Esquinera Cloe Contemporáneo 1 Pieza",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$5,999",
+                "precioActual": "$4,799",
+                "precioSinFormato": "4799"
+            }
+        },
+        {
+            "index": "7",
+            "sku": "PR-347991",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=347991",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/3479913-1.jpg",
+                "alt": "Foto 1|Comedor Oxford color Café con 4 Sillas y 1 Banco estilo Contemporáneo"
+            },
+            "texto": {
+                "titulo": "Comedor Oxford color Café con 4 Sillas y 1 Banco estilo Contemporáneo",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$10,699",
+                "precioActual": "$9,999",
+                "precioSinFormato": "9999"
+            }
+        },
+        {
+            "index": "8",
+            "sku": "PR-633852",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=633852",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/6338523-1.jpg",
+                "alt": "Foto 1|Minisplit On Off Midea Frío MAS12C1ASC 110V 1t"
+            },
+            "texto": {
+                "titulo": "Minisplit On Off Midea Frío MAS12C1ASC 110V 1t",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$6,499",
+                "precioActual": "$4,999",
+                "precioSinFormato": "4999"
+            }
+        },
+        {
+            "index": "9",
+            "sku": "PR-311723",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=311723",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/3117233-1.jpg",
+                "alt": "Foto 1|Cocina Texas 240 cm con 9 Puertas"
+            },
+            "texto": {
+                "titulo": "Cocina Texas 240 cm con 9 Puertas",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$10,499",
+                "precioActual": "$9,999",
+                "precioSinFormato": "9999"
+            }
+        },
+        {
+            "index": "10",
+            "sku": "PR-558346",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=558346",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/5583463-1.jpg",
+                "alt": "Foto 1|Masajeador Eléctrico Powerlegs CV Directo"
+            },
+            "texto": {
+                "titulo": "Masajeador Eléctrico Powerlegs CV Directo",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$4,499",
+                "precioActual": "$3,799",
+                "precioSinFormato": "3799"
+            }
+        }
+	]
+}

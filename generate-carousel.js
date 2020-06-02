@@ -2,8 +2,16 @@ const puppeteer = require('puppeteer')
 var fs = require('fs')
 
 let items = [
-    '340278',
-    '341274',
+    '335280',
+    '335975',
+    '334210',
+    '813713',
+    '814551',
+    '112377',
+    '130277',
+    '112053',
+    '812992',
+    '805127'
 ]
 
 let json = {
@@ -22,7 +30,7 @@ async function get () {
             browser.close()
         })
         try {
-            console.log('generando el carrusel ' + i)
+            console.log('generando carrusel, item: ' + i)
             let url = 'https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=' + items[i]
             console.log('url: ', url)
             await page.goto(url, { waitUntil: 'load'})
@@ -77,7 +85,7 @@ async function get () {
 
         }catch(error) {
             console.log(error)
-            console.log('error al guardar el : ', items[i])
+            console.log('error al guardar el item: ', items[i])
         }finally {
             await page.waitFor(500)
             await page.close()

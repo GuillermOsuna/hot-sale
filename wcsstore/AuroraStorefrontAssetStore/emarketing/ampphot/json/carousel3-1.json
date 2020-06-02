@@ -1,0 +1,186 @@
+{
+	"activo": true,
+	"titulo": "Renueva tu clóset",
+	"items": [
+		{
+            "index": "1",
+            "sku": "PR-335280",
+            "url": "https://www.coppel.com/blusa-azul-manga-larga-marca-jennifer-lopez-para-mujer-pr-3352802",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/3352802-1.jpg",
+                "alt": "Blusa Azul Manga Larga marca Jennifer Lopez para Mujer"
+            },
+            "texto": {
+                "titulo": "Blusa Azul Manga Larga marca Jennifer Lopez para Mujer",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$319",
+                "precioActual": "$224",
+                "precioSinFormato": "224"
+            }
+        },
+		{
+            "index": "2",
+            "sku": "PR-335975",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=335975",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/3359752-1.jpg",
+                "alt": "Foto 1|Pantalón Skinny 18 Forever para Mujer"
+            },
+            "texto": {
+                "titulo": "Pantalón Skinny 18 Forever para Mujer",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$279",
+                "precioActual": "$196",
+                "precioSinFormato": "196"
+            }
+        },
+        {
+            "index": "3",
+            "sku": "PR-334210",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=334210",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/3342102-1.jpg",
+                "alt": "Foto 1|Brasier Strapless color Negro marca Beauty Secret para Mujer"
+            },
+            "texto": {
+                "titulo": "Brasier Strapless color Negro marca Beauty Secret para Mujer",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$169",
+                "precioActual": "$119",
+                "precioSinFormato": "119"
+            }
+        },
+        {
+            "index": "4",
+            "sku": "PR-813713",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=813713",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/8137132-1.jpg",
+                "alt": "Foto 1|Tenis Fila Martino color Blanco para Mujer"
+            },
+            "texto": {
+                "titulo": "Tenis Fila Martino color Blanco para Mujer",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$999",
+                "precioActual": "$800",
+                "precioSinFormato": "800"
+            }
+        },
+        {
+            "index": "5",
+            "sku": "PR-814551",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=814551",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/8145512-1.jpg",
+                "alt": "Foto 1|Flats marca Capa de Ozono color Amarillo para Mujer"
+            },
+            "texto": {
+                "titulo": "Flats marca Capa de Ozono color Amarillo para Mujer",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$379",
+                "precioActual": "$304",
+                "precioSinFormato": "304"
+            }
+        },
+        {
+            "index": "6",
+            "sku": "PR-112377",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=112377",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/1123772-1.jpg",
+                "alt": "Foto 1|Playera tipo Polo Azul marca Wall Street para Hombre"
+            },
+            "texto": {
+                "titulo": "Playera tipo Polo Azul marca Wall Street para Hombre",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$199",
+                "precioActual": "$140",
+                "precioSinFormato": "140"
+            }
+        },
+        {
+            "index": "7",
+            "sku": "PR-130277",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=130277",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/1302772-1.jpg",
+                "alt": "Foto 1|Pantalón Vaxter Aver Bolt marca Oggi para Hombre"
+            },
+            "texto": {
+                "titulo": "Pantalón Vaxter Aver Bolt marca Oggi para Hombre",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$479",
+                "precioActual": "$336",
+                "precioSinFormato": "336"
+            }
+        },
+        {
+            "index": "8",
+            "sku": "PR-112053",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=112053",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/1120532-1.jpg",
+                "alt": "Foto 1|Set de Calcetines Deportivos Tin para Hombre Sportline con 10 Pares"
+            },
+            "texto": {
+                "titulo": "Set de Calcetines Deportivos Tin para Hombre Sportline con 10 Pares",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$99",
+                "precioActual": "$70",
+                "precioSinFormato": "70"
+            }
+        },
+        {
+            "index": "9",
+            "sku": "PR-812992",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=812992",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/8129922-1.jpg",
+                "alt": "Foto 1|Tenis Puma Anzarun Lite Bold color Negro para Hombre"
+            },
+            "texto": {
+                "titulo": "Tenis Puma Anzarun Lite Bold color Negro para Hombre",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$1,399",
+                "precioActual": "$840",
+                "precioSinFormato": "840"
+            }
+        },
+        {
+            "index": "10",
+            "sku": "PR-805127",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=805127",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/8051272-1.jpg",
+                "alt": "Foto 1|Botas de Trabajo marca Omar Castell de Piel color Beige para Hombre"
+            },
+            "texto": {
+                "titulo": "Botas de Trabajo marca Omar Castell de Piel color Beige para Hombre",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$779",
+                "precioActual": "$624",
+                "precioSinFormato": "624"
+            }
+        }
+	]
+}

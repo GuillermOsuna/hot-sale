@@ -1,0 +1,170 @@
+{
+	"activo": true,
+	"titulo": "¿Qué vas a estrenar hoy?",
+	"items": [
+		{
+			"index": "1",
+			"sku": "pr-3169312",
+			"url": "https://www.coppel.com/bolsa-de-mano-color-camel-marca-refill-para-mujer-pr-3169312",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3169312-1.jpg",
+				"alt": "Bolsa de Mano color Camel marca Refill para Mujer"
+			},
+            "texto": {
+				"titulo": "Bolsa de Mano color Camel marca Refill para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$359",
+				"precioActual": "$252",
+				"precioSinFormato": "252"
+			}
+		},
+		{
+			"index": "2",
+			"sku": "pm-5490613",
+			"url": "https://www.coppel.com/ab-tomic-de-inova-pm-5490613",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/5490613-1.jpg",
+				"alt": "AB Tomic de Inova"
+			},
+            "texto": {
+				"titulo": "AB Tomic de Inova",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$2,399",
+				"precioActual": "$1,999",
+				"precioSinFormato": "1999"
+			}
+		},
+		{
+			"index": "3",
+			"sku": "pm-5504773",
+			"url": "https://www.coppel.com/carriola-ligera-fisher-price-pm-5504773",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/5504773-1.jpg",
+				"alt": "Carriola Ligera Fisher Price"
+			},
+            "texto": {
+				"titulo": "Carriola Ligera Fisher Price",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$4,399",
+				"precioActual": "$3,939",
+				"precioSinFormato": "3939"
+			}
+		},
+		{
+			"index": "4",
+			"sku": "pr-7157482",
+			"url": "https://www.coppel.com/bloques-de-construccion-daenerys-and-drogon-mega-construx-pr-7157482",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/7157482-1.jpg",
+				"alt": "Bloques de Construcción Daenerys & Drogon Mega Construx"
+			},
+            "texto": {
+				"titulo": "Bloques de Construcción Daenerys & Drogon Mega Construx",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,399",
+				"precioActual": "$849",
+				"precioSinFormato": "849"
+			}
+		},
+		{
+			"index": "5",
+			"sku": "pm-7248583",
+			"url": "https://www.coppel.com/reloj-casio-g-shock-gas-100b-negro-pm-7248583",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/7248583-1.jpg",
+				"alt": "Reloj Casio G-Shock GAS-100B Negro"
+			},
+            "texto": {
+				"titulo": "Reloj Casio G-Shock GAS-100B Negro",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3,699",
+				"precioActual": "$2,329",
+				"precioSinFormato": "2329"
+			}
+		},
+		{
+			"index": "6",
+			"sku": "pr-1002162",
+			"url": "https://www.coppel.com/pantalon-233-boot-cut-fit-marca-denizen-para-hombre-pr-1002162",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/1002162-1.jpg",
+				"alt": "Pantalón 233 Boot Cut Fit marca Denizen para Hombre"
+			},
+            "texto": {
+				"titulo": "Pantalón 233 Boot Cut Fit marca Denizen para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$549",
+				"precioActual": "$449",
+				"precioSinFormato": "449"
+			}
+		},
+		{
+			"index": "7",
+			"sku": "pm-5512013",
+			"url": "https://www.coppel.com/bicicleta-huffy-deluxe-26-pulgadas-pm-5512013",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/5512013-1.jpg",
+				"alt": "Bicicleta Huffy Deluxe 260'"
+			},
+            "texto": {
+				"titulo": "Bicicleta Huffy Deluxe 260'",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$4,499",
+				"precioActual": "$3,999",
+				"precioSinFormato": "3999"
+			}
+		},
+		{
+			"index": "8",
+			"sku": "pr-3323732",
+			"url": "https://www.coppel.com/pantalon-skinny-marca-up-and-down-para-mujer-pr-3323732",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3323732-1.jpg",
+				"alt": "Pantalón Skinny marca Up & Down para Mujer"
+			},
+            "texto": {
+				"titulo": "Pantalón Skinny marca Up & Down para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$219",
+				"precioActual": "$154",
+				"precioSinFormato": "154"
+			}
+		},
+		{
+			"index": "9",
+			"sku": "pm-5445233",
+			"url": "https://www.coppel.com/montable-flying-wheel-mustang-pb-cmu-pm-5445233",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/5445233-1.jpg",
+				"alt": "Montable Flying Wheel Mustang PB-CMU"
+			},
+            "texto": {
+				"titulo": "Montable Flying Wheel Mustang PB-CMU",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$2,499",
+				"precioActual": "$2,249",
+				"precioSinFormato": "2249"
+			}
+		}
+
+		
+	]
+}

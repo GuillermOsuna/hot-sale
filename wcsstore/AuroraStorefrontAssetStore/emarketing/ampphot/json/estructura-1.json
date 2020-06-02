@@ -1,0 +1,2164 @@
+{
+  "items": [
+    {
+      "index": "1",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ELECTRONICA-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-01.jpg",
+        "alt": "Composición de laptop y pantalla. Pulsa aquÃ­ para encontrar más de electrónica, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "50%",
+          "padding": "0 5px 10px 0",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_01.jpg",
+          "alt": "Composición de laptop y pantalla. Pulsa aquÃ­ para encontrar más de electrónica, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 5px 10px 0",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_01.jpg",
+          "alt": "Composición de laptop y pantalla. Pulsa aquÃ­ para encontrar más de electrónica, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 5px 10px 0",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "51%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Electrónica",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "2",
+      "url": "https://www.coppel.com/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&maxPrice=&top_category=&showResultsPage=true&langId=-5&beginIndex=0&advancedSearch=&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=2&catalogId=10001&pageView=grid&searchTerm=RB2021-EPMTPE-DEPORTIVO-HOTSALE&minPrice=&urlLangId=-4&categoryId=38001&storeId=12761",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-02-e.jpg",
+        "alt": "Tenis adidas blancos con franjas de colores en el costado. Pulsa aquÃ­ para encontrar más tenis, abre en pestaña nueva.",
+        "style": {
+          "height": "288px",
+          "width": "50%",
+          "padding": "0 0px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_02-e.jpg",
+          "alt": "Tenis adidas blancos con franjas de colores en el costado. Pulsa aquÃ­ para encontrar más tenis, abre en pestaña nueva.",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_02-e.jpg",
+          "alt": "Tenis adidas blancos con franjas de colores en el costado. Pulsa aquÃ­ para encontrar más tenis, abre en pestaña nueva.",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "40%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Calzado deportivo",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "3",
+      "url": "https://www.coppel.com/equipos-celulares",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-03-a.jpg",
+        "alt": "Composición de tres celulares de distintas marcas y modelos. Pulsa aquÃ­ para encontrar más celulares, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "70%",
+          "padding": "0 5px 10px 0",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_03-a.jpg",
+          "alt": "Composición de tres celulares de distintas marcas y modelos. Pulsa aquÃ­ para encontrar más celulares, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 5px 10px 0",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_03-a.jpg",
+          "alt": "Composición de tres celulares de distintas marcas y modelos. Pulsa aquÃ­ para encontrar más celulares, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 5px 10px 0",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "50%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Celulares",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "4",
+      "url": "https://www.coppel.com/colchones",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-04.jpg",
+        "alt": "Composición de tres distintos modelos de colchones apilados uno sobre otro. Pulsa aquÃ­ para encontrar más colchones, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "30%",
+          "padding": "0 0px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_04.jpg",
+          "alt": "Composición de tres distintos modelos de colchones apilados uno sobre otro. Pulsa aquÃ­ para encontrar más colchones, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_04.jpg",
+          "alt": "Composición de tres distintos modelos de colchones apilados uno sobre otro. Pulsa aquÃ­ para encontrar más colchones, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "40%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Colchones",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "5",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2020-EPMTPE-ZAPATOS-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-05.jpg",
+        "alt": "Composición de sandalia de tacón de mujer junto a bota cafÃ© para hombre. Pulsa aquÃ­ para encontrar más calzado, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "30%",
+          "padding": "0 5px 10px 0",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_05.jpg",
+          "alt": "Composición de sandalia de tacón de mujer junto a bota cafÃ© para hombre. Pulsa aquÃ­ para encontrar más calzado, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_05.jpg",
+          "alt": "Composición de sandalia de tacón de mujer junto a bota cafÃ© para hombre. Pulsa aquÃ­ para encontrar más calzado, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "53%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Calzado",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "6",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ROPAHOMBREYMUJER-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-06.jpg",
+        "alt": "Modelo masculino con playera blanca de Nasa y modelo femenina con blusa amarilla sin mangas. Pulsa aquÃ­ para encontrar más ropa, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "70%",
+          "padding": "0 0px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_05-07.jpg",
+          "alt": "Modelo masculino con playera blanca de Nasa y modelo femenina con blusa amarilla sin mangas. Pulsa aquÃ­ para encontrar más ropa, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_05-07.jpg",
+          "alt": "Modelo masculino con playera blanca de Nasa y modelo femenina con blusa amarilla sin mangas. Pulsa aquÃ­ para encontrar más ropa, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "50%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Ropa",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "7",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-LINEABLANCA-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-07.jpg",
+        "alt": "Composición de refrigerador, estufa y lavadora. Pulsa aquÃ­ paa encontrar más de lÃ­nea blanca, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "50%",
+          "padding": "0 5px 10px 0px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_07.jpg",
+          "alt": "Composición de refrigerador, estufa y lavadora. Pulsa aquÃ­ paa encontrar más de lÃ­nea blanca, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_07.jpg",
+          "alt": "Composición de refrigerador, estufa y lavadora. Pulsa aquÃ­ paa encontrar más de lÃ­nea blanca, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "47%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Línea blanca",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "8",
+      "url": "https://www.coppel.com/hogar/salas/",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-08.jpg",
+        "alt": "Sala esquinera cafÃ©. Pulsa aquÃ­ para encontrar más salas, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "50%",
+          "padding": "0px 0px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_08.jpg",
+          "alt": "Sala esquinera cafÃ©. Pulsa aquÃ­ para encontrar más salas, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_08.jpg",
+          "alt": "Sala esquinera cafÃ©. Pulsa aquÃ­ para encontrar más salas, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "30%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Salas",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "9",
+      "url": "https://www.coppel.com/hogar/comedores/",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-09.jpg",
+        "alt": "Comedor de madera cafÃ© claro con mesa rectangular y cuatro sillas. Pulsa aquÃ­ para encontrar más comedores, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "33.333%",
+          "padding": "0px 5px 10px 0px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_09.jpg",
+          "alt": "Comedor de madera cafÃ© claro con mesa rectangular y cuatro sillas. Pulsa aquÃ­ para encontrar más comedores, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_09.jpg",
+          "alt": "Comedor de madera cafÃ© claro con mesa rectangular y cuatro sillas. Pulsa aquÃ­ para encontrar más comedores, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "20%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Comedores",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "10",
+      "url": "https://www.coppel.com/hogar/muebles-para-cocinas/",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-10.jpg",
+        "alt": "Cocina integral con alacenas de madera cafÃ©. Pulsa aquÃ­ para encontrar más cocinas, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "33.3333%",
+          "padding": "0px 5px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_10.jpg",
+          "alt": "Cocina integral con alacenas de madera cafÃ©. Pulsa aquÃ­ para encontrar más cocinas, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_10.jpg",
+          "alt": "Cocina integral con alacenas de madera cafÃ©. Pulsa aquÃ­ para encontrar más cocinas, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "15%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Cocinas",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "11",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=18&searchTerm=RB2021-CORREO-HERRAMIENTAS-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-112.jpg",
+        "alt": "Composición de una llanta para auto marca Tornel color negro y un acumulador marca Gonher. Pulsa aquÃ­ para ver más.",
+        "style": {
+          "height": "288px",
+          "width": "33.3333%",
+          "padding": "0px 0px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_112.jpg",
+          "alt": "Composición de una llanta para auto marca Tornel color negro y un acumulador marca Gonher. Pulsa aquÃ­ para ver más.",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_112.jpg",
+          "alt": "Composición de una llanta para auto marca Tornel color negro y un acumulador marca Gonher. Pulsa aquÃ­ para ver más.",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "30%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Herramientas",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "12",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-JUGUETESDESCUENTO-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-12.jpg",
+        "alt": "Figura de acción de Buzz Lightyear en nave espacial de juguete. Pulsa aquÃ­ para encontrar más juguetes, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "50%",
+          "padding": "0px 5px 10px 0px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_12.jpg",
+          "alt": "Figura de acción de Buzz Lightyear en nave espacial de juguete. Pulsa aquÃ­ para encontrar más juguetes, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_12.jpg",
+          "alt": "Figura de acción de Buzz Lightyear en nave espacial de juguete. Pulsa aquÃ­ para encontrar más juguetes, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "50%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Juguetes",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "13",
+      "url": "https://www.coppel.com/mujeres/lenceria-para-mujeres",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-13.jpg",
+        "alt": "Modelo femenina con brasier gris. Pulsa aquÃ­ para encontrar lencerÃ­a, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "50%",
+          "padding": "0px 0px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_13.jpg",
+          "alt": "Modelo femenina con brasier gris. Pulsa aquÃ­ para encontrar lencerÃ­a, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_13.jpg",
+          "alt": "Modelo femenina con brasier gris. Pulsa aquÃ­ para encontrar lencerÃ­a, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "50%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Lencerí­a",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "14",
+      "url": "https://www.coppel.com/recamara",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-14-a.jpg",
+        "alt": "Recámara con cabecera gris y mesas de noche en los costados de la cama. Pulsa aquÃ­ para encontrar más recámaras, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "50%",
+          "padding": "0px 5px 10px 0px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_14-a.jpg",
+          "alt": "Recámara con cabecera gris y mesas de noche en los costados de la cama. Pulsa aquÃ­ para encontrar más recámaras, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_14-a.jpg",
+          "alt": "Recámara con cabecera gris y mesas de noche en los costados de la cama. Pulsa aquÃ­ para encontrar más recámaras, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "20%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Recámaras",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "15",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ELECTRODOMESTICOS-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-15.jpg",
+        "alt": "Composición de licuadora con baterÃ­a de cocina. Pulsa aquÃ­ para encontrar electrodomÃ©sticos, abre en pestaña nueva.",
+        "style": {
+          "height": "288px",
+          "width": "50%",
+          "padding": "0px 0px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_15.jpg",
+          "alt": "Composición de licuadora con baterÃ­a de cocina. Pulsa aquÃ­ para encontrar electrodomÃ©sticos, abre en pestaña nueva.",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_15.jpg",
+          "alt": "Composición de licuadora con baterÃ­a de cocina. Pulsa aquÃ­ para encontrar electrodomÃ©sticos, abre en pestaña nueva.",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "40%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Electrodomésticos",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "16",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12761&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2022-BLQELD-EQUIPAJE-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/maletas.jpg",
+        "alt": "Composición de dos maletas verticales con ruedas giratorias y asa retráctil: una en color gris y otra en color rosa con dos bolsas al frente con cierre de cremallera. Pulsa aquÃ­ para ver más maletas y mochilas en oferta.",
+        "style": {
+          "height": "288px",
+          "width": "33.3333%",
+          "padding": "0px 5px 10px 0px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_16-c.jpg",
+          "alt": "Composición de dos maletas verticales con ruedas giratorias y asa retráctil: una en color gris y otra en color rosa con dos bolsas al frente con cierre de cremallera. Pulsa aquÃ­ para ver más maletas y mochilas en oferta. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_16-c.jpg",
+          "alt": "Composición de dos maletas verticales con ruedas giratorias y asa retráctil: una en color gris y otra en color rosa con dos bolsas al frente con cierre de cremallera. Pulsa aquÃ­ para ver más maletas y mochilas en oferta. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "30%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Equipaje y mochilas",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "17",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-INFANTIL-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-17.jpg",
+        "alt": "Modelos infantiles, niño y niña, con outfits a la moda.Pulsa aquÃ­ para encontrar más ropa infantil, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "33.3333%",
+          "padding": "0px 5px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_17.jpg",
+          "alt": "Modelos infantiles, niño y niña, con outfits a la moda.Pulsa aquÃ­ para encontrar más ropa infantil, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_17.jpg",
+          "alt": "Modelos infantiles, niño y niña, con outfits a la moda.Pulsa aquÃ­ para encontrar más ropa infantil, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "40%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Ropa y calzado infantil",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "18",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12753&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-BLQELD-ACCESORIOS-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-18.jpg",
+        "alt": "Composición de reloj plateado con cadena dorada. Pulsa aquÃ­ para encontrar más relojes, joyerÃ­a, accesorios y más, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "33.3333%",
+          "padding": "0px 0px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_18.jpg",
+          "alt": "Composición de reloj plateado con cadena dorada. Pulsa aquÃ­ para encontrar más relojes, joyerÃ­a, accesorios y más, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_18.jpg",
+          "alt": "Composición de reloj plateado con cadena dorada. Pulsa aquÃ­ para encontrar más relojes, joyerÃ­a, accesorios y más, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "40%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Relojes, joyería y accesorios",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "19",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-CUIDADOPERSONAL-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-19-a.jpg",
+        "alt": "Composición de perfumes y alaciadora de cabello. Pulsa aquÃ­ para encontrar más productos de cuidado para el cabello, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "50%",
+          "padding": "0px 5px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_19-a.jpg",
+          "alt": "Composición de perfumes y alaciadora de cabello. Pulsa aquÃ­ para encontrar más productos de cuidado para el cabello, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_19-a.jpg",
+          "alt": "Composición de perfumes y alaciadora de cabello. Pulsa aquÃ­ para encontrar más productos de cuidado para el cabello, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 5px 10px 0px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "30%",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Cuidado personal",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    },
+    {
+      "index": "20",
+      "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12761&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2022-BLQEHM-MOTOSYCASCOS-HOTSALE",
+      "image": {
+        "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-202.jpg",
+        "alt": "Motocicleta gris. Pulsa aquÃ­ para encontrar más motocicletas, abre en pestaña nueva. ",
+        "style": {
+          "height": "288px",
+          "width": "50%",
+          "padding": "0px 0px 10px 5px",
+          "position": "0 0"
+        },
+        "sm": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_202.jpg",
+          "alt": "Motocicleta gris. Pulsa aquÃ­ para encontrar más motocicletas, abre en pestaña nueva. ",
+          "style": {
+            "height": "360px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 50%"
+          }
+        },
+        "xs": {
+          "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_202.jpg",
+          "alt": "Motocicleta gris. Pulsa aquÃ­ para encontrar más motocicletas, abre en pestaña nueva. ",
+          "style": {
+            "height": "170px",
+            "width": "50%",
+            "padding": "0 0px 10px 5px",
+            "position": "50% 70%"
+          }
+        }
+      },
+      "text": {
+        "position": "top-right",
+        "price": {
+          "label": "$5,000",
+          "style": {
+            "color": "red",
+            "fontSize": "40px",
+            "fontWeight": "bold"
+          }
+        },
+        "description": {
+          "firstLabel": "Hasta",
+          "lastLabel": "de descuento",
+          "style": {
+            "color": "black",
+            "fontSize": "20px; line-height: 30px",
+            "fontWeight": "bold"
+          }
+        },
+        "sm": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "25px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de descuento",
+            "style": {
+              "color": "black",
+              "fontSize": "18px; line-height: 18px",
+              "fontWeight": "bold"
+            }
+          }
+        },
+        "xs": {
+          "position": "top-right",
+          "price": {
+            "style": {
+              "color": "red",
+              "fontSize": "20px",
+              "fontWeight": "bold"
+            }
+          },
+          "description": {
+            "firstLabel": "Hasta",
+            "lastLabel": "de dto.",
+            "style": {
+              "color": "black",
+              "fontSize": "15px; line-height: 10px",
+              "fontWeight": "bold"
+            }
+          }
+        }
+      },
+      "mainText": {
+        "text": "Motocicletas y accesorios",
+        "style": {
+          "textAlign": "center"
+        },
+        "sm": {
+          "style": {
+            "textAlign": "center"
+          }
+        },
+        "xs": {
+          "style": {
+            "textAlign": "center; font-size: 12px; padding: 10px 1px 10px 1px"
+          }
+        }
+      }
+    }
+  ]
+}

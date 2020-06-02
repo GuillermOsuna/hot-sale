@@ -1,0 +1,186 @@
+{
+	"activo": true,
+	"titulo": "¿Qué vas a estrenar hoy?",
+	"items": [
+        {
+            "index": "1",
+            "sku": "PR-504630",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=504630",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/5046302-1.jpg",
+                "alt": "Foto 1|Conjunto con Pantalón Baby Colors"
+            },
+            "texto": {
+                "titulo": "Conjunto con Pantalón Baby Colors",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$299",
+                "precioActual": "$210",
+                "precioSinFormato": "210"
+            }
+        },
+        {
+            "index": "2",
+            "sku": "PR-633984",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=633984",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/6339843-1.jpg",
+                "alt": "Foto 1|Lavadora Whirlpool Automática 8MWTW1713MJQ 17 kg Blanca"
+            },
+            "texto": {
+                "titulo": "Lavadora Whirlpool Automática 8MWTW1713MJQ 17 kg Blanca",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$10,199",
+                "precioActual": "$8,299",
+                "precioSinFormato": "8299"
+            }
+        },
+        {
+            "index": "3",
+            "sku": "PR-509866",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=509866",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/5098662-1.jpg",
+                "alt": "Foto 1|Vestido Blanco marca Baby Colors para Bebé Niña"
+            },
+            "texto": {
+                "titulo": "Vestido Blanco marca Baby Colors para Bebé Niña",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$189",
+                "precioActual": "$133",
+                "precioSinFormato": "133"
+            }
+        },
+		{
+            "index": "4",
+            "sku": "PR-348236",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=348236",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/3482363-1.jpg",
+                "alt": "Foto 1|Escritorio para Computadora Virgo Peral"
+            },
+            "texto": {
+                "titulo": "Escritorio para Computadora Virgo Peral",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$2,299",
+                "precioActual": "$2,199",
+                "precioSinFormato": "2199"
+            }
+        },
+        {
+            "index": "5",
+            "sku": "PR-251633",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=251633",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/2516332-1.jpg",
+                "alt": "Foto 1|Playera Tipo Polo Estampada marca Refill para Niño"
+            },
+            "texto": {
+                "titulo": "Playera Tipo Polo Estampada marca Refill para Niño",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$179",
+                "precioActual": "$126",
+                "precioSinFormato": "126"
+            }
+        },
+        {
+            "index": "6",
+            "sku": "PR-633852",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=633852",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/6338523-1.jpg",
+                "alt": "Foto 1|Minisplit On Off Midea Frío MAS12C1ASC 110V 1t"
+            },
+            "texto": {
+                "titulo": "Minisplit On Off Midea Frío MAS12C1ASC 110V 1t",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$6,499",
+                "precioActual": "$4,999",
+                "precioSinFormato": "4999"
+            }
+        },
+        {
+            "index": "7",
+            "sku": "PR-402862",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=402862",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/4028622-1.jpg",
+                "alt": "Foto 1|Vestido Azul marca Refill Kids para Niña"
+            },
+            "texto": {
+                "titulo": "Vestido Azul marca Refill Kids para Niña",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$149",
+                "precioActual": "$105",
+                "precioSinFormato": "105"
+            }
+        },
+        {
+            "index": "8",
+            "sku": "PR-142689",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=142689",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/1426893-1.jpg",
+                "alt": "Foto 1|Licuadora Oster BLST3A-CPG-013 con 3 Velocidades"
+            },
+            "texto": {
+                "titulo": "Licuadora Oster BLST3A-CPG-013 con 3 Velocidades",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$3,499",
+                "precioActual": "$2,399",
+                "precioSinFormato": "2399"
+            }
+        },
+        {
+            "index": "9",
+            "sku": "PR-809630",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=809630",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/8096302-1.jpg",
+                "alt": "Foto 1|Sandalias Rosas marca Girls Attitude para Niña"
+            },
+            "texto": {
+                "titulo": "Sandalias Rosas marca Girls Attitude para Niña",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$269",
+                "precioActual": "$216",
+                "precioSinFormato": "216"
+            }
+        },
+        {
+            "index": "10",
+            "sku": "PR-263246",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=263246",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/2632463-1.jpg",
+                "alt": "Foto 1|Consola Xbox One S 1 TB con Paquete Roblox"
+            },
+            "texto": {
+                "titulo": "Consola Xbox One S 1 TB con Paquete Roblox",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$8,999",
+                "precioActual": "$7,839",
+                "precioSinFormato": "7839"
+            }
+        }
+	]
+}

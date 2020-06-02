@@ -1,0 +1,187 @@
+{
+	"activo": true,
+	"titulo": "Renueva tu clóset",
+	"items": [
+		{
+			"index": "1",
+			"sku": "pr-3154912",
+			"url": "https://www.coppel.com/falda-midi-azul-marca-jennifer-lopez-para-mujer-pr-3154912",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3154912-1.jpg",
+				"alt": "Falda Midi Azul marca Jennifer Lopez para Mujer"
+			},
+            "texto": {
+				"titulo": "Falda Midi Azul marca Jennifer Lopez para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$349",
+				"precioActual": "$245",
+				"precioSinFormato": "245"
+			}
+		},
+		{
+			"index": "2",
+			"sku": "pr-80943322",
+			"url": "https://www.coppel.com/balerinas-marca-up-and-down-color-taupe-para-mujer-pr-8094332",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8094332-1.jpg",
+				"alt": "Balerinas marca Up & Down color Taupe para Mujer"
+			},
+            "texto": {
+				"titulo": "Balerinas marca Up & Down color Taupe para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$199",
+				"precioActual": "$160",
+				"precioSinFormato": "160"
+			}
+		},
+		{
+			"index": "3",
+			"sku": "pr-1118392",
+			"url": "https://www.coppel.com/short-color-caqui-marca-ecko-unltd-para-hombre-pr-1118392",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/1118392-1.jpg",
+				"alt": "Short color Caqui marca Eckó Unltd. para Hombre"
+			},
+            "texto": {
+				"titulo": "Short color Caqui marca Eckó Unltd. para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$409",
+				"precioActual": "$287",
+				"precioSinFormato": "287"
+			}
+		},
+		{
+			"index": "4",
+			"sku": "pr-8129892",
+			"url": "https://www.coppel.com/tenis-puma-anzarun-lite-bold-color-rojo-para-hombre-pr-8129892",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8129892-1.jpg",
+				"alt": "Tenis Puma Anzarun Lite Bold color Rojo para Hombre"
+			},
+            "texto": {
+				"titulo": "Tenis Puma Anzarun Lite Bold color Rojo para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "1,399",
+				"precioActual": "$840",
+				"precioSinFormato": "840"
+			}
+		},
+		{
+			"index": "5",
+			"sku": "pr-5004172",
+			"url": "https://www.coppel.com/set-de-panaleros-marca-baby-colors-para-bebe-nino-pr-5004172",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/5004172-1.jpg",
+				"alt": "Set de Pañaleros marca Baby Colors para Bebé Niño"
+			},
+            "texto": {
+				"titulo": "Set de Pañaleros marca Baby Colors para Bebé Niño",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$159",
+				"precioActual": "$112",
+				"precioSinFormato": "112"
+			}
+		},
+		{
+			"index": "6",
+			"sku": "pr-5005942",
+			"url": "https://www.coppel.com/conjunto-blanco-marca-grafito-baby-para-bebe-nina-pr-5005942",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/5005942-1.jpg",
+				"alt": "Conjunto Blanco marca Grafito Baby para Bebé Niña"
+			},
+            "texto": {
+				"titulo": "Conjunto Blanco marca Grafito Baby para Bebé Niña",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$199",
+				"precioActual": "$140",
+				"precioSinFormato": "140"
+			}
+		},
+		{
+			"index": "7",
+			"sku": "pr-2036412",
+			"url": "https://www.coppel.com/pantalon-jogger-verde-marca-neo*city-para-nino-pr-2036412",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/2036412-1.jpg",
+				"alt": "Pantalón Jogger Verde marca Neo*City para Niño"
+			},
+            "texto": {
+				"titulo": "Pantalón Jogger Verde marca Neo*City para Niño",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$249",
+				"precioActual": "$175",
+				"precioSinFormato": "175"
+			}
+		},
+		{
+			"index": "8",
+			"sku": "pr-8139602",
+			"url": "https://www.coppel.com/tenis-azules-marca-marvel-para-nino-pr-8139602",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8139602-1.jpg",
+				"alt": "Tenis Azules marca Marvel para Niño"
+			},
+            "texto": {
+				"titulo": "Tenis Azules marca Marvel para Niño",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$619",
+				"precioActual": "$496",
+				"precioSinFormato": "496"
+			}
+		},
+		{
+			"index": "9",
+			"sku": "pr-4029432",
+			"url": "https://www.coppel.com/pantalon-gris-marca-girls-attitude-para-nina-pr-4029432",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/4029432-1.jpg",
+				"alt": "Pantalón Gris marca Girls Attitude para Niña"
+			},
+            "texto": {
+				"titulo": "Pantalón Gris marca Girls Attitude para Niña",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$139",
+				"precioActual": "$98",
+				"precioSinFormato": "98"
+			}
+		},
+		{
+			"index": "10",
+			"sku": "pr-8167422",
+			"url": "https://www.coppel.com/tenis-puma-color-blanco-para-nina-pr-8167422",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8167422-1.jpg",
+				"alt": "Tenis Puma color Blanco para Niña"
+			},
+            "texto": {
+				"titulo": "Tenis Puma color Blanco para Niña",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,049",
+				"precioActual": "$630",
+				"precioSinFormato": "630"
+			}
+		}
+		
+	]
+}

@@ -1,0 +1,98 @@
+{
+    "titulo": "Categorías",
+	"items": [
+		{
+            "text": "Electrónica", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ELECTRONICA-HOTSALE" 
+        },
+        {
+            "text": "Deportivo", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-DEPORTIVO-HOTSALE" 
+        },
+        {
+            "text": "Celulares", 
+            "url": "https://www.coppel.com/equipos-celulares" 
+        },
+        {
+            "text": "Zapatos", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2020-EPMTPE-ZAPATOS-HOTSALE" 
+        },
+        {
+            "text": "Ropa", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ROPAHOMBREYMUJER-HOTSALE" 
+        },
+        {
+            "text": "Línea blanca", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-LINEABLANCA-HOTSALE" 
+        },
+        {
+            "text": "Cocinas", "url": "https://www.coppel.com/hogar/muebles-para-cocinas/" 
+        },
+        {
+            "text": "Llantas y acumuladores", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12761&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=18&searchTerm=RB2021-CORREO-LLANTASYACUM-HOTSALE" 
+        },
+        {
+            "text": "Juguetes", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-JUGUETESDESCUENTO-HOTSALE" 
+        },
+        {
+            "text": "Lencería", "url": "https://www.coppel.com/mujeres/lenceria-para-mujeres" 
+        },
+        {
+            "text": "Muebles para recámara", "url": "https://www.coppel.com/recamara" 
+        },
+        {
+            "text": "Electrodomésticos", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-ELECTRODOMESTICOS-HOTSALE" 
+        },
+        {
+            "text": "Equipaje y mochilas", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12761&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2022-BLQELD-EQUIPAJE-HOTSALE" 
+        },
+        {
+            "text": "Ropa y calzado infantil", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2018-EPMTPE-INFANTILDESCUENTO-HOTSALE" 
+        },
+        {
+            "text": "Relojería, joyería y óptica", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12753&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-BLQELD-ACCESORIOS-HOTSALE" 
+        },
+        {
+            "text": "Perfumes y cuidado personal", "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-CUIDADOPERSONAL-HOTSALE" 
+        },
+        {
+            "text": "Motos", "url": "https://www.coppel.com/automotriz/motos/motocicletas-motos" 
+        },
+
+        {
+            "text": "Consolas y Videojuegos", 
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2021-EPMTPE-CONSOLASYVIDEOJUEGOS-HOTSALE"
+        },
+        {
+            "text": "Laptops", 
+            "url": "https://www.coppel.com/electronica/computadoras/laptops"
+        },
+        {
+            "text": "Audio", 
+            "url": "https://www.coppel.com/electronica/audio-y-equipos-de-sonido"
+        },
+        {
+            "text": "Cámaras y Fotografía", 
+            "url": "https://www.coppel.com/electronica/camaras-y-fotografia"
+        },
+        {
+            "text": "Smartwatches", 
+            "url": "https://www.coppel.com/relojes-lentes-joyeria/relojes/smartwatches"
+        },
+        {
+            "text": "Salas", 
+            "url": "https://www.coppel.com/hogar/salas/ "
+        },
+        {
+            "text": "Comedores", 
+            "url": "https://www.coppel.com/hogar/comedores/  "
+        },
+        {
+            "text": "Patio y jardín", 
+            "url": "https://www.coppel.com/hogar/patio-y-jardin-hogar/   "
+        },
+        {
+            "text": "Colchones", 
+            "url": "https://www.coppel.com/colchones"
+        },
+        {
+            "text": "Oficina", 
+            "url": "https://www.coppel.com/hogar/oficinas"
+        }
+	]
+}

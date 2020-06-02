@@ -1,0 +1,186 @@
+{
+	"activo": true,
+	"titulo": "Renueva tu clóset",
+	"items": [
+		{
+            "index": "1",
+            "sku": "PR-334646",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=334646",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/3346462-1.jpg",
+                "alt": "Foto 1|Vestido Casual color Azul marca Jennifer Lopez para Mujer"
+            },
+            "texto": {
+                "titulo": "Vestido Casual color Azul marca Jennifer Lopez para Mujer",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$459",
+                "precioActual": "$322",
+                "precioSinFormato": "322"
+            }
+        },
+		{
+            "index": "2",
+            "sku": "PR-800780",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=800780",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/8007802-1.jpg",
+                "alt": "Foto 1|Tenis Fila D-Formation color Blanco para Mujer"
+            },
+            "texto": {
+                "titulo": "Tenis Fila D-Formation color Blanco para Mujer",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$1,399",
+                "precioActual": "$1,120",
+                "precioSinFormato": "1120"
+            }
+        },
+        {
+            "index": "3",
+            "sku": "PR-112381",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=112381",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/1123812-1.jpg",
+                "alt": "Foto 1|Playera tipo Polo Gris marca Wall Street para Hombre"
+            },
+            "texto": {
+                "titulo": "Playera tipo Polo Gris marca Wall Street para Hombre",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$219",
+                "precioActual": "$154",
+                "precioSinFormato": "154"
+            }
+        },
+        {
+            "index": "4",
+            "sku": "PR-813086",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=813086",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/8130862-1.jpg",
+                "alt": "Foto 1|Tenis Puma X-Ray color Azul/Blanco para Hombre"
+            },
+            "texto": {
+                "titulo": "Tenis Puma X-Ray color Azul/Blanco para Hombre",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$1,899",
+                "precioActual": "$1,140",
+                "precioSinFormato": "1140"
+            }
+        },
+        {
+            "index": "5",
+            "sku": "PR-333215",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=333215",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/3332152-1.jpg",
+                "alt": "Foto 1|Pantalón marca Levi´s 311 Shaping Skinny para Mujer"
+            },
+            "texto": {
+                "titulo": "Pantalón marca Levi´s 311 Shaping Skinny para Mujer",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$899",
+                "precioActual": "$450",
+                "precioSinFormato": "450"
+            }
+        },
+        {
+            "index": "6",
+            "sku": "PR-814609",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=814609",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/8146092-1.jpg",
+                "alt": "Foto 1|Tenis Rojos marca York Team Polo Club para Mujer"
+            },
+            "texto": {
+                "titulo": "Tenis Rojos marca York Team Polo Club para Mujer",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$399",
+                "precioActual": "$320",
+                "precioSinFormato": "320"
+            }
+        },
+        {
+            "index": "7",
+            "sku": "PR-114415",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=114415",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/1144152-1.jpg",
+                "alt": "Foto 1|Pantalón 511 Slim Fit Largo 32 marca Levi´s para Hombre"
+            },
+            "texto": {
+                "titulo": "Pantalón 511 Slim Fit Largo 32 marca Levi´s para Hombre",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$899",
+                "precioActual": "$450",
+                "precioSinFormato": "450"
+            }
+        },
+        {
+            "index": "8",
+            "sku": "PR-812697",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=812697",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/8126972-1.jpg",
+                "alt": "Foto 1|Botas de Trabajo marca CAT de Piel color Café para Hombre"
+            },
+            "texto": {
+                "titulo": "Botas de Trabajo marca CAT de Piel color Café para Hombre",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$2,799",
+                "precioActual": "$2,249",
+                "precioSinFormato": "2249"
+            }
+        },
+        {
+            "index": "9",
+            "sku": "PR-302438",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=302438",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/3024382-1.jpg",
+                "alt": "Foto 1|Body Bóxer color Negro marca Beauty Secret para Mujer"
+            },
+            "texto": {
+                "titulo": "Body Bóxer color Negro marca Beauty Secret para Mujer",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$459",
+                "precioActual": "$322",
+                "precioSinFormato": "322"
+            }
+        },
+        {
+            "index": "10",
+            "sku": "PR-115336",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=115336",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/1153362-1.jpg",
+                "alt": "Foto 1|Set de 3 Bóxers Cortos Zaga para Hombre"
+            },
+            "texto": {
+                "titulo": "Set de 3 Bóxers Cortos Zaga para Hombre",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$169",
+                "precioActual": "$119",
+                "precioSinFormato": "119"
+            }
+        }		
+	]
+}

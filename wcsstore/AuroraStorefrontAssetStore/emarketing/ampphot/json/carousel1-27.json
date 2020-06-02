@@ -1,0 +1,187 @@
+{
+	"activo": true,
+	"titulo": "¡Todo para tu hogar!",
+	"items": [
+		{
+			"index": "1",
+			"sku": "pm-3112013",
+			"url": "https://www.coppel.com/juego-de-colchon-y-box-king-size-goldream-imperial-plus-pm-3112013",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3112013-1.jpg",
+				"alt": "Juego de Colchón y Box King Size Goldream Imperial Plus"
+			},
+            "texto": {
+				"titulo": "Juego de Colchón y Box King Size Goldream Imperial Plus",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$11,499",
+				"precioActual": "$7,999",
+				"precioSinFormato": "7999"
+			}
+		},
+		{
+			"index": "2",
+			"sku": "pm-3402783",
+			"url": "https://www.coppel.com/comedor-valentino-ii-color-negro-con-6-sillas-estilo-contemporaneo-pm-3402783",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3402783-1.jpg",
+				"alt": "Comedor Valentino II color Negro con 6 Sillas estilo contemporáneo"
+			},
+            "texto": {
+				"titulo": "Comedor Valentino II color Negro con 6 Sillas estilo contemporáneo",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$10,099",
+				"precioActual": "$7,999",
+				"precioSinFormato": "7999"
+			}
+		},
+		{
+			"index": "3",
+			"sku": "pm-4060153",
+			"url": "https://www.coppel.com/sala-esquinera-antara-contemporanea-5-piezas-pm-4060153",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/4060153-1.jpg",
+				"alt": "Sala Esquinera Antara Contemporánea 5 Piezas"
+			},
+            "texto": {
+				"titulo": "Sala Esquinera Antara Contemporánea 5 Piezas",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$8,999",
+				"precioActual": "$7,599",
+				"precioSinFormato": "7599"
+			}
+		},
+		{
+			"index": "4",
+			"sku": "pm-6376023",
+			"url": "https://www.coppel.com/refrigerador-hisense-top-mount-rt11n6wkx-11-pies-color-gris-pm-6376023",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/6376023-1.jpg",
+				"alt": "Refrigerador Hisense Top Mount RT11N6WKX 11 Pies color Gris"
+			},
+            "texto": {
+				"titulo": "Refrigerador Hisense Top Mount RT11N6WKX 11 Pies color Gris",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$10,399",
+				"precioActual": "$8,199",
+				"precioSinFormato": "8199"
+			}
+		},
+		{
+			"index": "5",
+			"sku": "pm-2630253",
+			"url": "https://www.coppel.com/atandt-samsung-note-10-lite-128-gb-rojo-pm-2630253",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/2630253-1.jpg",
+				"alt": "AT&T Samsung Note 10 Lite 128 GB Rojo"
+			},
+            "texto": {
+				"titulo": "AT&T Samsung Note 10 Lite 128 GB Rojo",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$13,999",
+				"precioActual": "$10,299",
+				"precioSinFormato": "10299"
+			}
+		},
+		{
+			"index": "6",
+			"sku": "pm-6338873",
+			"url": "https://www.coppel.com/minisplit-midea-midea-frio-mas12c2asc-1-t-pm-6338873",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/6338873-1.jpg",
+				"alt": "Minisplit Midea Midea Frío MAS12C2ASC 1 T"
+			},
+            "texto": {
+				"titulo": "Minisplit Midea Midea Frío MAS12C2ASC 1 T",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$6,499",
+				"precioActual": "$4,599",
+				"precioSinFormato": "4599"
+			}
+		},
+		{
+			"index": "7",
+			"sku": "pm-3469423",
+			"url": "https://www.coppel.com/escritorio-esquinero-arlette-negro-pm-3469423",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3469423-1.jpg",
+				"alt": "Escritorio Esquinero Arlette Negro"
+			},
+            "texto": {
+				"titulo": "Escritorio Esquinero Arlette Negro",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,499",
+				"precioActual": "$1,199",
+				"precioSinFormato": "1199"
+			}
+		},
+		{
+			"index": "8",
+			"sku": "pm-1488733",
+			"url": "https://www.coppel.com/bateria-de-cocina-jade-cook-con-4-piezas-pm-1488733",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/1488733-1.jpg",
+				"alt": "Batería de Cocina Jade Cook con 4 Piezas"
+			},
+            "texto": {
+				"titulo": "Batería de Cocina Jade Cook con 4 Piezas",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3,999",
+				"precioActual": "$3,399",
+				"precioSinFormato": "3399"
+			}
+		},
+		{
+			"index": "9",
+			"sku": "pm-3494453",
+			"url": "https://www.coppel.com/colchon-matrimonial-wendy-toledo-pm-3494453",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/3494453-1.jpg",
+				"alt": "Colchón Matrimonial Wendy Toledo"
+			},
+            "texto": {
+				"titulo": "Colchón Matrimonial Wendy Toledo",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3,199",
+				"precioActual": "$2,199",
+				"precioSinFormato": "2199"
+			}
+        },
+        {
+			"index": "10",
+			"sku": "pm-5445233",
+			"url": "https://www.coppel.com/atandt-huawei-p30-lite-128-gb-azul-pm-2231553",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/2231553-1.jpg",
+				"alt": "AT&T Huawei P30 Lite 128 GB Azul"
+			},
+            "texto": {
+				"titulo": "AT&T Huawei P30 Lite 128 GB Azul",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$6,599",
+				"precioActual": "$5,299",
+				"precioSinFormato": "5299"
+			}
+		}
+	
+	]
+}

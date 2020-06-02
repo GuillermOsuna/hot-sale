@@ -1,0 +1,186 @@
+{
+	"activo": true,
+	"titulo": "¡Todo para tu hogar!",
+	"items": [
+		{
+            "index": "1",
+            "sku": "PR-623271",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=623271",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/6232713-1.jpg",
+                "alt": "Foto 1|Refrigerador Inverter Samsung Top Mount RT38K5930S8 de 14 Pies"
+            },
+            "texto": {
+                "titulo": "Refrigerador Inverter Samsung Top Mount RT38K5930S8 de 14 Pies",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$13,599",
+                "precioActual": "$10,599",
+                "precioSinFormato": "10599"
+            }
+        },
+		{
+            "index": "2",
+            "sku": "PR-351636",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=351636",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/3516363-1.jpg",
+                "alt": "Foto 1|Colchón Matrimonial Sealy Raissa"
+            },
+            "texto": {
+                "titulo": "Colchón Matrimonial Sealy Raissa",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$5,599",
+                "precioActual": "$3,899",
+                "precioSinFormato": "3899"
+            }
+        },
+        {
+            "index": "3",
+            "sku": "PR-423434",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=423434",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/4234343-1.jpg",
+                "alt": "Foto 1|Loveseat Dovve Contemporáneo 1 Pieza"
+            },
+            "texto": {
+                "titulo": "Loveseat Dovve Contemporáneo 1 Pieza",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$4,699",
+                "precioActual": "$3,199",
+                "precioSinFormato": "3199"
+            }
+        },
+		{
+            "index": "4",
+            "sku": "PR-347991",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=347991",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/3479913-1.jpg",
+                "alt": "Foto 1|Comedor Oxford color Café con 4 Sillas y 1 Banco estilo Contemporáneo"
+            },
+            "texto": {
+                "titulo": "Comedor Oxford color Café con 4 Sillas y 1 Banco estilo Contemporáneo",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$10,699",
+                "precioActual": "$9,999",
+                "precioSinFormato": "9999"
+            }
+        },
+        {
+            "index": "5",
+            "sku": "PR-221764",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=221764",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/2217643-1.jpg",
+                "alt": "Foto 1|Pantalla LED Samsung 58&#034; Ultra HD 4K Smart TV UN58RU7100FXZX"
+            },
+            "texto": {
+                "titulo": "Pantalla LED Samsung 58\" Ultra HD 4K Smart TV UN58RU7100FXZX",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$21,999",
+                "precioActual": "$15,999",
+                "precioSinFormato": "15999"
+            }
+        },
+        {
+            "index": "6",
+            "sku": "PR-236778",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=236778",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/2367783-1.jpg",
+                "alt": "Foto 1|Virgin Samsung Galaxy A30S 64 GB Morado"
+            },
+            "texto": {
+                "titulo": "Virgin Samsung Galaxy A30S 64 GB Morado",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$6,799",
+                "precioActual": "$5,799",
+                "precioSinFormato": "5799"
+            }
+        },
+        {
+            "index": "7",
+            "sku": "PR-631116",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=631116",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/6311163-1.jpg",
+                "alt": "Foto 1|Lavadora Samsung WA19R7G4UWW/AX 19 kg"
+            },
+            "texto": {
+                "titulo": "Lavadora Samsung WA19R7G4UWW/AX 19 kg",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$11,999",
+                "precioActual": "$7,999",
+                "precioSinFormato": "7999"
+            }
+        },
+        {
+            "index": "8",
+            "sku": "PR-545546",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=545546",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/5455463-1.jpg",
+                "alt": "Foto 1|Bicicleta Mercurio ZTX DH 26&#034;"
+            },
+            "texto": {
+                "titulo": "Bicicleta Mercurio ZTX DH 26\"",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$3,299",
+                "precioActual": "$2,639",
+                "precioSinFormato": "2639"
+            }
+        },
+        {
+            "index": "9",
+            "sku": "PR-232128",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=232128",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/2321283-1.jpg",
+                "alt": "Foto 1|Notebook HP 14-AX101LA 14&#034; Intel Celeron 4 GB RAM 64 GB Gris"
+            },
+            "texto": {
+                "titulo": "Notebook HP 14-AX101LA 14\" Intel Celeron 4 GB RAM 64 GB Gris",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$6,099",
+                "precioActual": "$5,799",
+                "precioSinFormato": "5799"
+            }
+        },
+        {
+            "index": "10",
+            "sku": "PR-566039",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=566039",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/5660393-1.jpg",
+                "alt": "Foto 1|Motocicleta Vento Atom 150 cc"
+            },
+            "texto": {
+                "titulo": "Motocicleta Vento Atom 150 cc",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$23,499",
+                "precioActual": "$21,499",
+                "precioSinFormato": "21499"
+            }
+        }
+	]
+}

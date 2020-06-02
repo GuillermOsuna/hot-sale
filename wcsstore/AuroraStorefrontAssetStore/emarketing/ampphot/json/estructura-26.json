@@ -1082,10 +1082,10 @@
         },
         {
             "index": "11",
-            "url": "https://www.coppel.com/SearchDisplay?searchTermScope=&searchType=1002&filterTerm=&maxPrice=&top_category=&showResultsPage=true&langId=-5&beginIndex=0&advancedSearch=&sType=SimpleSearch&metaData=&pageSize=12&manufacturer=&resultCatEntryType=2&catalogId=10001&pageView=grid&searchTerm=RB2020-EPMTPE-ZAPATOINFANTIL-HOTSALE&minPrice=&urlLangId=-4&categoryId=38001&storeId=12761",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12761&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=18&searchTerm=RB2021-CORREO-LLANTASYACUM-HOTSALE",
             "image": {
-                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-11-c.jpg",
-                "alt": "Composición de zapatos infantiles: una sandalia para niña en color tornasol, con ajuste de hebilla en el tobillo, y un teni para niño en color azul, con detalles en color blanco, la imagen de Woody y Buzz Lightyear de Toy Story en un costado y ajuste con dos tiras de velcro. Pulsa aquí para ver más calzado infantil.",
+                "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/desktop/hotsale2020-comercial-desktop-11-d.jpg",
+                "alt": "Composición de una llanta para auto marca Tornel color negro y un acumulador marca Gonher. Pulsa aquí para ver más.",
                 "style": {
                     "height": "288px",
                     "width": "33.3333%",
@@ -1093,8 +1093,8 @@
                     "position": "0 0"
                 },
                 "sm": {
-                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_11-c.jpg",
-                    "alt": "Composición de zapatos infantiles: una sandalia para niña en color tornasol, con ajuste de hebilla en el tobillo, y un teni para niño en color azul, con detalles en color blanco, la imagen de Woody y Buzz Lightyear de Toy Story en un costado y ajuste con dos tiras de velcro. Pulsa aquí para ver más calzado infantil.",
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_11-d.jpg",
+                    "alt": "Composición de una llanta para auto marca Tornel color negro y un acumulador marca Gonher. Pulsa aquí para ver más.",
                     "style": {
                         "height": "360px",
                         "width": "50%",
@@ -1103,8 +1103,8 @@
                     }
                 },
                 "xs": {
-                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_11-c.jpg",
-                    "alt": "Composición de zapatos infantiles: una sandalia para niña en color tornasol, con ajuste de hebilla en el tobillo, y un teni para niño en color azul, con detalles en color blanco, la imagen de Woody y Buzz Lightyear de Toy Story en un costado y ajuste con dos tiras de velcro. Pulsa aquí para ver más calzado infantil.",
+                    "url": "https://cdn2.coppel.com/wcsstore/AuroraStorefrontAssetStore/emarketing/hot-sale-amp/mobile/landingcomercial-hotsale2020-mobile_11-d.jpg",
+                    "alt": "Composición de una llanta para auto marca Tornel color negro y un acumulador marca Gonher. Pulsa aquí para ver más.",
                     "style": {
                         "height": "170px",
                         "width": "50%",
@@ -1116,7 +1116,7 @@
             "text": {
                 "position": "top-right",
                 "price": {
-                    "label": "40%",
+                    "label": "25%",
                     "style": {
                         "color": "red",
                         "fontSize": "40px",
@@ -1172,7 +1172,7 @@
                 }
             },
             "mainText": {
-                "text": "Calzado infantil",
+                "text": "Llantas y acumuladores",
                 "style": {
                     "textAlign": "center"
                 },
@@ -1820,7 +1820,7 @@
                 }
             },
             "mainText": {
-                "text": "Ropa para niños",
+                "text": "Ropa y calzado infantil",
                 "style": {
                     "textAlign": "center"
                 },

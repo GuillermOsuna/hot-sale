@@ -1,0 +1,186 @@
+{
+	"activo": true,
+	"titulo": "¿Qué vas a estrenar hoy?",
+	"items": [
+		{
+			"index": "1",
+			"sku": "pr-3169312",
+			"url": "https://www.coppel.com/bolsa-de-mano-color-camel-marca-refill-para-mujer-pr-3169312",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3169312-1.jpg",
+				"alt": "Bolsa de Mano color Camel marca Refill para Mujer"
+			},
+            "texto": {
+				"titulo": "Bolsa de Mano color Camel marca Refill para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$359",
+				"precioActual": "$252",
+				"precioSinFormato": "252"
+			}
+		},
+		{
+            "index": "2",
+            "sku": "PR-509722",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=509722",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/5097222-1.jpg",
+                "alt": "Foto 1|Conjunto marca Grafito Baby para Bebé Niño"
+            },
+            "texto": {
+                "titulo": "Conjunto marca Grafito Baby para Bebé Niño",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$259",
+                "precioActual": "$182",
+                "precioSinFormato": "182"
+            }
+        },
+        {
+            "index": "3",
+            "sku": "PR-532011",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=532011",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/5320113-1.jpg",
+                "alt": "Foto 1|Cuna Viajera Baby Colors Happy Forest"
+            },
+            "texto": {
+                "titulo": "Cuna Viajera Baby Colors Happy Forest",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$2,399",
+                "precioActual": "$1,999",
+                "precioSinFormato": "1999"
+            }
+        },
+        {
+            "index": "4",
+            "sku": "PR-502578",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=502578",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/5025782-1.jpg",
+                "alt": "Foto 1|Conjunto marca Baby Colors para Bebé Niña"
+            },
+            "texto": {
+                "titulo": "Conjunto marca Baby Colors para Bebé Niña",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$199",
+                "precioActual": "$140",
+                "precioSinFormato": "140"
+            }
+		},
+		{
+			"index": "5",
+			"sku": "pm-7248583",
+			"url": "https://www.coppel.com/reloj-casio-g-shock-gas-100b-negro-pm-7248583",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/7248583-1.jpg",
+				"alt": "Reloj Casio G-Shock GAS-100B Negro"
+			},
+            "texto": {
+				"titulo": "Reloj Casio G-Shock GAS-100B Negro",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3,699",
+				"precioActual": "$2,329",
+				"precioSinFormato": "2329"
+			}
+		},
+        {
+            "index": "6",
+            "sku": "PR-716088",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=716088",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/7160882-1.jpg",
+                "alt": "Foto 1|Vagón de Aprendizaje de Perrito Fisher Price"
+            },
+            "texto": {
+                "titulo": "Vagón de Aprendizaje de Perrito Fisher Price",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$1,379",
+                "precioActual": "$829",
+                "precioSinFormato": "829"
+            }
+        },
+        {
+            "index": "7",
+            "sku": "PR-549061",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=549061",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/5490613-1.jpg",
+                "alt": "Foto 1|AB Tomic de Inova"
+            },
+            "texto": {
+                "titulo": "AB Tomic de Inova",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$2,399",
+                "precioActual": "$1,999",
+                "precioSinFormato": "1999"
+            }
+        },
+        {
+            "index": "8",
+            "sku": "PR-306806",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=306806",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/3068062-1.jpg",
+                "alt": "Foto 1|Bolsa de Mano Jennifer Lopez Nude"
+            },
+            "texto": {
+                "titulo": "Bolsa de Mano Jennifer Lopez Nude",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$499",
+                "precioActual": "$350",
+                "precioSinFormato": "350"
+            }
+		},
+		{
+            "index": "9",
+            "sku": "PR-921955",
+            "url": "https://www.coppel.com/lentes-de-sol-carrera-1014-s-negros-pm-9219553",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pm/9219553-1.jpg",
+                "alt": "Lentes de Sol Carrera 1014/S Negros"
+            },
+            "texto": {
+                "titulo": "Lentes de Sol Carrera 1014/S Negros",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$2,899",
+                "precioActual": "$2,459",
+                "precioSinFormato": "2459"
+            }
+		},
+        {
+            "index": "10",
+            "sku": "PR-705031",
+            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=705031",
+            "image": {
+                "url": "https://cdn1.coppel.com/images/catalog/pr/7050312-1.jpg",
+                "alt": "Foto 1|Set de Cremas Anti-arrugas Cicatricure"
+            },
+            "texto": {
+                "titulo": "Set de Cremas Anti-arrugas Cicatricure",
+                "copyContado": "Precio contado"
+            },
+            "precio": {
+                "precioAnterior": "$399",
+                "precioActual": "$280",
+                "precioSinFormato": "280"
+            }
+        }
+	]
+}
