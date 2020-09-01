@@ -29,6 +29,13 @@ async function get() {
                 console.log('url: ', url)
                 await page.goto(url, { waitUntil: 'load' })
                 console.log('obteniendo datos.')
+
+                const elementSku = await page.$("#partNmb")
+                const propiedadSku = await (await elementSku.getProperty('value')).jsonValue()
+
+
+
+
                 const element = await page.$("div.top.namePartPriceContainer.clearfix > div > h1")
                 let titulo = await page.evaluate(element => element.textContent, element)
 
@@ -47,7 +54,7 @@ async function get() {
                         .map(element => element.getAttribute('alt'))
                 )
                 let item = {
-                    sku: 'PR-',
+                    sku: '',
                     url: '',
                     posicion: '',
                     image: {
@@ -68,7 +75,7 @@ async function get() {
 
                 item.posicion = i + 1 + ''
                 item.url = url
-                item.sku = item.sku + items[i]
+                item.sku = propiedadSku
                 item.texto.titulo = titulo.trim()
                 item.image.url = imgSrc[0].trim()
                 item.image.alt = imgAlt[0].trim()
