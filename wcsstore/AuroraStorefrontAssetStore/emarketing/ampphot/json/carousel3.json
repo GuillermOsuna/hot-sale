@@ -1,186 +1,195 @@
 {
 	"activo": true,
-	"titulo": "Renueva tu clóset",
-	"items": [
+	"titulo": "Regalos para papá",
+	"items": [{
+			"sku": "PR-1206352",
+			"url": "/chamarra-color-negro-marca-levis-para-hombre-pr-1206352",
+			"posicion": "1",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/1206352-1.jpg",
+				"alt": "Chamarra color Negro marca Levi´s para Hombre"
+			},
+			"texto": {
+				"titulo": "Chamarra color Negro marca Levi´s para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,999",
+				"precioActual": "$1,200",
+				"precioAnteriorSinSigno": "1999",
+				"precioActualSinSigno": "1200"
+			}
+		},
 		{
-            "index": "1",
-            "sku": "PR-334648",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=334648",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/3346482-1.jpg",
-                "alt": "Foto 1|Vestido Casual color Coral marca 18 Forever para Mujer"
-            },
-            "texto": {
-                "titulo": "Vestido Casual color Coral marca 18 Forever para Mujer",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$329",
-                "precioActual": "$231",
-                "precioSinFormato": "231"
-            }
-        },
-        {
-            "index": "2",
-            "sku": "PR-813218",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=813218",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/8132182-1.jpg",
-                "alt": "Foto 1|Tenis Vans Ward color Rosa para Mujer"
-            },
-            "texto": {
-                "titulo": "Tenis Vans Ward color Rosa para Mujer",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$1,099",
-                "precioActual": "$770",
-                "precioSinFormato": "770"
-            }
-        },
-        {
-            "index": "3",
-            "sku": "PR-184057",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=184057",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/1840572-1.jpg",
-                "alt": "Foto 1|Playera Cuello Redondo Gris marca Boy London para Hombre"
-            },
-            "texto": {
-                "titulo": "Playera Cuello Redondo Gris marca Boy London para Hombre",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$219",
-                "precioActual": "$132",
-                "precioSinFormato": "132"
-            }
-        },
-        {
-            "index": "4",
-            "sku": "PR-812992",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=812992",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/8129922-1.jpg",
-                "alt": "Foto 1|Tenis Puma Anzarun Lite Bold color Negro para Hombre"
-            },
-            "texto": {
-                "titulo": "Tenis Puma Anzarun Lite Bold color Negro para Hombre",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$1,399",
-                "precioActual": "$840",
-                "precioSinFormato": "840"
-            }
-        },
-        {
-            "index": "5",
-            "sku": "PR-334094",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=334094",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/3340942-1.jpg",
-                "alt": "Foto 1|Set de 2 Brasieres marca Beauty Secret para Mujer"
-            },
-            "texto": {
-                "titulo": "Set de 2 Brasieres marca Beauty Secret para Mujer",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$219",
-                "precioActual": "$154",
-                "precioSinFormato": "154"
-            }
-        },
-        {
-            "index": "6",
-            "sku": "PR-814615",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=814615",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/8146152-1.jpg",
-                "alt": "Foto 1|Tenis Blancos marca Frida Collection para Mujer"
-            },
-            "texto": {
-                "titulo": "Tenis Blancos marca Frida Collection para Mujer",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$429",
-                "precioActual": "$344",
-                "precioSinFormato": "344"
-            }
-        },
-        {
-            "index": "7",
-            "sku": "PR-114723",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=114723",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/1147232-1.jpg",
-                "alt": "Foto 1|Pantalón Skinny Fit marca Oggi para Hombre"
-            },
-            "texto": {
-                "titulo": "Pantalón Skinny Fit marca Oggi para Hombre",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$479",
-                "precioActual": "$336",
-                "precioSinFormato": "336"
-            }
-        },
-        {
-            "index": "8",
-            "sku": "PR-810833",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=810833",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/8108332-1.jpg",
-                "alt": "Foto 1|Tenis Negros marca Refill para Hombre"
-            },
-            "texto": {
-                "titulo": "Tenis Negros marca Refill para Hombre",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$379",
-                "precioActual": "$304",
-                "precioSinFormato": "304"
-            }
-        },
-        {
-            "index": "9",
-            "sku": "PR-816742",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=816742",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/8167422-1.jpg",
-                "alt": "Foto 1|Tenis Puma color Blanco para Niña"
-            },
-            "texto": {
-                "titulo": "Tenis Puma color Blanco para Niña",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$1,049",
-                "precioActual": "$630",
-                "precioSinFormato": "630"
-            }
-        },
-        {
-            "index": "10",
-            "sku": "PR-813962",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=813962",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/8139622-1.jpg",
-                "alt": "Foto 1|Tenis Cafés marca Marvel Avengers para Niño"
-            },
-            "texto": {
-                "titulo": "Tenis Cafés marca Marvel Avengers para Niño",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$579",
-                "precioActual": "$464",
-                "precioSinFormato": "464"
-            }
-        }
+			"sku": "PM-7329233",
+			"url": "/reloj-cat-ob14721141mn-negro-pm-7329233",
+			"posicion": "2",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/7329233-1.jpg",
+				"alt": "Reloj CAT OB14721141MN Negro"
+			},
+			"texto": {
+				"titulo": "Reloj CAT OB14721141MN Negro",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$2,299",
+				"precioActual": "$1,839",
+				"precioAnteriorSinSigno": "2299",
+				"precioActualSinSigno": "1839"
+			}
+		},
+		{
+			"sku": "PR-8108512",
+			"url": "/zapatos-casuales-marca-york-team-polo-club-color-cafe-para-hombre-pr-8108512",
+			"posicion": "3",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8108512-1.jpg",
+				"alt": "Zapatos Casuales marca York Team Polo Club color Café para Hombre"
+			},
+			"texto": {
+				"titulo": "Zapatos Casuales marca York Team Polo Club color Café para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$599",
+				"precioActual": "$480",
+				"precioAnteriorSinSigno": "599",
+				"precioActualSinSigno": "480"
+			}
+		},
+		{
+			"sku": "PM-9217773",
+			"url": "/lentes-de-sol-carrera-aviador-color-negro-pm-9217773",
+			"posicion": "4",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/9217773-1.jpg",
+				"alt": "Lentes de Sol Carrera 171/S Negros"
+			},
+			"texto": {
+				"titulo": "Lentes de Sol Carrera 171/S Negros",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3,399",
+				"precioActual": "$2,819",
+				"precioAnteriorSinSigno": "3399",
+				"precioActualSinSigno": "2819"
+			}
+		},
+		{
+			"sku": "PR-8176582",
+			"url": "/tenis-nike-air-max-axis-color-negro-para-hombre-pr-8176582",
+			"posicion": "5",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8176582-1.jpg",
+				"alt": "Tenis Nike Air Max Axis color Negro para Hombre"
+			},
+			"texto": {
+				"titulo": "Tenis Nike Air Max Axis color Negro para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,899",
+				"precioActual": "$1,499",
+				"precioAnteriorSinSigno": "1899",
+				"precioActualSinSigno": "1499"
+			}
+		},
+		{
+			"sku": "PM-7315283",
+			"url": "/reloj-citizen-61347-dorado-plateado-pm-7315283",
+			"posicion": "6",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/7315283-1.jpg",
+				"alt": "Reloj Citizen 61347 Dorado/Plateado"
+			},
+			"texto": {
+				"titulo": "Reloj Citizen 61347 Dorado/Plateado",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3,829",
+				"precioActual": "$2,269",
+				"precioAnteriorSinSigno": "3829",
+				"precioActualSinSigno": "2269"
+			}
+		},
+		{
+			"sku": "PR-1204892",
+			"url": "/pantalon-513-slim-straight-fit-largo-32-levis-para-hombre-pr-1204892",
+			"posicion": "7",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/1204892-1.jpg",
+				"alt": "Pantalón 513 Slim Straight Fit Largo 32 Levi's para Hombre"
+			},
+			"texto": {
+				"titulo": "Pantalón 513 Slim Straight Fit Largo 32 Levi's para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,299",
+				"precioActual": "$780",
+				"precioAnteriorSinSigno": "1299",
+				"precioActualSinSigno": "780"
+			}
+		},
+		{
+			"sku": "PM-9222853",
+			"url": "/lentes-de-sol-armani-exchange-aviador-color-verde-pm-9222853",
+			"posicion": "8",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/9222853-1.jpg",
+				"alt": "Lentes de Sol Armani Exchange Aviador color Verde"
+			},
+			"texto": {
+				"titulo": "Lentes de Sol Armani Exchange Aviador color Verde",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$2,599",
+				"precioActual": "$1,789",
+				"precioAnteriorSinSigno": "2599",
+				"precioActualSinSigno": "1789"
+			}
+		},
+		{
+			"sku": "PR-1197582",
+			"url": "/conjunto-deportivo-adidas-3-franjas-color-azul-para-hombre-pr-1197582",
+			"posicion": "9",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/1197582-1.jpg",
+				"alt": "Conjunto Deportivo Adidas 3 Franjas color Azul para Hombre"
+			},
+			"texto": {
+				"titulo": "Conjunto Deportivo Adidas 3 Franjas color Azul para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,599",
+				"precioActual": "$960",
+				"precioAnteriorSinSigno": "1599",
+				"precioActualSinSigno": "960"
+			}
+		},
+		{
+			"sku": "PM-7310723",
+			"url": "/reloj-bulova-96a221-plateado-pm-7310723",
+			"posicion": "10",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/7310723-1.jpg",
+				"alt": "Reloj Bulova 96A221 Plateado"
+			},
+			"texto": {
+				"titulo": "Reloj Bulova 96A221 Plateado",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$2,099",
+				"precioActual": "$1,469",
+				"precioAnteriorSinSigno": "2099",
+				"precioActualSinSigno": "1469"
+			}
+		}
 	]
 }

@@ -1,186 +1,196 @@
 {
 	"activo": true,
-	"titulo": "¡Todo para tu hogar!",
-	"items": [
-        {
-            "index": "1",
-            "sku": "PM-406015",
-            "url": "https://www.coppel.com/sala-esquinera-antara-contemporanea-5-piezas-pm-4060153",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/4060153-1.jpg",
-                "alt": "Sala Esquinera Antara Contemporánea 5 Piezas"
-            },
-            "texto": {
-                "titulo": "Sala Esquinera Antara Contemporánea 5 Piezas",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$8,999",
-                "precioActual": "$7,599",
-                "precioSinFormato": "7599"
-            }
-        },
-        {
-            "index": "2",
-            "sku": "PM-309869",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=309869",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/3098693-1.jpg",
-                "alt": "Foto 1|Cocina Genova 240 cm con 8 Puertas"
-            },
-            "texto": {
-                "titulo": "Cocina Genova 240 cm con 8 Puertas",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$8,899",
-                "precioActual": "$8,299",
-                "precioSinFormato": "8299"
-            }
-        },
-        {
-            "index": "3",
-            "sku": "PM-354104",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=354104",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/3541043-1.jpg",
-                "alt": "Foto 1|Comedor Irlanda con Seis Sillas Cafés estilo Contemporáneo"
-            },
-            "texto": {
-                "titulo": "Comedor Irlanda con Seis Sillas Cafés estilo Contemporáneo",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$5,999",
-                "precioActual": "$4,999",
-                "precioSinFormato": "4999"
-            }
-        },
-        {
-            "index": "4",
-            "sku": "PM-429327",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=429327",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/4293273-1.jpg",
-                "alt": "Foto 1|Sala Esquinera Cloe Contemporáneo 1 Pieza"
-            },
-            "texto": {
-                "titulo": "Sala Esquinera Cloe Contemporáneo 1 Pieza",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$5,999",
-                "precioActual": "$4,799",
-                "precioSinFormato": "4799"
-            }
-        },
-        {
-            "index": "5",
-            "sku": "PM-341274",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=341274",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/3412743-1.jpg",
-                "alt": "Foto 1|Cocina Integral Toscana 240 cm Clásico"
-            },
-            "texto": {
-                "titulo": "Cocina Integral Toscana 240 cm Clásico",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$10,499",
-                "precioActual": "$8,899",
-                "precioSinFormato": "8899"
-            }
-        },
-        {
-            "index": "6",
-            "sku": "PM-340278",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=340278",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/3402783-1.jpg",
-                "alt": "Foto 1|Comedor Valentino II color Negro con 6 Sillas estilo contemporáneo"
-            },
-            "texto": {
-                "titulo": "Comedor Valentino II color Negro con 6 Sillas estilo contemporáneo",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$10,099",
-                "precioActual": "$7,999",
-                "precioSinFormato": "7999"
-            }
-        },
-        {
-            "index": "7",
-            "sku": "PM-423434",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=423434",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/4234343-1.jpg",
-                "alt": "Foto 1|Loveseat Dovve Contemporáneo 1 Pieza"
-            },
-            "texto": {
-                "titulo": "Loveseat Dovve Contemporáneo 1 Pieza",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$4,699",
-                "precioActual": "$3,199",
-                "precioSinFormato": "3199"
-            }
-        },
-        {
-            "index": "8",
-            "sku": "PM-341274",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=341274",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/3412743-1.jpg",
-                "alt": "Foto 1|Cocina Integral Toscana 240 cm Clásico"
-            },
-            "texto": {
-                "titulo": "Cocina Integral Toscana 240 cm Clásico",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$10,499",
-                "precioActual": "$8,899",
-                "precioSinFormato": "8899"
-            }
-        },
-        {
-            "index": "9",
-            "sku": "PM-347991",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=347991",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/3479913-1.jpg",
-                "alt": "Foto 1|Comedor Oxford color Café con 4 Sillas y 1 Banco estilo Contemporáneo"
-            },
-            "texto": {
-                "titulo": "Comedor Oxford color Café con 4 Sillas y 1 Banco estilo Contemporáneo",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$10,699",
-                "precioActual": "$9,999",
-                "precioSinFormato": "9999"
-            }
-        },
-        {
-            "index": "10",
-            "sku": "PM-417329",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=417329",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/4173293-1.jpg",
-                "alt": "Foto 1|Sofá Cama Albi Gris en Tela Oakley"
-            },
-            "texto": {
-                "titulo": "Sofá Cama Albi Gris en Tela Oakley",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$5,599",
-                "precioActual": "$5,099",
-                "precioSinFormato": "5099"
-            }
-        }
+	"titulo": "Calzado Deportivo",
+	"items": [{
+			"sku": "PR-8190072",
+			"url": "/tenis-nike-amixa-color-negro-para-mujer-pr-8190072",
+			"posicion": "1",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8190072-1.jpg",
+				"alt": "Tenis Nike Amixa color Negro para Mujer"
+			},
+			"texto": {
+				"titulo": "Tenis Nike Amixa color Negro para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,599",
+				"precioActual": "$1,299",
+				"precioAnteriorSinSigno": "1599",
+				"precioActualSinSigno": "1299"
+			}
+		},
+		{
+			"sku": "PR-8190122",
+			"url": "/tenis-nike-retaliation-trainer-2-color-negro-para-hombre-pr-8190122",
+			"posicion": "2",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8190122-1.jpg",
+				"alt": "Tenis Nike Retaliation Trainer 2 color Negro para Hombre"
+			},
+			"texto": {
+				"titulo": "Tenis Nike Retaliation Trainer 2 color Negro para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,649",
+				"precioActual": "$1,399",
+				"precioAnteriorSinSigno": "1649",
+				"precioActualSinSigno": "1399"
+
+			}
+		},
+		{
+			"sku": "PR-8177082",
+			"url": "/tenis-nike-downshifter-9-color-gris-para-nina-pr-8177082",
+			"posicion": "3",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8177082-1.jpg",
+				"alt": "Tenis Nike Downshifter 9 color Gris para Niña"
+			},
+			"texto": {
+				"titulo": "Tenis Nike Downshifter 9 color Gris para Niña",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,099",
+				"precioActual": "$699",
+				"precioAnteriorSinSigno": "1099",
+				"precioActualSinSigno": "699"
+			}
+		},
+		{
+			"sku": "PR-8145022",
+			"url": "/tenis-adidas-khoe-adapt-x-color-negro-para-mujer-pr-8145022",
+			"posicion": "4",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8145022-1.jpg",
+				"alt": "Tenis Adidas Khoe Adapt X color Negro para Mujer"
+			},
+			"texto": {
+				"titulo": "Tenis Adidas Khoe Adapt X color Negro para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,299",
+				"precioActual": "$780",
+				"precioAnteriorSinSigno": "1299",
+				"precioActualSinSigno": "780"
+			}
+		},
+		{
+			"sku": "PR-8129792",
+			"url": "/tenis-adidas-crazychaos-color-negro-para-hombre-pr-8129792",
+			"posicion": "5",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8129792-1.jpg",
+				"alt": "Tenis Adidas Crazychaos color Negro para Hombre"
+			},
+			"texto": {
+				"titulo": "Tenis Adidas Crazychaos color Negro para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,799",
+				"precioActual": "$1,080",
+				"precioAnteriorSinSigno": "1799",
+				"precioActualSinSigno": "1080"
+			}
+		},
+		{
+			"sku": "PR-8178742",
+			"url": "/tenis-adidas-color-blanco-para-nino-pr-8178742",
+			"posicion": "6",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8178742-1.jpg",
+				"alt": "Tenis Adidas color Blanco para Niño"
+			},
+			"texto": {
+				"titulo": "Tenis Adidas color Blanco para Niño",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$799",
+				"precioActual": "$480",
+				"precioAnteriorSinSigno": "799",
+				"precioActualSinSigno": "480"
+			}
+		},
+		{
+			"sku": "PR-8129922",
+			"url": "/tenis-puma-anzarun-lite-bold-color-negro-para-hombre-pr-8129922",
+			"posicion": "7",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8129922-1.jpg",
+				"alt": "Tenis Puma Anzarun Lite Bold color Negro para Hombre"
+			},
+			"texto": {
+				"titulo": "Tenis Puma Anzarun Lite Bold color Negro para Hombre",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,399",
+				"precioActual": "$980",
+				"precioAnteriorSinSigno": "1399",
+				"precioActualSinSigno": "980"
+			}
+		},
+		{
+			"sku": "PR-8131552",
+			"url": "/tenis-puma-anzarun-lite-color-gris-para-mujer-pr-8131552",
+			"posicion": "8",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8131552-1.jpg",
+				"alt": "Tenis Puma Anzarun Lite color Gris para Mujer"
+			},
+			"texto": {
+				"titulo": "Tenis Puma Anzarun Lite color Gris para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,399",
+				"precioActual": "$980",
+				"precioAnteriorSinSigno": "1399",
+				"precioActualSinSigno": "980"
+			}
+		},
+		{
+			"sku": "PR-8153262",
+			"url": "/taquetes-verdes-marca-pirma-juveniles-pr-8153262",
+			"posicion": "9",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8153262-1.jpg",
+				"alt": "Taquetes Verdes marca Pirma Juveniles"
+			},
+			"texto": {
+				"titulo": "Taquetes Verdes marca Pirma Juveniles",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$579",
+				"precioActual": "$399",
+				"precioAnteriorSinSigno": "579",
+				"precioActualSinSigno": "399"
+			}
+		},
+		{
+			"sku": "PR-8062302",
+			"url": "/tenis-negros-marca-charly-para-mujer-pr-8062302",
+			"posicion": "10",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8062302-1.jpg",
+				"alt": "Tenis Negros marca Charly para Mujer"
+			},
+			"texto": {
+				"titulo": "Tenis Negros marca Charly para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$649",
+				"precioActual": "499",
+				"precioAnteriorSinSigno": "649",
+				"precioActualSinSigno": "499"
+			}
+		}
 	]
 }
