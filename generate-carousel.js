@@ -4,14 +4,7 @@ var fs = require('fs')
 let items = [
     '335280',
     '335975',
-    '334210',
-    '813713',
-    '814551',
-    '112377',
-    '130277',
-    '112053',
-    '812992',
-    '805127'
+    '334210'
 ]
 
 let json = {
@@ -22,6 +15,7 @@ let json = {
 }
 
 async function get () {
+    let itemsGeneral = []
     await puppeteer.launch({headless: true, args: ['--no-sandbox']}).then(async (browser) => {
     for (var i = 0; i < items.length; i++) {
         const page = await browser.newPage()
@@ -81,7 +75,7 @@ async function get () {
             item.precio.precioActual = precioAhora.trim()
             item.precio.precioSinFormato = precioAhora.trim().replace('$', '').replace(',', '')
             
-            json.items.push(item)
+            itemsGeneral.push(item)
 
         }catch(error) {
             console.log(error)
@@ -91,6 +85,8 @@ async function get () {
             await page.close()
         }
     }
+
+    json.items = itemsGeneral
     await browser.close()
     return 'procesados'
 })
