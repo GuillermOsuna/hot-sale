@@ -1,0 +1,196 @@
+{
+    "activo":true,
+    "titulo":"Moda Joven",
+    "items":[
+       {
+          "sku":"PR-3362772",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=336277",
+          "posicion":"1",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pr/3362772-1.jpg",
+             "alt":"Foto 1|Pantalón Skinny marca Oggi para Mujer"
+          },
+          "texto":{
+             "titulo":"Pantalón Skinny marca Oggi para Mujer",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$499",
+             "precioActual":"$350",
+             "precioAnteriorSinSigno":"499",
+             "precioActualSinSigno":"350"
+          }
+       },
+       {
+          "sku":"PM-7116913",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=711691",
+          "posicion":"2",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pm/7116913-1.jpg",
+             "alt":"Foto 1|Reloj Casio A168WG-9VT Dorado"
+          },
+          "texto":{
+             "titulo":"Reloj Casio A168WG-9VT Dorado",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$1,549",
+             "precioActual":"$1,169",
+             "precioAnteriorSinSigno":"1549",
+             "precioActualSinSigno":"1169"
+          }
+       },
+       {
+          "sku":"PR-1156152",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=115615",
+          "posicion":"3",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pr/1156152-1.jpg",
+             "alt":"Foto 1|Chamarra color Azul marca OGGI para Hombre"
+          },
+          "texto":{
+             "titulo":"Chamarra color Azul marca OGGI para Hombre",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$949",
+             "precioActual":"$665",
+             "precioAnteriorSinSigno":"949",
+             "precioActualSinSigno":"665"
+          }
+       },
+       {
+          "sku":"PM-9119093",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=911909",
+          "posicion":"4",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pm/9119093-1.jpg",
+             "alt":"Foto 1|Lentes de Sol Ray-Ban Aviador color Dorado"
+          },
+          "texto":{
+             "titulo":"Lentes de Sol Ray-Ban Aviador color Dorado",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$3,099",
+             "precioActual":"$2,629",
+             "precioAnteriorSinSigno":"3099",
+             "precioActualSinSigno":"2629"
+          }
+       },
+       {
+          "sku":"PR-8162162",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=816216",
+          "posicion":"5",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pr/8162162-1.jpg",
+             "alt":"Foto 1|Tenis Blancos marca 18 Forever para Mujer"
+          },
+          "texto":{
+             "titulo":"Tenis Blancos marca 18 Forever para Mujer",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$329",
+             "precioActual":"$264",
+             "precioAnteriorSinSigno":"329",
+             "precioActualSinSigno":"264"
+          }
+       },
+       {
+          "sku":"PM-7243013",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=724301",
+          "posicion":"6",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pm/7243013-1.jpg",
+             "alt":"Foto 1|Reloj Casio B640WC-5AVT Rose Gold"
+          },
+          "texto":{
+             "titulo":"Reloj Casio B640WC-5AVT Rose Gold",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$1,849",
+             "precioActual":"$1,579",
+             "precioAnteriorSinSigno":"1849",
+             "precioActualSinSigno":"1579"
+          }
+       },
+       {
+          "sku":"PR-8068542",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=806854",
+          "posicion":"7",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pr/8068542-1.jpg",
+             "alt":"Foto 1|Tenis Adidas VS Advantage K color Blanco Juveniles"
+          },
+          "texto":{
+             "titulo":"Tenis Adidas VS Advantage K color Blanco Juveniles",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$999",
+             "precioActual":"$600",
+             "precioAnteriorSinSigno":"999",
+             "precioActualSinSigno":"600"
+          }
+       },
+       {
+          "sku":"PM-8616693",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=861669",
+          "posicion":"8",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pm/8616693-1.jpg",
+             "alt":"Foto 1|Arracadas de Oro Berumen de 10 Quilates"
+          },
+          "texto":{
+             "titulo":"Arracadas de Oro Berumen de 10 Quilates",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$2,999",
+             "precioActual":"$2,699",
+             "precioAnteriorSinSigno":"2999",
+             "precioActualSinSigno":"2699"
+          }
+       },
+       {
+          "sku":"PR-3309532",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=330953",
+          "posicion":"9",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pr/3309532-1.jpg",
+             "alt":"Foto 1|Chamarra Blanca marca 18 Forever para Mujer"
+          },
+          "texto":{
+             "titulo":"Chamarra Blanca marca 18 Forever para Mujer",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$699",
+             "precioActual":"$449",
+             "precioAnteriorSinSigno":"699",
+             "precioActualSinSigno":"449"
+          }
+       },
+       {
+          "sku":"PM-7256333",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=725633",
+          "posicion":"10",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pm/7256333-1.jpg",
+             "alt":"Foto 1|Reloj Fossil ES4671 de Piel"
+          },
+          "texto":{
+             "titulo":"Reloj Fossil ES4671 de Piel",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$2,789",
+             "precioActual":"$1,949",
+             "precioAnteriorSinSigno":"2789",
+             "precioActualSinSigno":"1949"
+          }
+       }
+    ]
+ }

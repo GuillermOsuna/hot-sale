@@ -1,0 +1,196 @@
+{
+    "activo":true,
+    "titulo":"Bebés",
+    "items":[
+       {
+          "sku":"PR-5025772",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=502577",
+          "posicion":"1",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pr/5025772-1.jpg",
+             "alt":"Foto 1|Conjunto de Algodón marca Baby Colors para Bebé Niño"
+          },
+          "texto":{
+             "titulo":"Conjunto de Algodón marca Baby Colors para Bebé Niño",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$199",
+             "precioActual":"$160",
+             "precioAnteriorSinSigno":"199",
+             "precioActualSinSigno":"160"
+          }
+       },
+       {
+          "sku":"PM-8072813",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=807281",
+          "posicion":"2",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pm/8072813-1.jpg",
+             "alt":"Foto 1|Broqueles de Oro Baby Colors de 14 Quilates"
+          },
+          "texto":{
+             "titulo":"Broqueles de Oro Baby Colors de 14 Quilates",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$309",
+             "precioActual":"$269",
+             "precioAnteriorSinSigno":"309",
+             "precioActualSinSigno":"269"
+          }
+       },
+       {
+          "sku":"PR-8178472",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=817847",
+          "posicion":"3",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pr/8178472-1.jpg",
+             "alt":"Foto 1|Tenis Adidas Rapidarun color Rosa para Bebé Niña"
+          },
+          "texto":{
+             "titulo":"Tenis Adidas Rapidarun color Rosa para Bebé Niña",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$999",
+             "precioActual":"$600",
+             "precioAnteriorSinSigno":"999",
+             "precioActualSinSigno":"600"
+          }
+       },
+       {
+          "sku":"PR-8178652",
+          "url":"https://www.coppel.com/tenis-adidas-hoops-mid-2-0-i-color-morado-para-bebe-nino-pr-8178652",
+          "posicion":"4",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pr/8178652-1.jpg",
+             "alt":"Foto 1|Tenis Adidas Hoops Mid 2.0 I color Morado para Bebé Niño"
+          },
+          "texto":{
+             "titulo":"Tenis Adidas Hoops Mid 2.0 I color Morado para Bebé Niño",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$899",
+             "precioActual":"$540",
+             "precioAnteriorSinSigno":"899",
+             "precioActualSinSigno":"540"
+          }
+       },
+       {
+          "sku":"PM-8328713",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=832871",
+          "posicion":"5",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pm/8328713-1.jpg",
+             "alt":"Foto 1|Broqueles Sabelli de Oro 10 Quilates"
+          },
+          "texto":{
+             "titulo":"Broqueles Sabelli de Oro 10 Quilates",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$469",
+             "precioActual":"$419",
+             "precioAnteriorSinSigno":"469",
+             "precioActualSinSigno":"419"
+          }
+       },
+       {
+          "sku":"PM-8328553",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=832855",
+          "posicion":"6",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pm/8328553-1.jpg",
+             "alt":"Foto 1|Broqueles de Oro Sabelli de 10 Quilates"
+          },
+          "texto":{
+             "titulo":"Broqueles de Oro Sabelli de 10 Quilates",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$599",
+             "precioActual":"$539",
+             "precioAnteriorSinSigno":"599",
+             "precioActualSinSigno":"539"
+          }
+       },
+       {
+          "sku":"PR-7572002",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=757200",
+          "posicion":"7",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pr/7572002-1.jpg",
+             "alt":"Foto 1|Bloques de Construcción First Builders Mega Bloks con 80 Piezas"
+          },
+          "texto":{
+             "titulo":"Bloques de Construcción First Builders Mega Bloks con 80 Piezas",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$289",
+             "precioActual":"$203",
+             "precioAnteriorSinSigno":"289",
+             "precioActualSinSigno":"203"
+          }
+       },
+       {
+          "sku":"PM-8216593",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=821659",
+          "posicion":"8",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pm/8216593-1.jpg",
+             "alt":"Foto 1|Broqueles de Oro Sabelli de 10 Quilates"
+          },
+          "texto":{
+             "titulo":"Broqueles de Oro Sabelli de 10 Quilates",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$589",
+             "precioActual":"$529",
+             "precioAnteriorSinSigno":"589",
+             "precioActualSinSigno":"529"
+          }
+       },
+       {
+          "sku":"PR-5014982",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=501498",
+          "posicion":"9",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pr/5014982-1.jpg",
+             "alt":"Foto 1|Mameluco Rosa marca Bam-Bu para Bebé Niña"
+          },
+          "texto":{
+             "titulo":"Mameluco Rosa marca Bam-Bu para Bebé Niña",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$159",
+             "precioActual":"$128",
+             "precioAnteriorSinSigno":"159",
+             "precioActualSinSigno":"128"
+          }
+       },
+       {
+          "sku":"PM-8504213",
+          "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=850421",
+          "posicion":"10",
+          "image":{
+             "url":"https://cdn1.coppel.com/images/catalog/pm/8504213-1.jpg",
+             "alt":"Foto 1|Broqueles de Oro Baby Colors de 10 Quilates"
+          },
+          "texto":{
+             "titulo":"Broqueles de Oro Baby Colors de 10 Quilates",
+             "copyContado":"Precio contado"
+          },
+          "precio":{
+             "precioAnterior":"$439",
+             "precioActual":"$389",
+             "precioAnteriorSinSigno":"439",
+             "precioActualSinSigno":"389"
+          }
+       }
+    ]
+ }
