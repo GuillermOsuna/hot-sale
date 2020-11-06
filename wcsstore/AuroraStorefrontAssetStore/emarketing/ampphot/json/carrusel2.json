@@ -1,0 +1,225 @@
+{
+    "activo": true,
+    "titulo": "Bolsas, lentes y mochilas",
+    "items": [
+    {
+        "sku": "PM-9232733",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=923273",
+        "posicion": "1",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pm/9232733-1.jpg",
+            "alt": "Foto 1|Lentes de Sol Carrera 198/S"
+        },
+        "texto":
+        {
+            "titulo": "Lentes de Sol Carrera 198/S",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$3,099",
+            "precioActual": "$2,409",
+            "precioAnteriorSinSigno": "3099",
+            "precioActualSinSigno": "2409"
+        }
+    },
+    {
+        "sku": "PR-3210262",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=321026",
+        "posicion": "2",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/3210262-1.jpg",
+            "alt": "Foto 1|Bolsa de Mano marca Sahara color Negro para Mujer"
+        },
+        "texto":
+        {
+            "titulo": "Bolsa de Mano marca Sahara color Negro para Mujer",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$439",
+            "precioActual": "$352",
+            "precioAnteriorSinSigno": "439",
+            "precioActualSinSigno": "352"
+        }
+    },
+    {
+        "sku": "PM-9222693",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=922269",
+        "posicion": "3",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pm/9222693-1.jpg",
+            "alt": "Foto 1|Lentes de Sol Ray Ban Redondos Azules"
+        },
+        "texto":
+        {
+            "titulo": "Lentes de Sol Ray Ban Redondos Azules",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$3,199",
+            "precioActual": "$2,679",
+            "precioAnteriorSinSigno": "3199",
+            "precioActualSinSigno": "2679"
+        }
+    },
+    {
+        "sku": "PR-7174632",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=717463",
+        "posicion": "4",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/7174632-1.jpg",
+            "alt": "Foto 1|Mochila Disney Frozen para Niña"
+        },
+        "texto":
+        {
+            "titulo": "Mochila Disney Frozen para Niña",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$449",
+            "precioActual": "$360",
+            "precioAnteriorSinSigno": "449",
+            "precioActualSinSigno": "360"
+        }
+    },
+    {
+        "sku": "PR-3343712",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=334371",
+        "posicion": "5",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/3343712-1.jpg",
+            "alt": "Foto 1|Mochila marca Jennifer Lopez color Blanco para Mujer"
+        },
+        "texto":
+        {
+            "titulo": "Mochila marca Jennifer Lopez color Blanco para Mujer",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$399",
+            "precioActual": "$320",
+            "precioAnteriorSinSigno": "399",
+            "precioActualSinSigno": "320"
+        }
+    },
+    {
+        "sku": "PM-9206313",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=920631",
+        "posicion": "6",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pm/9206313-1.jpg",
+            "alt": "Foto 1|Lentes de Sol Fossil FOS 3075/S Azules"
+        },
+        "texto":
+        {
+            "titulo": "Lentes de Sol Fossil FOS 3075/S Azules",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,899",
+            "precioActual": "$1,479",
+            "precioAnteriorSinSigno": "1899",
+            "precioActualSinSigno": "1479"
+        }
+    },
+    {
+        "sku": "PR-7175292",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=717529",
+        "posicion": "7",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/7175292-1.jpg",
+            "alt": "Foto 1|Mochila Disney Buzz Light Year"
+        },
+        "texto":
+        {
+            "titulo": "Mochila Disney Buzz Light Year",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$449",
+            "precioActual": "$360",
+            "precioAnteriorSinSigno": "449",
+            "precioActualSinSigno": "360"
+        }
+    },
+    {
+        "sku": "PR-3085272",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=308527",
+        "posicion": "8",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/3085272-1.jpg",
+            "alt": "Foto 1|Bolsa Cruzada color Azul marca Bebe para Mujer"
+        },
+        "texto":
+        {
+            "titulo": "Bolsa Cruzada color Azul marca Bebe para Mujer",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$399",
+            "precioActual": "$179",
+            "precioAnteriorSinSigno": "399",
+            "precioActualSinSigno": "179"
+        }
+    },
+    {
+        "sku": "PM-9220313",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=922031",
+        "posicion": "9",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pm/9220313-1.jpg",
+            "alt": "Foto 1|Lentes de Sol Ralph Cat Eye color Café"
+        },
+        "texto":
+        {
+            "titulo": "Lentes de Sol Ralph Cat Eye color Café",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,699",
+            "precioActual": "$1,289",
+            "precioAnteriorSinSigno": "1699",
+            "precioActualSinSigno": "1289"
+        }
+    },
+    {
+        "sku": "PR-1709522",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=170952",
+        "posicion": "10",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/1709522-1.jpg",
+            "alt": "Foto 1|Messenger Café marca Wallstreet Collection para Hombre"
+        },
+        "texto":
+        {
+            "titulo": "Messenger Café marca Wallstreet Collection para Hombre",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$349",
+            "precioActual": "$280",
+            "precioAnteriorSinSigno": "349",
+            "precioActualSinSigno": "280"
+        }
+    }]
+}

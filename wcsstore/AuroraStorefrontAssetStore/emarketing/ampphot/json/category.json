@@ -1,0 +1,85 @@
+{
+    "titulo": "Categorías",
+    "items": [{
+            "text": "Pantallas",
+            "url": "/electronica/television-y-video/pantallas-led"
+        },
+        {
+            "text": "Calzado para mujer",
+            "url": "/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2040-EPMTPE-ZAPATODAMA-BUENFIN"
+        },
+        {
+            "text": "Tenis",
+            "url": "/SearchDisplay?categoryId=&storeId=13252&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=tenis+buen+fin"
+        },
+        {
+            "text": "Celulares",
+            "url": "/equipos-celulares"
+        },
+        {
+            "text": "Ropa para hombre",
+            "url": "/SearchDisplay?categoryId=&storeId=12761&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2046-EPMTPE-CABALLEROS-BUENFIN"
+        },
+        {
+            "text": "Colchones",
+            "url": "/colchones"
+        },
+        {
+            "text": "Línea blanca",
+            "url": "/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2040-BLQEHM-LINEABLANCA-HOMEBUENFIN"
+        },
+        {
+            "text": "Salas",
+            "url": "/hogar/salas/"
+        },
+        {
+            "text": "Videojuegos",
+            "url": "/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2042-EPMTPE-CONSOLAS-BUENFIN"
+        },
+        {
+            "text": "Juguetes",
+            "url": "/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2040-BLQEHM-JUGUETESRYM-BF"
+        },
+        {
+            "text": "Jeans",
+            "url": "/SearchDisplay?categoryId=&storeId=12761&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2046-EPMTPE-JEANSHYM-BUENFIN"
+        },
+        {
+            "text": "Ropa para mujer",
+            "url": "/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2040-EPMTPE-ROPADAMA-BUENFIN"
+        },
+        {
+            "text": "Todo para bebés",
+            "url": "/SearchDisplay?categoryId=&storeId=12758&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2040-SLDRHM-BEBES-BF"
+        },
+        {
+            "text": "Recámaras",
+            "url": "/recamara"
+        },
+        {
+            "text": "Comedores",
+            "url": "/hogar/comedores/"
+        },
+        {
+            "text": "Cuidado personal",
+            "url": "/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2040-EPMTPE-CUIDADOPERSONAL-BUENFIN"
+        },
+        {
+            "text": "Cocinas",
+            "url": "/hogar/muebles-para-cocinas/"
+        },
+        {
+            "text": "Electrodomésticos",
+            "url": "/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2040-EPMTPE-ELECTRODOMESTICOS-BUENFIN"
+        },
+        {
+            "text": "Motocicletas",
+            "url": "/motocicletas-motos"
+        },
+        {
+            "text": "Relojería",
+            "url": "/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=RB2040-BLQELD-JOYERIAYRELOJERIA-BF"
+        }
+
+    ]
+}

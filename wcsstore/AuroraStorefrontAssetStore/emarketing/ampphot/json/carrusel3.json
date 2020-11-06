@@ -1,0 +1,225 @@
+{
+    "activo": true,
+    "titulo": "Tenis para la familia",
+    "items": [
+    {
+        "sku": "PR-8197522",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=819752",
+        "posicion": "1",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/8197522-1.jpg",
+            "alt": "Foto 1|Tenis Nike Pico 5 color Azul para Niño"
+        },
+        "texto":
+        {
+            "titulo": "Tenis Nike Pico 5 color Azul para Niño",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$899",
+            "precioActual": "$699",
+            "precioAnteriorSinSigno": "899",
+            "precioActualSinSigno": "699"
+        }
+    },
+    {
+        "sku": "PR-8178682",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=817868",
+        "posicion": "2",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/8178682-1.jpg",
+            "alt": "Foto 1|Tenis Adidas Fortagym CF K color Rosa para Niña"
+        },
+        "texto":
+        {
+            "titulo": "Tenis Adidas Fortagym CF K color Rosa para Niña",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,099",
+            "precioActual": "$660",
+            "precioAnteriorSinSigno": "1099",
+            "precioActualSinSigno": "660"
+        }
+    },
+    {
+        "sku": "PR-8190082",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=819008",
+        "posicion": "3",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/8190082-1.jpg",
+            "alt": "Foto 1|Tenis Nike Foundation Elite TR2 color Negro para Mujer"
+        },
+        "texto":
+        {
+            "titulo": "Tenis Nike Foundation Elite TR2 color Negro para Mujer",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,549",
+            "precioActual": "$1,199",
+            "precioAnteriorSinSigno": "1549",
+            "precioActualSinSigno": "1199"
+        }
+    },
+    {
+        "sku": "PR-8184202",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=818420",
+        "posicion": "4",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/8184202-1.jpg",
+            "alt": "Foto 1|Tenis Puma Carina Metallic color Plata para Mujer"
+        },
+        "texto":
+        {
+            "titulo": "Tenis Puma Carina Metallic color Plata para Mujer",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,699",
+            "precioActual": "$1,190",
+            "precioAnteriorSinSigno": "1699",
+            "precioActualSinSigno": "1190"
+        }
+    },
+    {
+        "sku": "PR-8190122",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=819012",
+        "posicion": "5",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/8190122-1.jpg",
+            "alt": "Foto 1|Tenis Nike Retaliation Trainer 2 color Negro para Hombre"
+        },
+        "texto":
+        {
+            "titulo": "Tenis Nike Retaliation Trainer 2 color Negro para Hombre",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,649",
+            "precioActual": "$1,320",
+            "precioAnteriorSinSigno": "1649",
+            "precioActualSinSigno": "1320"
+        }
+    },
+    {
+        "sku": "PR-8131412",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=813141",
+        "posicion": "6",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/8131412-1.jpg",
+            "alt": "Foto 1|Tenis Puma Electron Street color Rosa para Mujer"
+        },
+        "texto":
+        {
+            "titulo": "Tenis Puma Electron Street color Rosa para Mujer",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,699",
+            "precioActual": "$1,190",
+            "precioAnteriorSinSigno": "1699",
+            "precioActualSinSigno": "1190"
+        }
+    },
+    {
+        "sku": "PR-8190092",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=819009",
+        "posicion": "7",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/8190092-1.jpg",
+            "alt": "Foto 1|Tenis Nike Quest color Negro para Hombre"
+        },
+        "texto":
+        {
+            "titulo": "Tenis Nike Quest color Negro para Hombre",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,599",
+            "precioActual": "$1,280",
+            "precioAnteriorSinSigno": "1599",
+            "precioActualSinSigno": "1280"
+        }
+    },
+    {
+        "sku": "PR-8199412",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=819941",
+        "posicion": "8",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/8199412-1.jpg",
+            "alt": "Foto 1|Tenis Puma Smash V2 L Juvenil color Blanco"
+        },
+        "texto":
+        {
+            "titulo": "Tenis Puma Smash V2 L Juvenil color Blanco",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,199",
+            "precioActual": "$840",
+            "precioAnteriorSinSigno": "1199",
+            "precioActualSinSigno": "840"
+        }
+    },
+    {
+        "sku": "PR-8184192",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=818419",
+        "posicion": "9",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/8184192-1.jpg",
+            "alt": "Foto 1|Tenis Puma Nuage Run Metallic color Rosa para Mujer"
+        },
+        "texto":
+        {
+            "titulo": "Tenis Puma Nuage Run Metallic color Rosa para Mujer",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,599",
+            "precioActual": "$1,120",
+            "precioAnteriorSinSigno": "1599",
+            "precioActualSinSigno": "1120"
+        }
+    },
+    {
+        "sku": "PR-8199392",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=819939",
+        "posicion": "10",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/8199392-1.jpg",
+            "alt": "Foto 1|Tenis Puma Retaliate color Rojo para Hombre"
+        },
+        "texto":
+        {
+            "titulo": "Tenis Puma Retaliate color Rojo para Hombre",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,699",
+            "precioActual": "$1,190",
+            "precioAnteriorSinSigno": "1699",
+            "precioActualSinSigno": "1190"
+        }
+    }]
+}

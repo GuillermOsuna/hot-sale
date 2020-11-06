@@ -1,0 +1,225 @@
+{
+    "activo": true,
+    "titulo": "Perfumes y Cuidado Personal",
+    "items": [
+    {
+        "sku": "PR-7406722",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=740672",
+        "posicion": "1",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/7406722-1.jpg",
+            "alt": "Foto 1|Versace - Eros"
+        },
+        "texto":
+        {
+            "titulo": "Versace - Eros",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,449",
+            "precioActual": "$1,015",
+            "precioAnteriorSinSigno": "1449",
+            "precioActualSinSigno": "1015"
+        }
+    },
+    {
+        "sku": "PM-1690133",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=169013",
+        "posicion": "2",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pm/1690133-1.jpg",
+            "alt": "Foto 1|Depiladora Philips Lumea IPL SC1997/50"
+        },
+        "texto":
+        {
+            "titulo": "Depiladora Philips Lumea IPL SC1997/50",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$8,599",
+            "precioActual": "$6,849",
+            "precioAnteriorSinSigno": "8599",
+            "precioActualSinSigno": "6849"
+        }
+    },
+    {
+        "sku": "PR-7038232",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=703823",
+        "posicion": "3",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/7038232-1.jpg",
+            "alt": "Foto 1|Lacoste - L.12.12 Pour Elle Sparkling"
+        },
+        "texto":
+        {
+            "titulo": "Lacoste - L.12.12 Pour Elle Sparkling",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,199",
+            "precioActual": "$840",
+            "precioAnteriorSinSigno": "1199",
+            "precioActualSinSigno": "840"
+        }
+    },
+    {
+        "sku": "PM-1557643",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=155764",
+        "posicion": "4",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pm/1557643-1.jpg",
+            "alt": "Foto 1|Combo Secadora y Alaciadora Remington D3015-S1520-C"
+        },
+        "texto":
+        {
+            "titulo": "Combo Secadora y Alaciadora Remington D3015-S1520-C",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,299",
+            "precioActual": "$779",
+            "precioAnteriorSinSigno": "1299",
+            "precioActualSinSigno": "779"
+        }
+    },
+    {
+        "sku": "PR-7249502",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=724950",
+        "posicion": "5",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/7249502-1.jpg",
+            "alt": "Foto 1|Lacoste - White"
+        },
+        "texto":
+        {
+            "titulo": "Lacoste - White",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,399",
+            "precioActual": "$980",
+            "precioAnteriorSinSigno": "1399",
+            "precioActualSinSigno": "980"
+        }
+    },
+    {
+        "sku": "PM-1333373",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=133337",
+        "posicion": "6",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pm/1333373-1.jpg",
+            "alt": "Foto 1|Alaciadora Remington S-9600 de 235 °C"
+        },
+        "texto":
+        {
+            "titulo": "Alaciadora Remington S-9600 de 235 °C",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$949",
+            "precioActual": "$569",
+            "precioAnteriorSinSigno": "949",
+            "precioActualSinSigno": "569"
+        }
+    },
+    {
+        "sku": "PR-7090552",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=709055",
+        "posicion": "7",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/7090552-1.jpg",
+            "alt": "Foto 1|Versace - Bright Crystal Absolu"
+        },
+        "texto":
+        {
+            "titulo": "Versace - Bright Crystal Absolu",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$1,399",
+            "precioActual": "$980",
+            "precioAnteriorSinSigno": "1399",
+            "precioActualSinSigno": "980"
+        }
+    },
+     {
+        "sku": "PM-1683273",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=1683273",
+        "posicion": "8",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pm/1683273-1.jpg",
+            "alt": "Foto 1|Depiladora Flawless 35"
+        },
+        "texto":
+        {
+            "titulo": "Depiladora Flawless 35",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$599",
+            "precioActual": "$539",
+            "precioAnteriorSinSigno": "599",
+            "precioActualSinSigno": "539"
+        }
+    },
+    {
+        "sku": "PR-7758382",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=775838",
+        "posicion": "9",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pr/7758382-1.jpg",
+            "alt": "Foto 1|Nautica - Voyage"
+        },
+        "texto":
+        {
+            "titulo": "Nautica - Voyage",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$759",
+            "precioActual": "$532",
+            "precioAnteriorSinSigno": "759",
+            "precioActualSinSigno": "532"
+        }
+    },
+    {
+        "sku": "PM-1682383",
+        "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=168238",
+        "posicion": "10",
+        "image":
+        {
+            "url": "https://cdn1.coppel.com/images/catalog/pm/1682383-1.jpg",
+            "alt": "Foto 1|Removedor de Vello para Cejas Flawless Brows"
+        },
+        "texto":
+        {
+            "titulo": "Removedor de Vello para Cejas Flawless Brows",
+            "copyContado": "Precio contado"
+        },
+        "precio":
+        {
+            "precioAnterior": "$599",
+            "precioActual": "$539",
+            "precioAnteriorSinSigno": "599",
+            "precioActualSinSigno": "539"
+        }
+    }]
+}
