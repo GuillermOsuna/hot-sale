@@ -1188,6 +1188,16 @@
             "mainText": {
                 "style": {
                     "textAlign": "center; display: none;"
+                },
+                "sm": {
+                    "style": {
+                        "textAlign": "center; display: none;"
+                    }
+                },
+                "xs": {
+                    "style": {
+                        "textAlign": "center; display: none;"
+                    }
                 }
             }
         },
