@@ -1,186 +1,196 @@
 {
 	"activo": true,
-	"titulo": "¿Qué vas a estrenar hoy?",
-	"items": [
+	"titulo": "Regalos para Mama",
+	"items": [{
+			"sku": "PR-3362262",
+			"url": "/pantalon-skinny-marca-sahara-woman-para-mujer-pr-3362262",
+			"posicion": "1",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3362262-1.jpg",
+				"alt": "Pantalón Skinny marca Sahara Woman para Mujer"
+			},
+			"texto": {
+				"titulo": "Pantalón Skinny marca Sahara Woman para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$399",
+				"precioActual": "$320",
+				"precioAnteriorSinSigno": "399",
+				"precioActualSinSigno": "320"
+			}
+		},
 		{
-            "index": "1",
-            "sku": "PR-509716",
-            "url": "https://www.coppel.com/conjunto-color-verde-marca-grafito-baby-para-bebe-nina-pr-5097162",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/5097162-1.jpg",
-                "alt": "Conjunto color Verde marca Grafito Baby para Bebé Niña"
-            },
-            "texto": {
-                "titulo": "Conjunto color Verde marca Grafito Baby para Bebé Niña",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$159",
-                "precioActual": "$112",
-                "precioSinFormato": "112"
-            }
-        },
+			"sku": "PM-7321923",
+			"url": "/reloj-citizen-61363-dorado-pm-7321923",
+			"posicion": "2",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/7321923-1.jpg",
+				"alt": "Reloj Citizen 61363 Dorado"
+			},
+			"texto": {
+				"titulo": "Reloj Citizen 61363 Dorado",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$2,999",
+				"precioActual": "$1,769",
+				"precioAnteriorSinSigno": "2,999",
+				"precioActualSinSigno": "1769"
+			}
+		},
 		{
-            "index": "2",
-            "sku": "PR-633852",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=633852",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/6338523-1.jpg",
-                "alt": "Foto 1|Minisplit On Off Midea Frío MAS12C1ASC 110V 1t"
-            },
-            "texto": {
-                "titulo": "Minisplit On Off Midea Frío MAS12C1ASC 110V 1t",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$6,499",
-                "precioActual": "$4,599",
-                "precioSinFormato": "4599"
-            }
-        },
-        {
-            "index": "3",
-            "sku": "PR-801691",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=801691",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/8016912-1.jpg",
-                "alt": "Foto 1|Sandalias Rosas marca Coqueta para Niña"
-            },
-            "texto": {
-                "titulo": "Sandalias Rosas marca Coqueta para Niña",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$379",
-                "precioActual": "$304",
-                "precioSinFormato": "304"
-            }
-        },
-        {
-            "index": "4",
-            "sku": "PR-221764",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=221764",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/2217643-1.jpg",
-                "alt": "Foto 1|Pantalla LED Samsung 58&#034; Ultra HD 4K Smart TV UN58RU7100FXZX"
-            },
-            "texto": {
-                "titulo": "Pantalla LED Samsung 58\" Ultra HD 4K Smart TV UN58RU7100FXZX",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$21,999",
-                "precioActual": "$12,499",
-                "precioSinFormato": "12499"
-            }
-        },
-        {
-            "index": "5",
-            "sku": "PR-500616",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=500616",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/5006162-1.jpg",
-                "alt": "Foto 1|Conjunto marca Baby Colors para Bebé Niño"
-            },
-            "texto": {
-                "titulo": "Conjunto marca Baby Colors para Bebé Niño",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$149",
-                "precioActual": "$105",
-                "precioSinFormato": "105"
-            }
-        },
-        {
-            "index": "6",
-            "sku": "PR-106666",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=106666",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/1066663-1.jpg",
-                "alt": "Foto 1|Batería de Cocina T-Fal A730SA74/ 75 13PZ con 13 Piezas"
-            },
-            "texto": {
-                "titulo": "Batería de Cocina T-Fal A730SA74/ 75 13PZ con 13 Piezas",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$2,699",
-                "precioActual": "$1,839",
-                "precioSinFormato": "1839"
-            }
-        },
-        {
-            "index": "7",
-            "sku": "PR-813960",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=813960",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/8139602-1.jpg",
-                "alt": "Foto 1|Tenis Azules marca Marvel para Niño"
-            },
-            "texto": {
-                "titulo": "Tenis Azules marca Marvel para Niño",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$619",
-                "precioActual": "$496",
-                "precioSinFormato": "496"
-            }
-        },
-        {
-            "index": "8",
-            "sku": "PR-541427",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=541427",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/5414273-1.jpg",
-                "alt": "Foto 1|Sistema de Viaje Prinsel Alfa 5039 Azul"
-            },
-            "texto": {
-                "titulo": "Sistema de Viaje Prinsel Alfa 5039 Azul",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$3,699",
-                "precioActual": "$3,099",
-                "precioSinFormato": "3099"
-            }
-        },
-        {
-            "index": "9",
-            "sku": "PR-716219",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=716219",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pr/7162192-1.jpg",
-                "alt": "Foto 1|Woody Animatrónico Toy Story 4"
-            },
-            "texto": {
-                "titulo": "Woody Animatrónico Toy Story 4",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$2,399",
-                "precioActual": "$1,799",
-                "precioSinFormato": "1799"
-            }
-        },
-        {
-            "index": "10",
-            "sku": "PR-924733",
-            "url": "https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=924733",
-            "image": {
-                "url": "https://cdn1.coppel.com/images/catalog/pm/9247333-1.jpg",
-                "alt": "Foto 1|Aparato Auditivo Micro-Ear"
-            },
-            "texto": {
-                "titulo": "Aparato Auditivo Micro-Ear",
-                "copyContado": "Precio contado"
-            },
-            "precio": {
-                "precioAnterior": "$3,499",
-                "precioActual": "$2,999",
-                "precioSinFormato": "2999"
-            }
-        }		
+			"sku": "PR-3116182",
+			"url": "/bolsa-de-mano-color-cafe-marca-sahara-woman-para-mujer-pr-3116182",
+			"posicion": "3",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3116182-1.jpg",
+				"alt": "Bolsa de Mano color Café marca Sahara Woman para Mujer"
+			},
+			"texto": {
+				"titulo": "Bolsa de Mano color Café marca Sahara Woman para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$449",
+				"precioActual": "$360",
+				"precioAnteriorSinSigno": "449",
+				"precioActualSinSigno": "360"
+			}
+		},
+		{
+			"sku": "PM-8670213",
+			"url": "/pulsera-de-oro-10k-berumen-pm-8670213",
+			"posicion": "4",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/8670213-1.jpg",
+				"alt": "Pulsera de Oro 10K Berumen"
+			},
+			"texto": {
+				"titulo": "Pulsera de Oro 10K Berumen",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$6,999",
+				"precioActual": "$6,509",
+				"precioAnteriorSinSigno": "6999",
+				"precioActualSinSigno": "6509"
+			}
+		},
+		{
+			"sku": "PR-8139852",
+			"url": "/zapatos-marca-18-forever-color-azul-para-mujer-pr-8139852",
+			"posicion": "5",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/8139852-1.jpg",
+				"alt": "Zapatos marca 18 Forever color Azul para Mujer"
+			},
+			"texto": {
+				"titulo": "Zapatos marca 18 Forever color Azul para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$299",
+				"precioActual": "$239",
+				"precioAnteriorSinSigno": "299",
+				"precioActualSinSigno": "239"
+			}
+		},
+		{
+			"sku": "PM-1528213",
+			"url": "/recortadora-philips-con-2-piezas-pm-1528213",
+			"posicion": "6",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/1528213-1.jpg",
+				"alt": "Recortadora Philips con 2 Piezas"
+			},
+			"texto": {
+				"titulo": "Recortadora Philips con 2 Piezas",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$659",
+				"precioActual": "$529",
+				"precioAnteriorSinSigno": "659",
+				"precioActualSinSigno": "529"
+			}
+		},
+		{
+			"sku": "PR-3340712",
+			"url": "/blusa-color-rojo-manga-corta-marca-sahara-woman-para-mujer-pr-3340712",
+			"posicion": "7",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3340712-1.jpg",
+				"alt": "Blusa color Rojo Manga Corta marca Sahara Woman para Mujer"
+			},
+			"texto": {
+				"titulo": "Blusa color Rojo Manga Corta marca Sahara Woman para Mujer",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$199",
+				"precioActual": "$160",
+				"precioAnteriorSinSigno": "199",
+				"precioActualSinSigno": "160"
+			}
+		},
+		{
+			"sku": "PM-9196593",
+			"url": "/lentes-de-sol-ray-ban-redondos-color-cafe-pm-9196593",
+			"posicion": "8",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/9196593-1.jpg",
+				"alt": "Lentes de Sol Ray Ban Redondos color Café"
+			},
+			"texto": {
+				"titulo": "Lentes de Sol Ray Ban Redondos color Café",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$3,199",
+				"precioActual": "$2,679",
+				"precioAnteriorSinSigno": "3199",
+				"precioActualSinSigno": "2679"
+			}
+		},
+		{
+			"sku": "PR-3170882",
+			"url": "/pantalon-de-maternidad-negro-marca-mama-bella-pr-3170882",
+			"posicion": "9",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pr/3170882-1.jpg",
+				"alt": "Pantalón de Maternidad Negro marca Mamá Bella"
+			},
+			"texto": {
+				"titulo": "Pantalón de Maternidad Negro marca Mamá Bella",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$299",
+				"precioActual": "$240",
+				"precioAnteriorSinSigno": "299",
+				"precioActualSinSigno": "240"
+			}
+		},
+		{
+			"sku": "PM-1645513",
+			"url": "/depiladora-phillips-bre605-00-pm-1645513",
+			"posicion": "10",
+			"image": {
+				"url": "https://cdn1.coppel.com/images/catalog/pm/1645513-1.jpg",
+				"alt": "Depiladora Phillips BRE605/00"
+			},
+			"texto": {
+				"titulo": "Depiladora Phillips BRE605/00",
+				"copyContado": "Precio contado"
+			},
+			"precio": {
+				"precioAnterior": "$1,899",
+				"precioActual": "$1,599",
+				"precioAnteriorSinSigno": "1899",
+				"precioActualSinSigno": "1599"
+			}
+		}
+
 	]
 }

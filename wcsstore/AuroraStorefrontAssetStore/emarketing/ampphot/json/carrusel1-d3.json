@@ -1,0 +1,196 @@
+{
+   "activo":true,
+   "titulo":"Celulares",
+   "items":[
+      {
+         "sku":"PM-2291273",
+         "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=229127",
+         "posicion":"1",
+         "image":{
+            "url":"https://cdn1.coppel.com/images/catalog/pm/2291273-1.jpg",
+            "alt":"Foto 1|Celular Motorola Moto One Action 128 GB Blanco"
+         },
+         "texto":{
+            "titulo":"Celular Motorola Moto One Action 128 GB Blanco",
+            "copyContado":"Precio contado"
+         },
+         "precio":{
+            "precioAnterior":"$8,999",
+            "precioActual":"$4,999",
+            "precioAnteriorSinSigno":"8999",
+            "precioActualSinSigno":"4999"
+         }
+      },
+      {
+         "sku":"PM-2480673",
+         "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=248067",
+         "posicion":"2",
+         "image":{
+            "url":"https://cdn1.coppel.com/images/catalog/pm/2480673-1.jpg",
+            "alt":"Foto 1|Movistar Huawei Y9S 128 GB Azul"
+         },
+         "texto":{
+            "titulo":"Movistar Huawei Y9S 128 GB Azul",
+            "copyContado":"Precio contado"
+         },
+         "precio":{
+            "precioAnterior":"$6,999",
+            "precioActual":"$6,599",
+            "precioAnteriorSinSigno":"6999",
+            "precioActualSinSigno":"6599"
+         }
+      },
+      {
+         "sku":"PM-2291373",
+         "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=229137",
+         "posicion":"3",
+         "image":{
+            "url":"https://cdn1.coppel.com/images/catalog/pm/2291373-1.jpg",
+            "alt":"Foto 1|Celular Motorola Moto One Action 128 GB Gris"
+         },
+         "texto":{
+            "titulo":"Celular Motorola Moto One Action 128 GB Gris",
+            "copyContado":"Precio contado"
+         },
+         "precio":{
+            "precioAnterior":"$8,999",
+            "precioActual":"$4,999",
+            "precioAnteriorSinSigno":"8999",
+            "precioActualSinSigno":"4999"
+         }
+      },
+      {
+         "sku":"PM-2481073",
+         "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=248107",
+         "posicion":"4",
+         "image":{
+            "url":"https://cdn1.coppel.com/images/catalog/pm/2481073-1.jpg",
+            "alt":"Foto 1|Movistar Huawei P30 Lite 256 GB Morado"
+         },
+         "texto":{
+            "titulo":"Movistar Huawei P30 Lite 256 GB Morado",
+            "copyContado":"Precio contado"
+         },
+         "precio":{
+            "precioAnterior":"$7,999",
+            "precioActual":"$6,999",
+            "precioAnteriorSinSigno":"7999",
+            "precioActualSinSigno":"6999"
+         }
+      },
+      {
+         "sku":"PM-2418543",
+         "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=241854",
+         "posicion":"5",
+         "image":{
+            "url":"https://cdn1.coppel.com/images/catalog/pm/2418543-1.jpg",
+            "alt":"Foto 1|Celular Motorola One Hyper 128 GB Azul Iceberg"
+         },
+         "texto":{
+            "titulo":"Celular Motorola One Hyper 128 GB Azul Iceberg",
+            "copyContado":"Precio contado"
+         },
+         "precio":{
+            "precioAnterior":"$8,999",
+            "precioActual":"$7,499",
+            "precioAnteriorSinSigno":"8999",
+            "precioActualSinSigno":"7499"
+         }
+      },
+      {
+         "sku":"PM-2738023",
+         "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=273802",
+         "posicion":"6",
+         "image":{
+            "url":"https://cdn1.coppel.com/images/catalog/pm/2738023-1.jpg",
+            "alt":"Foto 1|Movistar Huawei Y8S 64 GB Verde"
+         },
+         "texto":{
+            "titulo":"Movistar Huawei Y8S 64 GB Verde",
+            "copyContado":"Precio contado"
+         },
+         "precio":{
+            "precioAnterior":"$5,799",
+            "precioActual":"$5,299",
+            "precioAnteriorSinSigno":"5799",
+            "precioActualSinSigno":"5299"
+         }
+      },
+      {
+         "sku":"PM-2413313",
+         "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=241331",
+         "posicion":"7",
+         "image":{
+            "url":"https://cdn1.coppel.com/images/catalog/pm/2413313-1.jpg",
+            "alt":"Foto 1|AT&T/Unefon Motorola Moto G8 Plus 64 GB Rojo"
+         },
+         "texto":{
+            "titulo":"AT&T/Unefon Motorola Moto G8 Plus 64 GB Rojo",
+            "copyContado":"Precio contado"
+         },
+         "precio":{
+            "precioAnterior":"$6,499",
+            "precioActual":"$5,999",
+            "precioAnteriorSinSigno":"6499",
+            "precioActualSinSigno":"5999"
+         }
+      },
+      {
+         "sku":"PM-2664993",
+         "url":"https://www.coppel.com/celulares/equipos-celulares/movistar/movistar-huawei-y7p-64-gb-azul-twilight-pm-2664993",
+         "posicion":"8",
+         "image":{
+            "url":"https://cdn1.coppel.com/images/catalog/pm/2664993-1.jpg",
+            "alt":"Foto 1|Movistar Huawei Y7P 64 GB Azul Twilight"
+         },
+         "texto":{
+            "titulo":"Movistar Huawei Y7P 64 GB Azul Twilight",
+            "copyContado":"Precio contado"
+         },
+         "precio":{
+            "precioAnterior":"$5,499",
+            "precioActual":"$4,899",
+            "precioAnteriorSinSigno":"5499",
+            "precioActualSinSigno":"4899"
+         }
+      },
+      {
+         "sku":"PM-2043123",
+         "url":"https://www.coppel.com/SearchDisplay?categoryId=&storeId=12756&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=204312",
+         "posicion":"9",
+         "image":{
+            "url":"https://cdn1.coppel.com/images/catalog/pm/2043123-1.jpg",
+            "alt":"Foto 1|AT&T/Unefon Motorola Moto E5 Play 16 GB Negro"
+         },
+         "texto":{
+            "titulo":"AT&T/Unefon Motorola Moto E5 Play 16 GB Negro",
+            "copyContado":"Precio contado"
+         },
+         "precio":{
+            "precioAnterior":"$2,999",
+            "precioActual":"$2,299",
+            "precioAnteriorSinSigno":"2999",
+            "precioActualSinSigno":"2299"
+         }
+      },
+      {
+         "sku":"PM-2363623",
+         "url":"https://www.coppel.com/atandt-unefon-motorola-moto-e6-plus-32-gb-tinto-pm-2363623",
+         "posicion":"10",
+         "image":{
+            "url":"https://cdn1.coppel.com/images/catalog/pm/2363623-1.jpg",
+            "alt":"Foto 1|AT&T/Unefon Motorola Moto E6 Plus 32 GB Tinto"
+         },
+         "texto":{
+            "titulo":"AT&T/Unefon Motorola Moto E6 Plus 32 GB Tinto",
+            "copyContado":"Precio contado"
+         },
+         "precio":{
+            "precioAnterior":"$3,699",
+            "precioActual":"$3,299",
+            "precioAnteriorSinSigno":"3699",
+            "precioActualSinSigno":"3299"
+         }
+      }
+   ]
+}
