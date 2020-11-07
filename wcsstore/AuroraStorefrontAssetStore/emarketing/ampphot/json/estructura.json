@@ -1044,7 +1044,7 @@
                 },
                 "xs": {
                     "style": {
-                        "textAlign": "center; font-size: 12px; padding: 10px 1px 27px 1px"
+                        "textAlign": "center; font-size: 12px;"
                     }
                 }
             }
